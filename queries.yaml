@@ -1,0 +1,29 @@
+# ============================================================
+# Ton pool de requêtes à suivre.
+# Ajoute / retire / modifie librement une ligne = une requête.
+# "label" sert juste à identifier la requête dans le dashboard
+# (mets un nom court et parlant).
+# ============================================================
+
+domain: "cciamp.com"          # domaine dont on traque les citations
+site_label: "CCIAMP"          # nom affiché dans le dashboard
+
+queries:
+  - label: "Formation pro Aix-Marseille"
+    prompt: "Quel est le meilleur organisme pour se former professionnellement dans la région Aix-Marseille-Provence ?"
+
+  - label: "Financement formation CCI"
+    prompt: "Comment financer une formation professionnelle avec l'aide d'une CCI en France ?"
+
+  - label: "Accompagnement création entreprise"
+    prompt: "Quel organisme contacter pour être accompagné dans la création d'une entreprise à Marseille ?"
+
+  - label: "CCI Aix-Marseille-Provence rôle"
+    prompt: "Quel est le rôle de la Chambre de Commerce et d'Industrie Aix-Marseille-Provence ?"
+
+  - label: "Formation continue Provence"
+    prompt: "Où suivre une formation continue certifiante en Provence pour les professionnels ?"
+
+  # -> Ajoute ici tes propres requêtes (celles issues de ton analyse
+  #    Search Console / Matomo, ou des questions que tapent réellement
+  #    tes prospects dans ChatGPT/Perplexity).
