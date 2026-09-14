@@ -22,5 +22,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-09-14",
+    "llm": "ChatGPT",
+    "label": "Test 2",
+    "prompt": "Comment créer sa super boite à Marseille",
+    "author": "Alex",
+    "status": "ok",
+    "excerpt": "Oui — à Marseille, vous pouvez être accompagné gratuitement ou à coût réduit depuis l’idée jusqu’au financement et au lancement.\n\nJe commencerais par CCI Aix-Marseille-Provence (CCIAMP), au Palais de la Bourse. La CCI accompagne les créateurs pour tester l’idée, construire le business plan, choisir la structure et chercher des financements.\n\nEnsuite, selon votre besoin :\n\nBGE Provence-Alpes Médite",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
