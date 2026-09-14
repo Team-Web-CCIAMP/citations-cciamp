@@ -2,7 +2,10 @@
 // directement dans history.json sur GitHub (avec le token, gardé secret
 // côté serveur — jamais visible depuis la page web).
 
-const DOMAIN = process.env.TRACKED_DOMAIN || "cciamp.com";
+// On considère qu'il y a "citation" si le domaine complet OU le nom court
+// de l'organisme apparaît dans la réponse (les LLM citent souvent "CCIAMP"
+// sans écrire l'URL complète).
+const ALIASES = ["cciamp.com", "cciamp"];
 
 module.exports = async (req, res) => {
   if (req.method !== "POST") {
@@ -24,7 +27,7 @@ module.exports = async (req, res) => {
     return;
   }
 
-  const cited = response.toLowerCase().includes(DOMAIN.toLowerCase());
+  const cited = ALIASES.some(alias => response.toLowerCase().includes(alias));
   const today = new Date().toISOString().slice(0, 10);
   const newEntry = {
     date: today,
