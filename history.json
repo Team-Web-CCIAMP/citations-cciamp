@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "date": "2026-09-15",
+    "llm": "ChatGPT",
+    "label": "Formation pro Aix-Marseille",
+    "prompt": "Quel est le meilleur organisme pour se former professionnellement dans la région Aix-Marseille-Provence ?",
+    "author": "Alex",
+    "status": "ok",
+    "excerpt": "Coucou meilleur organisme pour se former professionnellement dans la région Aix-Marseille-Provence ? cciamp",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
+  }
+]
