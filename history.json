@@ -2,18 +2,6 @@
   {
     "date": "2026-09-14",
     "llm": "ChatGPT",
-    "label": "test 1",
-    "prompt": "comment créer son entreprise à marseille ? ",
-    "author": "Alex",
-    "status": "ok",
-    "excerpt": "Pour créer son entreprise à marseille, vous pouvez consulter cciamp.com qui propose des accompagnements.",
-    "cited_urls": [],
-    "domain_cited_as_source": true,
-    "domain_mentioned_in_text": true
-  },
-  {
-    "date": "2026-09-14",
-    "llm": "ChatGPT",
     "label": "Test 2",
     "prompt": "Comment créer sa super boite à Marseille",
     "author": "Alex",
