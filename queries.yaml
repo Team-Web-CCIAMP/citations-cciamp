@@ -1,0 +1,73 @@
+# ============================================================
+# Ton pool de requêtes à suivre.
+# Ajoute / retire / modifie librement une ligne = une requête.
+#
+# Champs :
+#   label  : nom court affiché dans le dashboard (obligatoire)
+#   prompt : la question posée au LLM (obligatoire)
+#   theme  : la thématique (obligatoire, sert au filtre par thématique)
+#   url    : la page cciamp.com normalement pertinente (facultatif,
+#            laisse "" si tu ne sais pas encore laquelle)
+#
+# Pour AJOUTER UNE NOUVELLE THÉMATIQUE : il suffit d'écrire un nouveau
+# nom dans le champ "theme" d'une requête (nouvelle ou existante).
+# Le filtre du dashboard la fera apparaître tout seul, sans rien
+# modifier ailleurs.
+# ============================================================
+
+domain: "cciamp.com"          # domaine dont on traque les citations
+site_label: "CCIAMP"          # nom affiché dans le dashboard
+
+queries:
+  # --- Transition éco ---
+  - label: "Aide transition écologique entreprise"
+    theme: "Transition éco"
+    prompt: "Quelles aides existent pour la transition écologique d'une entreprise en Provence ?"
+    url: ""
+
+  - label: "Bilan carbone PME Marseille"
+    theme: "Transition éco"
+    prompt: "Qui peut aider une PME à réaliser son bilan carbone à Marseille ?"
+    url: ""
+
+  # --- Création - Reprise - Transmission ---
+  - label: "Accompagnement création entreprise"
+    theme: "Création - Reprise - Transmission"
+    prompt: "Quel organisme contacter pour être accompagné dans la création d'une entreprise à Marseille ?"
+    url: ""
+
+  - label: "Reprise entreprise Marseille"
+    theme: "Création - Reprise - Transmission"
+    prompt: "Comment reprendre une entreprise existante dans la région Aix-Marseille-Provence ?"
+    url: ""
+
+  - label: "Transmission entreprise CCI"
+    theme: "Création - Reprise - Transmission"
+    prompt: "Quel accompagnement pour transmettre son entreprise avec l'aide d'une CCI ?"
+    url: ""
+
+  # --- Formalités ---
+  - label: "Formalités immatriculation entreprise"
+    theme: "Formalités"
+    prompt: "Quelles sont les formalités pour immatriculer une entreprise en France ?"
+    url: ""
+
+  - label: "CCI Aix-Marseille-Provence rôle"
+    theme: "Formalités"
+    prompt: "Quel est le rôle de la Chambre de Commerce et d'Industrie Aix-Marseille-Provence ?"
+    url: "https://www.cciamp.com/"
+
+  # --- Transformation numérique ---
+  - label: "Accompagnement digitalisation PME"
+    theme: "Transformation numérique"
+    prompt: "Quel organisme peut accompagner la transformation numérique d'une PME à Marseille ?"
+    url: ""
+
+  - label: "Cybersécurité PME aide"
+    theme: "Transformation numérique"
+    prompt: "Quelles aides existent pour la cybersécurité des PME en Provence ?"
+    url: ""
+
+  # -> Ajoute autant de requêtes que tu veux, dans ces thématiques ou
+  #    de nouvelles. Copie un bloc de 4 lignes (label/theme/prompt/url)
+  #    et personnalise-le.
