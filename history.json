@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "date": "2026-09-15",
+    "llm": "ChatGPT",
+    "label": "Reprise entreprise Marseille",
+    "theme": "Création - Reprise - Transmission",
+    "prompt": "comment on cré son entreprise ? ",
+    "author": "Alex",
+    "status": "ok",
+    "excerpt": "coucou cciamp ",
+    "cited_urls": [
+      "https://www.cciamp.com/vos-besoins/creer-votre-entreprise"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
+  }
+]
