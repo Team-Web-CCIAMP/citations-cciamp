@@ -1,0 +1,132 @@
+# ============================================================
+# Ton pool de requêtes à suivre.
+# Ajoute / retire / modifie librement une ligne = une requête.
+#
+# Champs :
+#   label  : nom court affiché dans le dashboard (obligatoire)
+#   prompt : la question posée au LLM (obligatoire)
+#   theme  : la thématique (obligatoire, sert au filtre par thématique)
+#   url    : la page cciamp.com normalement pertinente (facultatif,
+#            laisse "" si tu ne sais pas encore laquelle)
+#
+# Pour AJOUTER UNE NOUVELLE THÉMATIQUE : il suffit d'écrire un nouveau
+# nom dans le champ "theme" d'une requête (nouvelle ou existante).
+# Le filtre du dashboard la fera apparaître tout seul, sans rien
+# modifier ailleurs.
+# ============================================================
+
+domain: "cciamp.com"          # domaine dont on traque les citations
+site_label: "CCIAMP"          # nom affiché dans le dashboard
+
+queries:
+  # --- Création d'entreprise ---
+  - label: "Meilleurs organismes création entreprise"
+    theme: "Création d'entreprise"
+    prompt: "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence"
+    url: ""
+
+  - label: "Comment créer une entreprise"
+    theme: "Création d'entreprise"
+    prompt: "Comment créer une entreprise ?"
+    url: ""
+
+  # --- Reprise d'entreprise ---
+  - label: "Meilleurs organismes reprise entreprise"
+    theme: "Reprise d'entreprise"
+    prompt: "Quels sont les meilleurs organismes pour accompagner la reprise d'entreprise sur le territoire Aix Marseille Provence"
+    url: ""
+
+  - label: "Comment reprendre une entreprise"
+    theme: "Reprise d'entreprise"
+    prompt: "Comment reprendre une entreprise ?"
+    url: ""
+
+  # --- Transmission d'entreprise ---
+  - label: "Meilleurs organismes transmission entreprise"
+    theme: "Transmission d'entreprise"
+    prompt: "Quels sont les meilleurs organismes pour accompagner la transmission d'entreprise sur le territoire Aix Marseille Provence"
+    url: ""
+
+  - label: "Comment transmettre son entreprise"
+    theme: "Transmission d'entreprise"
+    prompt: "Comment transmettre son entreprise ?"
+    url: ""
+
+  # --- Formalités ---
+  - label: "Meilleurs organismes formalités entreprise"
+    theme: "Formalités"
+    prompt: "Quels sont les meilleurs organismes pour les formalités d'entreprise sur le territoire Aix-Marseille-Provence ?"
+    url: ""
+
+  - label: "Comment immatriculer une entreprise"
+    theme: "Formalités"
+    prompt: "Comment immatriculer une entreprise sur le territoire Aix-Marseille-Provence ?"
+    url: ""
+
+  # --- Transition eco ---
+  - label: "Meilleurs dispositifs transition écologique"
+    theme: "Transition eco"
+    prompt: "Quels sont les meilleurs dispositifs pour un accompagnement à la transition écologique d'une entreprise sur le territoire Aix-Marseille-Provence ?"
+    url: ""
+
+  - label: "Accompagnement décarbonation industrie"
+    theme: "Transition eco"
+    prompt: "Quel accompagnement pour la décarbonation d'une industrie sur le territoire Aix-Marseille-Provence ?"
+    url: ""
+
+  - label: "Financer la transition écologique"
+    theme: "Transition eco"
+    prompt: "Comment financer la transition écologique de mon entreprise ?"
+    url: ""
+
+  # --- Transformation numérique ---
+  - label: "Formations cybersécurité TPE"
+    theme: "Transformation numérique"
+    prompt: "Quelles sont les meilleures formations en cybersécurité pour les TPE sur le territoire Aix-Marseille-Provence ?"
+    url: ""
+
+  - label: "Accompagnement transition numérique"
+    theme: "Transformation numérique"
+    prompt: "Quel accompagnement pour la transition numérique en entreprise sur le territoire Aix-Marseille-Provence ?"
+    url: ""
+
+  - label: "Formations intelligence artificielle"
+    theme: "Transformation numérique"
+    prompt: "Quelles sont les meilleures formations en intelligence artificielle sur le territoire Aix-Marseille-Provence ?"
+    url: ""
+
+  # --- RH ---
+  - label: "Recruter un alternant (local)"
+    theme: "RH"
+    prompt: "Comment recruter un alternant sur le territoire Aix-Marseille-Provence ?"
+    url: ""
+
+  - label: "Diagnostic RH PME"
+    theme: "RH"
+    prompt: "Où faire un diagnostic RH pour ma PME sur le territoire Aix-Marseille-Provence ?"
+    url: ""
+
+  - label: "Recruter un alternant (générique)"
+    theme: "RH"
+    prompt: "Comment recruter un alternant ?"
+    url: ""
+
+  # --- Développer mon activité ---
+  - label: "Accompagnement développement commercial"
+    theme: "Développer mon activité"
+    prompt: "Quels sont les meilleurs accompagnements pour développer son activité commerciale sur le territoire Aix-Marseille-Provence ?"
+    url: ""
+
+  - label: "Formation techniques de vente"
+    theme: "Développer mon activité"
+    prompt: "Où suivre une formation en techniques de vente sur le territoire Aix-Marseille-Provence ?"
+    url: ""
+
+  - label: "Développer son réseau professionnel"
+    theme: "Développer mon activité"
+    prompt: "Comment développer son réseau professionnel en Provence ?"
+    url: ""
+
+  # -> Ajoute autant de requêtes que tu veux, dans ces thématiques ou
+  #    de nouvelles. Copie un bloc de 4 lignes (label/theme/prompt/url)
+  #    et personnalise-le.
