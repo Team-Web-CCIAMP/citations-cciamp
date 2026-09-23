@@ -1,0 +1,8 @@
+{
+  "crons": [
+    { "path": "/api/cron-gemini", "schedule": "0 7 * * 1" }
+  ],
+  "functions": {
+    "api/cron-gemini.js": { "maxDuration": 60 }
+  }
+}
