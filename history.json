@@ -1,18 +1,6 @@
 [
   {
     "date": "2026-09-23",
-    "llm": "Claude",
-    "label": "Comment reprendre une entreprise",
-    "theme": "Reprise d'entreprise",
-    "prompt": "Quels sont les meilleurs organismes pour les formalités d'entreprise sur le territoire Aix-Marseille-Provence ?",
-    "status": "ok",
-    "excerpt": "cciamp",
-    "cited_urls": [],
-    "domain_cited_as_source": true,
-    "domain_mentioned_in_text": true
-  },
-  {
-    "date": "2026-09-23",
     "llm": "ChatGPT",
     "label": "Meilleurs organismes transmission entreprise",
     "theme": "Transmission d'entreprise",
