@@ -1,0 +1,586 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Suivi citations IA — CCIAMP</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-yaml/4.1.0/js-yaml.min.js"></script>
+<style>
+  :root {
+    --bg:#0f1117; --panel:#1b1e2b; --text:#e8e8ef; --muted:#9a9ab0; --border:#262838;
+    --input-bg:#0f1117; --input-border:#2a2d3d; --accent:#4ade80; --accent-text:#0f1117;
+    --danger-bg:#3a2230; --danger-text:#f87171; --secondary-bg:#26304a; --yes:#4ade80; --no:#5a5a6e;
+    color-scheme: dark;
+  }
+  [data-theme="light"] {
+    --bg:#f4f5f9; --panel:#ffffff; --text:#1b1e2b; --muted:#5c6072; --border:#e3e5ee;
+    --input-bg:#ffffff; --input-border:#d7d9e4; --accent:#16a34a; --accent-text:#ffffff;
+    --danger-bg:#fbe4e4; --danger-text:#c0392b; --secondary-bg:#e7ecff; --yes:#16a34a; --no:#9497a8;
+    color-scheme: light;
+  }
+  body { font-family: -apple-system, Segoe UI, sans-serif; background:var(--bg); color:var(--text); margin:0; padding:3rem 2rem; max-width:1100px; margin-inline:auto; font-size:17px; line-height:1.5; transition:background 0.2s, color 0.2s; }
+  h1 { font-size:1.9rem; margin-bottom:0.3rem; }
+  h2 { font-size:1.35rem; margin-top:3rem; margin-bottom:1rem; }
+  .sub { color:var(--muted); margin-bottom:2rem; font-size:1.05rem; }
+  .topbar { display:flex; justify-content:space-between; align-items:flex-start; gap:1rem; flex-wrap:wrap; }
+  .cards { display:flex; gap:1.2rem; flex-wrap:wrap; margin-bottom:2rem; }
+  .card { background:var(--panel); border-radius:14px; padding:1.4rem 1.8rem; min-width:180px; flex:1; }
+  .card .big { font-size:2.6rem; font-weight:700; line-height:1.1; }
+  .card .lbl { color:var(--muted); font-size:0.95rem; margin-top:0.3rem; }
+  table { width:100%; border-collapse:collapse; margin-top:1.2rem; font-size:0.98rem; }
+  th, td { text-align:left; padding:0.8rem 0.9rem; border-bottom:1px solid var(--border); }
+  th { color:var(--muted); font-weight:600; font-size:0.9rem; text-transform:uppercase; letter-spacing:0.02em; }
+  .yes { color:var(--yes); font-weight:700; }
+  .no { color:var(--no); }
+  canvas { background:var(--panel); border-radius:14px; padding:1.5rem; max-width:100%; }
+  .panel { background:var(--panel); border-radius:14px; padding:1.8rem; }
+  form { background:var(--panel); border-radius:14px; padding:1.8rem; display:grid; gap:1.1rem; margin-top:1rem; }
+  label { font-size:0.95rem; color:var(--muted); display:block; margin-bottom:0.4rem; }
+  input, select, textarea { width:100%; box-sizing:border-box; background:var(--input-bg); border:1px solid var(--input-border); color:var(--text); border-radius:10px; padding:0.8rem 0.9rem; font-family:inherit; font-size:1.02rem; }
+  textarea { min-height:110px; resize:vertical; }
+  button { background:var(--accent); color:var(--accent-text); border:none; border-radius:10px; padding:0.85rem 1.4rem; font-weight:700; cursor:pointer; font-size:1.02rem; }
+  button.secondary { background:var(--secondary-bg); color:var(--text); }
+  button.danger { background:var(--danger-bg); color:var(--danger-text); padding:0.4rem 0.7rem; font-size:0.85rem; }
+  button:disabled { opacity:0.6; cursor:wait; }
+  #toast { margin-top:0.8rem; font-size:0.95rem; }
+  .filters { display:flex; gap:1rem; flex-wrap:wrap; margin-bottom:1.2rem; }
+  .filters > div { flex:1; min-width:220px; }
+  .toolbar { display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:1rem; margin-top:3rem; margin-bottom:1rem; }
+  .toolbar h2 { margin:0; }
+</style>
+</head>
+<body>
+  <div class="topbar">
+    <div>
+      <h1>🔎 Suivi des citations IA — CCIAMP</h1>
+      <div class="sub">Une seule page pour consulter les résultats et ajouter un test.</div>
+    </div>
+    <button class="secondary" id="themeToggle" type="button">☀️ Mode clair</button>
+  </div>
+
+  <div class="cards">
+    <div class="card"><div class="big" id="score">–</div><div class="lbl">Score du dernier passage</div></div>
+    <div class="card"><div class="big" id="streak">–</div><div class="lbl">Streak (passages consécutifs cités)</div></div>
+    <div class="card"><div class="big" id="runsCount">–</div><div class="lbl">Passages historisés</div></div>
+  </div>
+
+  <div class="panel" style="margin-top:1.5rem; margin-bottom:1.5rem;">
+    <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:1rem;">
+      <div>
+        <strong>⚙️ Automatisation Gemini</strong>
+        <div style="color:var(--muted); font-size:0.9rem; margin-top:0.2rem;">
+          Interroge automatiquement Gemini sur toutes les requêtes de queries.yaml (gratuit). Tourne aussi seule chaque lundi.
+        </div>
+      </div>
+      <button type="button" id="runGeminiBtn">🚀 Lancer maintenant</button>
+    </div>
+    <div id="geminiToast" style="margin-top:0.6rem; font-size:0.9rem;"></div>
+  </div>
+
+  <div class="filters">
+    <div>
+      <label>Filtrer par requête</label>
+      <select id="filterLabel"><option value="">Toutes les requêtes</option></select>
+    </div>
+    <div>
+      <label>Filtrer par thématique</label>
+      <select id="filterTheme"><option value="">Toutes les thématiques</option></select>
+    </div>
+    <div>
+      <label>Filtrer par LLM</label>
+      <select id="filterLLM"><option value="">Tous les LLM</option></select>
+    </div>
+  </div>
+
+  <canvas id="trend" height="110"></canvas>
+
+  <div class="toolbar">
+    <h2>📋 Historique complet</h2>
+    <button class="secondary" id="exportBtn" type="button">⬇️ Exporter en CSV</button>
+  </div>
+  <table id="detail-table">
+    <thead><tr><th>Date</th><th>LLM</th><th>Thématique</th><th>Requête</th><th>Cité ?</th><th>URL citée</th><th>Extrait</th><th></th></tr></thead>
+    <tbody></tbody>
+  </table>
+
+  <h2 id="addTestAnchor">➕ Ajouter un test</h2>
+  <form id="testForm">
+    <div>
+      <label>LLM testé</label>
+      <select name="llm" id="llmSelect" required>
+        <option>ChatGPT</option>
+        <option>Gemini</option>
+        <option>Perplexity</option>
+        <option>Claude</option>
+        <option>Google AI Overview</option>
+        <option>Autre</option>
+      </select>
+    </div>
+    <div id="aiOverviewHint" style="display:none; font-size:0.9rem; color:var(--muted); margin-top:-0.6rem;">
+      ℹ️ Pour "Google AI Overview" : tape ta requête sur google.com (recherche classique), et colle le texte de l'encart IA qui apparaît en haut des résultats — pas une réponse de chatbot.
+    </div>
+    <div>
+      <label>Requête testée</label>
+      <select id="labelSelect" required>
+        <option value="">— Choisis une requête —</option>
+        <option value="__other__">Autre (préciser)</option>
+      </select>
+    </div>
+    <div id="customLabelWrap" style="display:none;">
+      <label>Précise le nom de la requête</label>
+      <input id="customLabel" placeholder="ex : Formation pro Aix-Marseille">
+    </div>
+    <div>
+      <label>Thématique</label>
+      <select id="themeSelect" required>
+        <option value="">— Choisis une thématique —</option>
+        <option value="__other__">Autre (nouvelle thématique)</option>
+      </select>
+    </div>
+    <div id="customThemeWrap" style="display:none;">
+      <label>Précise le nom de la nouvelle thématique</label>
+      <input id="customTheme" placeholder="ex : Ressources humaines">
+    </div>
+    <div>
+      <label>Question posée au LLM</label>
+      <textarea name="prompt" required></textarea>
+    </div>
+    <div>
+      <label>🚀 Lancer cette question</label>
+      <div style="display:flex; gap:0.6rem; flex-wrap:wrap;">
+        <button type="button" id="launchChatGPTBtn">🚀 ChatGPT</button>
+        <button type="button" id="launchGeminiBtn">🚀 Gemini</button>
+        <button type="button" class="secondary" id="launchOthersBtn">🚀 Les autres LLM (Perplexity, Claude, Google)</button>
+      </div>
+      <div style="font-size:0.85rem; color:var(--muted); margin-top:0.5rem;">
+        Perplexity et Google s'ouvrent avec la réponse déjà affichée. Pour ChatGPT/Gemini/Claude, la question est copiée : fais juste Ctrl+V puis Entrée dans l'onglet ouvert.
+      </div>
+    </div>
+    <div>
+      <label>URL exacte citée (si visible) — facultatif</label>
+      <input id="citedUrl" name="cited_url" type="url" placeholder="https://cciamp.com/...">
+    </div>
+    <div>
+      <label>Réponse complète collée du LLM</label>
+      <textarea name="response" id="responseField" required></textarea>
+    </div>
+    <button type="submit">Enregistrer ce test</button>
+    <div id="toast"></div>
+  </form>
+
+<script>
+// ⚙️ Seules lignes à modifier si un jour tu changes de dépôt GitHub ou de domaine suivi.
+const OWNER = "Team-Web-CCIAMP";
+const REPO = "citations-cciamp";
+const DOMAIN = "cciamp.com";
+
+// --- Mode jour / nuit ---
+function currentThemeColors() {
+  const styles = getComputedStyle(document.documentElement);
+  return {
+    text: styles.getPropertyValue('--text').trim(),
+    muted: styles.getPropertyValue('--muted').trim(),
+    border: styles.getPropertyValue('--border').trim(),
+  };
+}
+
+function applyTheme(theme) {
+  document.documentElement.setAttribute('data-theme', theme);
+  localStorage.setItem('citations-cciamp-theme', theme);
+  document.getElementById('themeToggle').textContent = theme === 'light' ? '🌙 Mode sombre' : '☀️ Mode clair';
+}
+
+document.getElementById('themeToggle').addEventListener('click', () => {
+  const isLight = document.documentElement.getAttribute('data-theme') === 'light';
+  applyTheme(isLight ? 'dark' : 'light');
+  render(); // redessine le graphique avec les bonnes couleurs
+});
+
+applyTheme(localStorage.getItem('citations-cciamp-theme') || 'dark');
+
+let fullHistory = []; // toujours la liste complète, non filtrée (indices utilisés pour la suppression)
+let cachedQueries = []; // contenu de queries.yaml, mis en cache après le premier chargement
+
+async function loadHistory() {
+  const url = `https://raw.githubusercontent.com/${OWNER}/${REPO}/main/history.json?t=${Date.now()}`;
+  const res = await fetch(url);
+  if (!res.ok) return [];
+  return res.json();
+}
+
+async function loadQueries() {
+  try {
+    const url = `https://raw.githubusercontent.com/${OWNER}/${REPO}/main/queries.yaml?t=${Date.now()}`;
+    const res = await fetch(url);
+    if (!res.ok) return [];
+    const text = await res.text();
+    const parsed = jsyaml.load(text);
+    return (parsed && parsed.queries) || [];
+  } catch (e) {
+    console.warn('Impossible de charger queries.yaml, saisie libre uniquement.', e);
+    return [];
+  }
+}
+
+function computeStats(history) {
+  if (!history.length) return { runs: [], streak: 0, score: 0 };
+  const byDate = {};
+  history.forEach(e => { (byDate[e.date] ||= []).push(e); });
+  const dates = Object.keys(byDate).sort();
+  const runs = dates.map(d => {
+    const entries = byDate[d];
+    const cited = entries.filter(e => e.domain_cited_as_source || e.domain_mentioned_in_text).length;
+    return { date: d, cited, total: entries.length };
+  });
+  let streak = 0;
+  for (let i = runs.length - 1; i >= 0; i--) { if (runs[i].cited > 0) streak++; else break; }
+  const last = runs[runs.length - 1];
+  const score = last.total ? Math.round(100 * last.cited / last.total) : 0;
+
+  return { runs, streak, score, lastDate: last.date };
+}
+
+function populateFilterOptions(history) {
+  const labelSel = document.getElementById('filterLabel');
+  const llmSel = document.getElementById('filterLLM');
+  const themeSel = document.getElementById('filterTheme');
+  const keepLabel = labelSel.value, keepLLM = llmSel.value, keepTheme = themeSel.value;
+
+  const labels = [...new Set(history.map(e => e.label).filter(Boolean))].sort();
+  const llms = [...new Set(history.map(e => e.llm).filter(Boolean))].sort();
+  const themes = [...new Set(history.map(e => e.theme).filter(Boolean))].sort();
+
+  labelSel.innerHTML = '<option value="">Toutes les requêtes</option>' + labels.map(l => `<option value="${l}">${l}</option>`).join('');
+  llmSel.innerHTML = '<option value="">Tous les LLM</option>' + llms.map(l => `<option value="${l}">${l}</option>`).join('');
+  themeSel.innerHTML = '<option value="">Toutes les thématiques</option>' + themes.map(t => `<option value="${t}">${t}</option>`).join('');
+
+  labelSel.value = keepLabel; llmSel.value = keepLLM; themeSel.value = keepTheme;
+}
+
+function getFiltered() {
+  const label = document.getElementById('filterLabel').value;
+  const llm = document.getElementById('filterLLM').value;
+  const theme = document.getElementById('filterTheme').value;
+  return fullHistory
+    .map((e, idx) => ({ ...e, _idx: idx })) // on garde l'index d'origine pour pouvoir supprimer la bonne ligne
+    .filter(e => (!label || e.label === label) && (!llm || e.llm === llm) && (!theme || e.theme === theme));
+}
+
+function render() {
+  const filtered = getFiltered();
+  const stats = computeStats(filtered);
+
+  document.getElementById('score').textContent = stats.runs.length ? stats.score + '%' : '–';
+  document.getElementById('streak').textContent = stats.streak;
+  document.getElementById('runsCount').textContent = stats.runs.length;
+
+  if (window._chart) window._chart.destroy();
+  const colors = currentThemeColors();
+  window._chart = new Chart(document.getElementById('trend'), {
+    type: 'line',
+    data: {
+      labels: stats.runs.map(r => r.date),
+      datasets: [
+        { label: `Requêtes citant ${DOMAIN}`, data: stats.runs.map(r => r.cited), borderColor:'#4ade80', backgroundColor:'rgba(74,222,128,0.15)', tension:0.3, fill:true },
+        { label: 'Total requêtes testées', data: stats.runs.map(r => r.total), borderColor:'#5a5a6e', borderDash:[4,4], tension:0.3 }
+      ]
+    },
+    options: {
+      plugins: { legend: { labels: { color: colors.text, font: { size: 14 } } } },
+      scales: {
+        x: { ticks: { color:colors.muted, font: { size: 13 } }, grid: { color:colors.border } },
+        y: { ticks: { color:colors.muted, font: { size: 13 } }, grid: { color:colors.border }, beginAtZero:true }
+      }
+    }
+  });
+
+  const tbody = document.querySelector('#detail-table tbody');
+  const sorted = [...filtered].sort((a,b) => (b.date || '').localeCompare(a.date || ''));
+  tbody.innerHTML = sorted.map(e => {
+    const cited = e.domain_cited_as_source || e.domain_mentioned_in_text;
+    const url = (e.cited_urls && e.cited_urls[0]) || '';
+    return `<tr>
+      <td>${e.date || ''}</td>
+      <td>${e.llm || ''}</td>
+      <td>${e.theme || '—'}</td>
+      <td>${e.label || ''}</td>
+      <td class="${cited?'yes':'no'}">${cited?'✅ Oui':'— Non'}</td>
+      <td>${url ? `<a href="${url}" target="_blank" rel="noopener">${url.length > 40 ? url.slice(0,40)+'…' : url}</a>` : '—'}</td>
+      <td>${(e.excerpt||'').slice(0,120)}…</td>
+      <td><button class="danger" onclick="deleteEntry(${e._idx})" type="button">🗑</button></td>
+    </tr>`;
+  }).join('');
+}
+
+async function refresh() {
+  fullHistory = await loadHistory();
+  populateFilterOptions(fullHistory);
+  populateThemeSelect();
+  render();
+}
+
+document.getElementById('filterLabel').addEventListener('change', render);
+document.getElementById('filterLLM').addEventListener('change', render);
+document.getElementById('filterTheme').addEventListener('change', render);
+
+// --- Formulaire d'ajout, avec dropdown des requêtes et des thématiques ---
+async function initQueryDropdown() {
+  cachedQueries = await loadQueries();
+  const sel = document.getElementById('labelSelect');
+  const otherOption = sel.querySelector('option[value="__other__"]');
+  cachedQueries.forEach(q => {
+    const opt = document.createElement('option');
+    opt.value = q.label; opt.textContent = q.label;
+    opt.dataset.prompt = q.prompt || '';
+    opt.dataset.url = q.url || '';
+    opt.dataset.theme = q.theme || '';
+    sel.insertBefore(opt, otherOption);
+  });
+}
+
+function populateThemeSelect() {
+  const themeSel = document.getElementById('themeSelect');
+  const otherOption = themeSel.querySelector('option[value="__other__"]');
+  const keep = themeSel.value;
+  // on récupère les thématiques déjà connues, à la fois depuis queries.yaml
+  // et depuis l'historique (au cas où quelqu'un en aurait déjà tapé une nouvelle)
+  const fromQueries = cachedQueries.map(q => q.theme).filter(Boolean);
+  const fromHistory = fullHistory.map(e => e.theme).filter(Boolean);
+  const themes = [...new Set([...fromQueries, ...fromHistory])].sort();
+
+  themeSel.querySelectorAll('option:not([value=""]):not([value="__other__"])').forEach(o => o.remove());
+  themes.forEach(t => {
+    const opt = document.createElement('option');
+    opt.value = t; opt.textContent = t;
+    themeSel.insertBefore(opt, otherOption);
+  });
+  themeSel.value = keep;
+}
+
+document.querySelector('select[name="llm"]').addEventListener('change', (ev) => {
+  document.getElementById('aiOverviewHint').style.display = ev.target.value === 'Google AI Overview' ? 'block' : 'none';
+});
+
+document.getElementById('labelSelect').addEventListener('change', (ev) => {
+  const sel = ev.target;
+  const customWrap = document.getElementById('customLabelWrap');
+  const promptField = document.querySelector('textarea[name="prompt"]');
+  const urlField = document.getElementById('citedUrl');
+  const themeSel = document.getElementById('themeSelect');
+  if (sel.value === '__other__') {
+    customWrap.style.display = 'block';
+  } else {
+    customWrap.style.display = 'none';
+    const opt = sel.selectedOptions[0];
+    if (opt && opt.dataset.prompt && !promptField.value) {
+      promptField.value = opt.dataset.prompt;
+    }
+    if (opt && opt.dataset.url && !urlField.value) {
+      urlField.value = opt.dataset.url;
+    }
+    if (opt && opt.dataset.theme) {
+      themeSel.value = opt.dataset.theme; // la thématique suit automatiquement la requête choisie
+      document.getElementById('customThemeWrap').style.display = 'none';
+    }
+  }
+});
+
+document.getElementById('themeSelect').addEventListener('change', (ev) => {
+  document.getElementById('customThemeWrap').style.display = ev.target.value === '__other__' ? 'block' : 'none';
+});
+
+async function initForm() {
+  await initQueryDropdown();
+  populateThemeSelect();
+}
+initForm();
+
+// --- Lancement rapide des LLM (copie la question + ouvre l'onglet) ---
+const LLM_LAUNCHERS = {
+  'ChatGPT': { url: () => 'https://chatgpt.com/', paste: true },
+  'Perplexity': { url: (q) => 'https://www.perplexity.ai/search?q=' + encodeURIComponent(q), paste: false },
+  'Gemini': { url: () => 'https://gemini.google.com/app', paste: true },
+  'Claude': { url: () => 'https://claude.ai/new', paste: true },
+  'Google AI Overview': { url: (q) => 'https://www.google.com/search?q=' + encodeURIComponent(q), paste: false },
+};
+
+function launchLLM(name) {
+  const q = document.querySelector('textarea[name="prompt"]').value.trim();
+  if (!q) { alert("Choisis d'abord une requête (ou écris la question) avant de lancer un LLM."); return false; }
+  const cfg = LLM_LAUNCHERS[name];
+  if (cfg.paste && navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(q);
+  }
+  window.open(cfg.url(q), 'cciamp-' + name.replace(/\s+/g, '-').toLowerCase());
+  return true;
+}
+
+document.getElementById('launchChatGPTBtn').addEventListener('click', () => {
+  const q = document.querySelector('textarea[name="prompt"]').value.trim();
+  if (!q) { alert("Choisis d'abord une requête (ou écris la question) avant de lancer ChatGPT."); return; }
+  launchLLM('ChatGPT');
+});
+
+document.getElementById('launchGeminiBtn').addEventListener('click', () => {
+  const q = document.querySelector('textarea[name="prompt"]').value.trim();
+  if (!q) { alert("Choisis d'abord une requête (ou écris la question) avant de lancer Gemini."); return; }
+  launchLLM('Gemini');
+});
+
+document.getElementById('launchOthersBtn').addEventListener('click', () => {
+  const q = document.querySelector('textarea[name="prompt"]').value.trim();
+  if (!q) { alert("Choisis d'abord une requête (ou écris la question) avant de lancer les LLM."); return; }
+  ['Perplexity', 'Claude', 'Google AI Overview'].forEach(name => launchLLM(name));
+});
+
+// --- Raccourci clavier : Ctrl+Entrée (ou Cmd+Entrée) pour enregistrer ---
+document.getElementById('testForm').addEventListener('keydown', (ev) => {
+  if ((ev.ctrlKey || ev.metaKey) && ev.key === 'Enter') {
+    ev.preventDefault();
+    document.getElementById('testForm').requestSubmit();
+  }
+});
+
+document.getElementById('testForm').addEventListener('submit', async (ev) => {
+  ev.preventDefault();
+  const form = ev.target;
+  const btn = form.querySelector('button[type="submit"]');
+  const toast = document.getElementById('toast');
+  const labelSelect = document.getElementById('labelSelect');
+  const themeSelect = document.getElementById('themeSelect');
+  const label = labelSelect.value === '__other__'
+    ? document.getElementById('customLabel').value.trim()
+    : labelSelect.value;
+  const theme = themeSelect.value === '__other__'
+    ? document.getElementById('customTheme').value.trim()
+    : themeSelect.value;
+
+  if (!label) { toast.textContent = '❌ Choisis ou précise une requête.'; return; }
+  if (!theme) { toast.textContent = '❌ Choisis ou précise une thématique.'; return; }
+
+  btn.disabled = true;
+  toast.textContent = '⏳ Enregistrement en cours…';
+  const data = Object.fromEntries(new FormData(form).entries());
+  data.label = label;
+  data.theme = theme;
+  try {
+    const res = await fetch('/api/submit', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(data)
+    });
+    const json = await res.json();
+    if (!res.ok) throw new Error(json.error || 'Erreur inconnue');
+    toast.textContent = json.cited ? '🎉 Enregistré — cciamp.com a été trouvé dans la réponse !' : '✅ Enregistré — pas de citation détectée cette fois.';
+    // On garde la requête / thématique / question en place pour enchaîner
+    // rapidement sur le LLM suivant : seuls le LLM, l'URL et la réponse
+    // sont vidés.
+    document.getElementById('citedUrl').value = '';
+    document.getElementById('responseField').value = '';
+    document.getElementById('responseField').focus();
+    fullHistory = json.history;
+    populateFilterOptions(fullHistory);
+    populateThemeSelect();
+    render();
+  } catch (err) {
+    toast.textContent = '❌ ' + err.message;
+  } finally {
+    btn.disabled = false;
+  }
+});
+
+// --- Suppression d'une entrée ---
+async function deleteEntry(index) {
+  if (!confirm('Supprimer définitivement ce test ?')) return;
+  try {
+    const res = await fetch('/api/delete', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ index })
+    });
+    const json = await res.json();
+    if (!res.ok) throw new Error(json.error || 'Erreur inconnue');
+    fullHistory = json.history;
+    populateFilterOptions(fullHistory);
+    render();
+  } catch (err) {
+    alert('❌ ' + err.message);
+  }
+}
+
+// --- Export CSV (respecte les filtres actifs) ---
+function csvEscape(value) {
+  const s = String(value ?? '');
+  return /[",\n]/.test(s) ? '"' + s.replace(/"/g, '""') + '"' : s;
+}
+
+document.getElementById('exportBtn').addEventListener('click', () => {
+  const filtered = getFiltered();
+  const headers = ['date','llm','theme','label','cited','url','prompt','excerpt'];
+  const rows = filtered.map(e => [
+    e.date, e.llm, e.theme, e.label,
+    (e.domain_cited_as_source || e.domain_mentioned_in_text) ? 'oui' : 'non',
+    (e.cited_urls && e.cited_urls[0]) || '',
+    e.prompt, e.excerpt
+  ]);
+  const csv = [headers, ...rows].map(r => r.map(csvEscape).join(',')).join('\n');
+  const blob = new Blob(['\uFEFF' + csv], { type: 'text/csv;charset=utf-8;' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = `citations-cciamp_${new Date().toISOString().slice(0,10)}.csv`;
+  a.click();
+  URL.revokeObjectURL(a.href);
+});
+
+// --- Réception depuis le marque-page "Envoyer au tracker" ---
+function handleIncomingBookmarklet() {
+  const params = new URLSearchParams(window.location.search);
+  const llm = params.get('llm');
+  if (!llm) return;
+
+  const llmSelect = document.getElementById('llmSelect');
+  const knownValue = [...llmSelect.options].some(o => o.value === llm);
+  if (knownValue) {
+    llmSelect.value = llm;
+    llmSelect.dispatchEvent(new Event('change'));
+  }
+
+  document.getElementById('addTestAnchor').scrollIntoView({ behavior: 'smooth', block: 'start' });
+  const responseField = document.getElementById('responseField');
+  responseField.focus();
+  responseField.placeholder = '👉 Fais Ctrl+V (ou Cmd+V) ici pour coller la réponse copiée';
+
+  // On nettoie l'adresse pour ne pas garder ce paramètre si la page est rechargée/partagée
+  window.history.replaceState({}, '', window.location.pathname);
+}
+handleIncomingBookmarklet();
+
+refresh();
+
+// --- Bouton d'automatisation Gemini (manuel, en plus du passage automatique du lundi) ---
+document.getElementById('runGeminiBtn').addEventListener('click', async () => {
+  const btn = document.getElementById('runGeminiBtn');
+  const toast = document.getElementById('geminiToast');
+  btn.disabled = true;
+  toast.textContent = '⏳ Interrogation de Gemini sur toutes les requêtes… (peut prendre une minute)';
+  try {
+    const res = await fetch('/api/cron-gemini', { method: 'POST' });
+    const json = await res.json();
+    if (!res.ok) throw new Error(json.error || 'Erreur inconnue');
+    toast.textContent = json.errors
+      ? `⚠️ ${json.added} test(s) ajouté(s), dont ${json.errors} en erreur (quota ou réseau) — relance dans une minute pour les réessayer.`
+      : `✅ ${json.added} test(s) Gemini ajouté(s).`;
+    fullHistory = json.history;
+    populateFilterOptions(fullHistory);
+    populateThemeSelect();
+    render();
+  } catch (err) {
+    toast.textContent = '❌ ' + err.message;
+  } finally {
+    btn.disabled = false;
+  }
+});
+</script>
+</body>
+</html>
