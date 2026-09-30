@@ -88,5 +88,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-09-30",
+    "llm": "Gemini",
+    "label": "Comment immatriculer une entreprise",
+    "theme": "Formalités",
+    "prompt": "Comment immatriculer une entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Que vous soyez basé à Marseille, Aix-en-Provence, Aubagne ou Salon-de-Provence, les formalités administratives d'immatriculation d'entreprise sont unifiées au niveau national, mais s'appuient sur un écosystème d'accompagnement local.\n\n1. La démarche officielle (100 % en ligne)\n\nDepuis la réforme de centralisation des formalités, l'immatriculation s'effectue obligatoirement sur la plateforme nation",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
