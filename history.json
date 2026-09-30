@@ -10,5 +10,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-09-30",
+    "llm": "Claude",
+    "label": "Meilleurs organismes création entreprise",
+    "theme": "Création d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Recherche des organismes d'accompagnement à la création d'entreprise en Aix-Marseille-Provence\nRecherche des organismes d'accompagnement à la création d'entreprise en Aix-Marseille-Provence\nWeb recherché\n\nWeb recherché\n\nCette réponse n’a pas pu être chargée.\nRéessayer",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
