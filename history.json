@@ -64,5 +64,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-09-30",
+    "llm": "ChatGPT",
+    "label": "Recruter un alternant (générique)",
+    "theme": "RH",
+    "prompt": "Comment recruter un alternant ?",
+    "status": "ok",
+    "excerpt": "Si vous parlez de recruter un alternant en France, le plus simple est de raisonner en 6 étapes.\n\nDéfinissez le besoin : missions réelles, compétences à apprendre, niveau d’études recherché et rythme d’alternance acceptable. L’alternant est aussi en formation, donc le poste doit permettre une vraie progression professionnelle. \nTravail Emploi\n\nChoisissez la formation et contactez les CFA correspond",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
