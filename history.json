@@ -100,5 +100,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-09-30",
+    "llm": "ChatGPT",
+    "label": "Comment immatriculer une entreprise",
+    "theme": "Formalités",
+    "prompt": "Comment immatriculer une entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur Aix-Marseille-Provence, l’immatriculation elle-même suit la procédure nationale française ; les particularités locales concernent surtout l’implantation, les autorisations et l’accompagnement. Je vérifie les démarches officielles à jour et les interlocuteurs locaux utiles.",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
