@@ -394,5 +394,19 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-09-30",
+    "llm": "ChatGPT",
+    "label": "Diagnostic RH PME",
+    "theme": "RH",
+    "prompt": "Où faire un diagnostic RH pour ma PME sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "4,4\nRH Partners Aix / Marseille - Ressources Humaines & Cabinet de Recrutement\n#EntrepriseAimant : Diagnostic RH, Marque Employeur, Raison d'Être, QVCT Qualité de Vie et Condition de Travail, Formation\n5,0\nSEENEO Conseil RH - DRH temps partagé- Consultant RH freelance pour les PME sur Marseille\nUse two fingers to move the map\nUse ctrl + scroll to zoom the map\nRH Partners Aix / Marseille - Ressourc",
+    "cited_urls": [
+      "https://www.cciamp.com/produit/evaluez-vos-pratiques-rh-en-quelques-clics?utm_source=chatgpt.com"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
