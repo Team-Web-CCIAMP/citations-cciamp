@@ -298,5 +298,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-09-30",
+    "llm": "ChatGPT",
+    "label": "Comment créer une entreprise",
+    "theme": "Création d'entreprise",
+    "prompt": "Comment créer une entreprise ?",
+    "status": "ok",
+    "excerpt": "Si vous parlez de créer une entreprise en France, le parcours dépend surtout de votre activité, du nombre d’associés et de votre niveau de chiffre d’affaires prévu.\n\nEn pratique, on commence par définir précisément ce que vous allez vendre et à qui, puis on chiffre le projet : prix, dépenses, investissement initial et chiffre d’affaires nécessaire pour être rentable. Ensuite vient le choix du stat",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
