@@ -46,5 +46,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-09-30",
+    "llm": "Claude",
+    "label": "Meilleurs organismes transmission entreprise",
+    "theme": "Transmission d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la transmission d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Voici les principaux acteurs sur le territoire, classés par profil.\nOrganisation d'une réponse structurée avec les points à vérifier\nOrganisation d'une réponse structurée avec les points à vérifier\nWeb recherché\n\nWeb recherché\n\nVoici les principaux acteurs sur le territoire, classés par profil.\n\nChambres consulaires (premier guichet)\n\nCCI métropolitaine Aix-Marseille-Provence :",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
