@@ -76,5 +76,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-09-30",
+    "llm": "Gemini",
+    "label": "Recruter un alternant (générique)",
+    "theme": "RH",
+    "prompt": "Comment recruter un alternant ?",
+    "status": "ok",
+    "excerpt": "Pour recruter un alternant en France (en contrat d'apprentissage ou de professionnalisation), voici les grandes étapes à suivre, de la définition du besoin au suivi de l'alternant :\n\n1. Définir le poste et le profil\n\nIdentifie le besoin : missions confiées, niveau de diplôme visé (du CAP au Master/Diplôme d'ingénieur).\n\nDésigne un maître d'apprentissage ou tuteur : il doit avoir la compétence prof",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
