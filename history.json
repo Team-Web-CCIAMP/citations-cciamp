@@ -434,5 +434,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-09-30",
+    "llm": "ChatGPT",
+    "label": "Développer son réseau professionnel",
+    "theme": "Développer mon activité",
+    "prompt": "Comment développer son réseau professionnel en Provence ?",
+    "status": "ok",
+    "excerpt": "5,0\nClub APEX\n5,0\nACCEDE Provence Entrepreneurs\n4,9\nFrance Active Provence-Alpes-Côte d'Azur\n4,8\nStartup Marseille - Coworking Associatif\n5,0\nDigital Village Marseille\nUse two fingers to move the map\nUse ctrl + scroll to zoom the map\nClub APEX\n5,0\n•\nEntreprise de réseautage d'affaires\nACCEDE Provence Entrepreneurs\n5,0\n•\nAssociation ou organisation\nFrance Active Provence-Alpes-Côte d'Azur\n4,9\n•\nAss",
+    "cited_urls": [
+      "https://www.cciamp.com/evenements?utm_source=chatgpt.com"
+    ],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
