@@ -46,5 +46,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-09-30",
+    "llm": "Perplexity",
+    "label": "Meilleurs organismes création entreprise",
+    "theme": "Création d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Les meilleurs organismes sur Aix-Marseille-Provence ne se remplacent pas : chacun couvre un besoin différent. Pour la majorité des créations, le parcours le plus solide est de combiner un accompagnateur de projet — CCI, CMA ou BGE — avec un organisme de financement tel qu’Initiative Marseille Métropole ou l’Adie.\n\nLes interlocuteurs à privilégier\nOrganisme\tÀ privilégier si…\tApport principal\nCCI Ai",
+    "cited_urls": [
+      "https://www.cciamp.com/vos-besoins/creer-votre-entreprise"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
