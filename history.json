@@ -22,5 +22,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-09-30",
+    "llm": "ChatGPT",
+    "label": "Comment créer une entreprise",
+    "theme": "Création d'entreprise",
+    "prompt": "Comment créer une entreprise ?",
+    "status": "ok",
+    "excerpt": "Si tu veux créer une entreprise en France, le plus simple est de séparer le projet commercial des formalités administratives. Aujourd’hui, la création officielle se fait en ligne via le Guichet unique de l’INPI. \nINPI\n+1\n\nVoici le parcours :\n\nDéfinir ton activité : ce que tu vas vendre, à quels clients, à quel prix et avec quels coûts. Avant de créer quoi que ce soit, vérifie également si l’activi",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
