@@ -82,5 +82,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-09-30",
+    "llm": "Claude",
+    "label": "Financer la transition écologique",
+    "theme": "Transition eco",
+    "prompt": "Comment financer la transition écologique de mon entreprise ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : La bonne stratégie consiste en général à empiler plusieurs financements plutôt que d'en chercher un seul.\nRédaction d'une réponse structurée et adaptée au contexte professionnel\nRédaction d'une réponse structurée et adaptée au contexte professionnel\nWeb recherché\n\nWeb recherché\n\nLa bonne stratégie consiste en général à empiler plusieurs financements plutôt que d'en chercher un ",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
