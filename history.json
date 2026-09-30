@@ -58,5 +58,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-09-30",
+    "llm": "Claude",
+    "label": "Comment immatriculer une entreprise",
+    "theme": "Formalités",
+    "prompt": "Comment immatriculer une entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Depuis le 1er janvier 2023, il n'y a plus de démarche « locale » propre au territoire : les Centres de formalités des entreprises (CFE) des CCI ont cessé leur …\nIdentification du tribunal de commerce compétent en cours\nIdentification du tribunal de commerce compétent en cours\nWeb recherché\n\nWeb recherché\n\nDepuis le 1er janvier 2023, il n'y a plus de démarche « locale » propre a",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
