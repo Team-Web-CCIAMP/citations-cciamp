@@ -58,5 +58,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-09-30",
+    "llm": "ChatGPT",
+    "label": "Accompagnement transition numérique",
+    "theme": "Transformation numérique",
+    "prompt": "Quel accompagnement pour la transition numérique en entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Je vais vous donner une vue d’ensemble très concrète des dispositifs mobilisables sur Aix-Marseille-Provence : diagnostic, financement, cybersécurité, IA/data, e-commerce et accompagnement des TPE-PME. Je vérifie aussi les acteurs et programmes actuellement actifs pour éviter de vous orienter vers des aides obsolètes.",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
