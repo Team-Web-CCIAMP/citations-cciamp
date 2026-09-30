@@ -22,5 +22,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-09-30",
+    "llm": "Gemini",
+    "label": "Meilleurs organismes création entreprise",
+    "theme": "Création d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Sur le territoire d'Aix-Marseille-Provence, les structures d'accompagnement sont nombreuses et structurées selon la nature de votre projet (TPE/commerce, entreprise innovante, ESS).   \nLa French Tech Aix Marseille\n\n1. Les organismes institutionnels et généraux\n\nBGE Accès Conseil (BGE Provence-Alpes-Méditerranée) : Idéal pour structurer votre projet de A à Z (business plan, étude de marché, choix d",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
