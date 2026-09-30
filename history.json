@@ -420,5 +420,19 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-09-30",
+    "llm": "ChatGPT",
+    "label": "Accompagnement développement commercial",
+    "theme": "Développer mon activité",
+    "prompt": "Quels sont les meilleurs accompagnements pour développer son activité commerciale sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "4,6\nCCI Aix-Marseille-Provence (CCIAMP)\n5,0\nAccélérateur M\n4,7\nIncubateur Belle de Mai\n4,7\nZEBOX\n4,3\nMarseille Innovation - Hôtel Technologique\n4,0\nLa French Tech Aix-Marseille Région Sud\n4,8\nLe Carburateur - Pôle de l'entrepreneuriat\nUse two fingers to move the map\nUse ctrl + scroll to zoom the map\nCCI Aix-Marseille-Provence (CCIAMP)\n4,6\n•\nChambre de commerce et d'industrie\nAccélérateur M\n5,0\n•\nC",
+    "cited_urls": [
+      "https://www.cciamp.com/developper-son-activite/booster-ma-croissance?utm_source=chatgpt.com"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
