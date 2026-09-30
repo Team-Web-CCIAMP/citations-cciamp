@@ -34,5 +34,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-09-30",
+    "llm": "ChatGPT",
+    "label": "Meilleurs organismes reprise entreprise",
+    "theme": "Reprise d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la reprise d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Pour une reprise d’entreprise sur Aix–Marseille–Provence, le plus utile est généralement de combiner un acteur “chef d’orchestre” local, un spécialiste du financement, et un réseau de cédants/repreneurs. Je vérifie les dispositifs actuellement actifs sur le territoire pour vous donner une sélection vraiment exploitable.",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
