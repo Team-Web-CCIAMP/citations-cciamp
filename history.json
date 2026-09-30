@@ -286,5 +286,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-09-30",
+    "llm": "ChatGPT",
+    "label": "Meilleurs organismes création entreprise",
+    "theme": "Création d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Oui. Sur Aix–Marseille–Provence, le bon organisme dépend surtout du stade du projet (idée, business plan, financement, lancement) et du profil (demandeur d’emploi, projet innovant, commerce/artisanat, ESS). Je vérifie les acteurs réellement présents sur le territoire et leurs dispositifs actuels.",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
