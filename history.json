@@ -37,18 +37,6 @@
   },
   {
     "date": "2026-09-30",
-    "llm": "Google AI Overview",
-    "label": "Meilleurs organismes création entreprise",
-    "theme": "Création d'entreprise",
-    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
-    "status": "ok",
-    "excerpt": "Quelle association peut m'aider à créer mon entreprise ?",
-    "cited_urls": [],
-    "domain_cited_as_source": false,
-    "domain_mentioned_in_text": false
-  },
-  {
-    "date": "2026-09-30",
     "llm": "Perplexity",
     "label": "Meilleurs organismes création entreprise",
     "theme": "Création d'entreprise",
