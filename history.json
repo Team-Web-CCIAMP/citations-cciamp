@@ -74,5 +74,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-09-30",
+    "llm": "Google AI Overview",
+    "label": "Comment créer une entreprise",
+    "theme": "Création d'entreprise",
+    "prompt": "Comment créer une entreprise ?",
+    "status": "no_overview",
+    "excerpt": "Aucun AI Overview affiché par Google pour cette requête.",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
