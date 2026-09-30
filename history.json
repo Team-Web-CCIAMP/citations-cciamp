@@ -346,5 +346,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-09-30",
+    "llm": "ChatGPT",
+    "label": "Comment transmettre son entreprise",
+    "theme": "Transmission d'entreprise",
+    "prompt": "Comment transmettre son entreprise ?",
+    "status": "ok",
+    "excerpt": "Si vous parlez de transmettre une entreprise en France, il existe plusieurs montages. Le bon choix dépend surtout de la personne à qui vous souhaitez transmettre (enfant, salarié, associé ou tiers), de votre âge, de la forme juridique et de la valeur de l'entreprise.\n\nLes principales possibilités sont :\n\nVendre l'entreprise : vente du fonds de commerce, de l'entreprise individuelle, ou des parts/a",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
