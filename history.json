@@ -46,5 +46,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-09-30",
+    "llm": "ChatGPT",
+    "label": "Comment créer une entreprise",
+    "theme": "Création d'entreprise",
+    "prompt": "Comment créer une entreprise ?",
+    "status": "ok",
+    "excerpt": "Si vous êtes en France, créer une entreprise",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
