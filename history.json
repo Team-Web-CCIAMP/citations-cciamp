@@ -322,5 +322,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-09-30",
+    "llm": "ChatGPT",
+    "label": "Comment reprendre une entreprise",
+    "theme": "Reprise d'entreprise",
+    "prompt": "Comment reprendre une entreprise ?",
+    "status": "ok",
+    "excerpt": "Reprendre une entreprise consiste à acheter une société existante plutôt que de partir de zéro. En France, le processus se prépare généralement plusieurs mois à l’avance, surtout parce qu’il faut trouver la bonne cible, l’auditer et monter le financement.\n\nLe parcours ressemble à ceci :\n\nDéfinir votre projet de reprise : secteur, zone géographique, taille de l’entreprise, chiffre d’affaires, nombr",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
