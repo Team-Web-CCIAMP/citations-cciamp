@@ -358,5 +358,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-09-30",
+    "llm": "ChatGPT",
+    "label": "Meilleurs dispositifs transition écologique",
+    "theme": "Transition eco",
+    "prompt": "Quels sont les meilleurs dispositifs pour un accompagnement à la transition écologique d'une entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "3,8\nADEME Agence de la transition écologique - PACA\n4,8\nRISINGSUD\n4,6\nCCI Aix-Marseille-Provence (CCIAMP)\nUse two fingers to move the map\nUse ctrl + scroll to zoom the map\nADEME Agence de la transition écologique - PACA\n3,8\n•\nAdministration\nRISINGSUD\n4,8\n•\nServices aux entreprises\nCCI Aix-Marseille-Provence (CCIAMP)\n4,6\n•\nChambre de commerce et d'industrie\n\nÀ date, sur le territoire d’Métropole Ai",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
