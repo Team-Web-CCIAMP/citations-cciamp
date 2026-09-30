@@ -334,5 +334,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-09-30",
+    "llm": "ChatGPT",
+    "label": "Meilleurs organismes transmission entreprise",
+    "theme": "Transmission d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la transmission d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Sur Aix–Marseille–Provence, l’accompagnement dépend beaucoup du profil : cédant ou repreneur, taille de l’entreprise, secteur et complexité financière/juridique. Je vais donc distinguer les acteurs publics/consulaires des réseaux spécialisés, plutôt que de faire un classement unique.",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
