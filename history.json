@@ -370,5 +370,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-09-30",
+    "llm": "ChatGPT",
+    "label": "Formations intelligence artificielle",
+    "theme": "Transformation numérique",
+    "prompt": "Quelles sont les meilleures formations en intelligence artificielle sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Oui — et le « meilleur » choix dépend beaucoup de votre objectif : devenir ingénieur IA/data, vous reconvertir, ou intégrer l’IA à un métier existant. Je vais privilégier les cursus réellement implantés à Aix–Marseille et regarder diplôme, niveau technique, alternance et débouchés.",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
