@@ -70,5 +70,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-09-30",
+    "llm": "Gemini",
+    "label": "Meilleurs organismes reprise entreprise",
+    "theme": "Reprise d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la reprise d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Sur le territoire de la métropole Aix-Marseille-Provence, plusieurs organismes institutionnels, réseaux d'accompagnement et structures spécialisées vous guident dans la reprise d'une entreprise (diagnostic, recherche de cible, montage financier et suivi post-reprise).\n\n1. Les organismes institutionnels et consulaires\n\nLa CCI Métropolitaine Aix-Marseille-Provence (CCIAMP)\n\nAccompagnement : Propose ",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
