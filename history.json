@@ -58,5 +58,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-09-30",
+    "llm": "ChatGPT",
+    "label": "Financer la transition écologique",
+    "theme": "Transition eco",
+    "prompt": "Comment financer la transition écologique de mon entreprise ?",
+    "status": "ok",
+    "excerpt": "Pour bien financer une transition écologique, le plus efficace est souvent de combiner aides publiques, dette “verte”, économies d’énergie monétisables et autofinancement, plutôt que de chercher une seule subvention. Je vais vous donner les principaux leviers disponibles en France aujourd’hui, puis une méthode simple pour bâtir le plan de financement.",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
