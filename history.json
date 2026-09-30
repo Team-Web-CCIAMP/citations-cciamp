@@ -382,5 +382,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-09-30",
+    "llm": "ChatGPT",
+    "label": "Recruter un alternant (local)",
+    "theme": "RH",
+    "prompt": "Comment recruter un alternant sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "4,6\nCFA Métropolitain Campus des Métiers\n4,4\nFormasup Méditerranée\n4,5\nCFA Du Bâtiment Marseille\n5,0\nCFA Transports & Logistique\nUse two fingers to move the map\nUse ctrl + scroll to zoom the map\nCFA Métropolitain Campus des Métiers\n4,6\n•\nCentre d'apprentissage\nFormasup Méditerranée\n4,4\n•\nCentre de formation\nCFA Du Bâtiment Marseille\n4,5\n•\nCentre d'apprentissage\nCFA Transports & Logistique\n5,0\n•\nCe",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
