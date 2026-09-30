@@ -50,5 +50,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-09-30",
+    "llm": "ChatGPT",
+    "label": "Diagnostic RH PME",
+    "theme": "RH",
+    "prompt": "Où faire un diagnostic RH pour ma PME sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire Aix-Marseille-Provence, le point d’entrée le plus simple pour une PME est souvent la CCI Aix-Marseille-Provence (CCIAMP). Elle propose actuellement un Flash’Diag RH gratuit, destiné aux TPE-PME : environ 10 minutes, 16 questions et une analyse sur 5 volets — recrutement, intégration, gestion RH, management et QVCT — avec une synthèse pouvant servir de base à un échange avec une c",
+    "cited_urls": [
+      "https://www.cciamp.com/produit/evaluez-vos-pratiques-rh-en-quelques-clics?utm_source=chatgpt.com"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
