@@ -112,5 +112,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-09-30",
+    "llm": "ChatGPT",
+    "label": "Accompagnement décarbonation industrie",
+    "theme": "Transition eco",
+    "prompt": "Quel accompagnement pour la décarbonation d'une industrie sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Pour une industrie implantée sur Aix-Marseille-Provence, l’accompagnement pertinent combine généralement trois volets : diagnostic énergétique/carbone, financement des investissements, puis appui technique et territorial pour les projets structurants (chaleur, électrification, hydrogène, récupération de chaleur, logistique, etc.). Je vérifie les dispositifs actuellement ouverts en 2026 pour vous d",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
