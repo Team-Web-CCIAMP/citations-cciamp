@@ -70,5 +70,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-09-30",
+    "llm": "ChatGPT",
+    "label": "Recruter un alternant (générique)",
+    "theme": "RH",
+    "prompt": "Comment recruter un alternant ?",
+    "status": "ok",
+    "excerpt": "En France, recruter un alternant se fait assez simplement si vous procédez dans le bon ordre. Pour un contrat d’apprentissage, voici le chemin le plus pratique :\n\nDéfinissez le poste et la formation visée. Précisez les missions, le niveau recherché (BTS, licence, master…), le rythme souhaité et la personne qui sera maître d’apprentissage. L’apprentissage concerne généralement les 16–29 ans, avec p",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
