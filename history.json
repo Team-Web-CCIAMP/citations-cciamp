@@ -448,5 +448,17 @@
     ],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-09-30",
+    "llm": "Claude",
+    "label": "Comment reprendre une entreprise",
+    "theme": "Reprise d'entreprise",
+    "prompt": "Comment reprendre une entreprise ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Reprendre une entreprise : les grandes étapes\nExplication des étapes pour reprendre une entreprise\nExplication des étapes pour reprendre une entreprise\nExplication des étapes pour reprendre une entreprise.\nExplication des étapes pour reprendre une entreprise.\nReprendre une entreprise : les grandes étapes\n\nUne reprise prend en général 12 à 24 mois, de la réflexion à la signature.",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
