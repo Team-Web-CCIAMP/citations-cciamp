@@ -62,5 +62,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-09-30",
+    "llm": "Google AI Overview",
+    "label": "Meilleurs organismes création entreprise",
+    "theme": "Création d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": ".bsmXxe{display:contents}Merci\n     Vos commentaires aident Google à améliorer l'IA et plus encore, même lorsque le paramètre \"Activité sur le Web et les applications\" est désactivé. En savoir plus\nEnvoyer plus de commentairesSignaler un problèmeFermer.daTkXe{display:flex;flex-direction:row;gap:4px;}.daTkXe .FR7ZSc.btku5b[selected] .niO4u,.daTkXe .FR7ZSc.btku5b[selected]:hover .niO4u .niO4u::after",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
