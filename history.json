@@ -22,5 +22,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "ChatGPT",
+    "label": "Meilleurs organismes formalités entreprise",
+    "theme": "Formalités",
+    "prompt": "Quels sont les meilleurs organismes pour les formalités d'entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "4,6\nCCI Aix-Marseille-Provence (CCIAMP)\n4,9\nCCI Aix-Marseille-Provence - Agence Aix-en-Provence\nUse two fingers to move the map\nUse ctrl + scroll to zoom the map\nCCI Aix-Marseille-Provence (CCIAMP)\n4,6\n•\nChambre de commerce et d'industrie\nCCI Aix-Marseille-Provence - Agence Aix-en-Provence\n4,9\n•\nChambre de commerce et d'industrie\n\nSur le territoire Aix–Marseille–Provence, le bon interlocuteur dépe",
+    "cited_urls": [
+      "https://www.cciamp.com/nos-solutions/simplifier-mes-formalites/creer-et-immatriculer-mon-entreprise?utm_source=chatgpt.com"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
