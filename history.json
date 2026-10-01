@@ -728,5 +728,19 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Claude",
+    "label": "Formation techniques de vente",
+    "theme": "Développer mon activité",
+    "prompt": "Où suivre une formation en techniques de vente sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Le catalogue de CCI Formation Aix-Marseille-Provence (formationpro.cciamp.com) couvre largement le sujet, en plusieurs niveaux.\nWeb recherché\n\nWeb recherché\n\nLe catalogue de CCI Formation Aix-Marseille-Provence (formationpro.cciamp.com) couvre largement le sujet, en plusieurs niveaux.\n\nSocle\n\nNégociation commerciale et vente : ce cursus vise à maîtriser les techniques de vente ",
+    "cited_urls": [
+      "https://formationpro.cciamp.com/formations/marketing-relation-client-negociation-vente/negociation-commerciale-et-vente/?pdf=1"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
