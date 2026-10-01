@@ -46,5 +46,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Perplexity",
+    "label": "Meilleurs organismes création entreprise",
+    "theme": "Création d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Les meilleurs organismes ne sont pas les mêmes selon votre projet, votre commune d’implantation et votre besoin prioritaire — structuration, financement, innovation ou microcrédit. Sur Aix-Marseille-Provence, le parcours le plus efficace consiste souvent à commencer par la CCIAMP ou BGE, puis à mobiliser une plateforme Initiative, l’Adie ou un réseau entrepreneurial selon le plan de financement.\n\n",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
