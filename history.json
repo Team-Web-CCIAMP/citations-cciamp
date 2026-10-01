@@ -48,5 +48,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "ChatGPT",
+    "label": "Meilleurs organismes formalités entreprise",
+    "theme": "Formalités",
+    "prompt": "Quels sont les meilleurs organismes pour les formalités d'entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire Aix–Marseille–Provence, il faut surtout distinguer l’organisme qui reçoit juridiquement la formalité de ceux qui peuvent vous aider à préparer et sécuriser le dossier. Depuis 2023, les créations, modifications et cessations d’entreprise passent en principe par le Guichet unique des formalités d’entreprises, opéré par l’INPI. \nFormalités d'Entreprises\n+1\n\n4,6\nCCI Aix-Marseille-Pro",
+    "cited_urls": [
+      "https://www.cciamp.com/nos-solutions/simplifier-mes-formalites/creer-et-immatriculer-mon-entreprise?utm_source=chatgpt.com"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
