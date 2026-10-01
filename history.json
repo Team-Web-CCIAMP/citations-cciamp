@@ -628,5 +628,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Claude",
+    "label": "Diagnostic RH PME",
+    "theme": "RH",
+    "prompt": "Où faire un diagnostic RH pour ma PME sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Thin results; try web_search.\nWeb recherché\n\nWeb recherché\n\nSur le territoire, l'interlocuteur naturel est la CCI métropolitaine Aix-Marseille-Provence (CCIAMP), qui propose plusieurs niveaux de diagnostic RH.\n\n1. Autodiagnostic en ligne (gratuit, rapide)\nUn outil pour faire le point en 10 minutes sur la gestion de vos ressources humaines et identifier des pistes d'actions, dis",
+    "cited_urls": [
+      "https://www.cciamp.com/article/autodiagnostic-ressources-humaines"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
