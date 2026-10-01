@@ -86,5 +86,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Gemini",
+    "label": "Formations cybersécurité TPE",
+    "theme": "Transformation numérique",
+    "prompt": "Quelles sont les meilleures formations en cybersécurité pour les TPE sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire Aix-Marseille-Provence, les offres de formation et d'accompagnement en cybersécurité pour les TPE se divisent en deux catégories : la sensibilisation / montée en compétences des collaborateurs et la formation du dirigeant / référent cyber.\n\n1. Organismes publics et consulaires (Priorité TPE)\n\nCCI Métropolitaine Aix-Marseille-Provence (CCIAMP)\n\nPour qui : Dirigeants de TPE et coll",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
