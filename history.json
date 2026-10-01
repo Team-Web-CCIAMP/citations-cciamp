@@ -358,5 +358,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "ChatGPT",
+    "label": "Accompagnement décarbonation industrie",
+    "theme": "Transition eco",
+    "prompt": "Quel accompagnement pour la décarbonation d'une industrie sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Pour une industrie implantée sur Aix–Marseille–Provence, je conseillerais de raisonner en parcours d’accompagnement, plutôt que de chercher immédiatement une subvention isolée. Le territoire dispose justement d’un écosystème assez structuré pour passer du diagnostic au financement des investissements.\n\nCommencer par un diagnostic et une feuille de route. La CCI métropolitaine Aix-Marseille-Provenc",
+    "cited_urls": [
+      "https://www.cciamp.com/transition-ecologique-rse/decarbonation-climat?utm_source=chatgpt.com"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
