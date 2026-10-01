@@ -222,5 +222,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Claude",
+    "label": "Comment transmettre son entreprise",
+    "theme": "Transmission d'entreprise",
+    "prompt": "Comment transmettre son entreprise ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Transmettre son entreprise : les étapes clés\nExplication des étapes clés pour transmettre une entreprise.\nExplication des étapes clés pour transmettre une entreprise.\nTransmettre son entreprise : les étapes clés\n1. Anticiper (idéalement 3 à 5 ans avant)\n\nUne transmission bien préparée se vend mieux et plus vite. Définissez vos objectifs : départ à la retraite, reconversion, tran",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
