@@ -642,5 +642,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "ChatGPT",
+    "label": "Recruter un alternant (générique)",
+    "theme": "RH",
+    "prompt": "Comment recruter un alternant ?",
+    "status": "ok",
+    "excerpt": "Si vous parlez de la France, recruter un alternant se fait généralement en 6 étapes :\n\nDéfinir le poste et le type d’alternance : contrat d’apprentissage ou contrat de professionnalisation. L’apprentissage est le dispositif le plus courant pour les étudiants et jeunes en formation.\n\nTrouver le candidat : vous pouvez publier l’offre sur LinkedIn, Indeed, France Travail, La bonne alternance, mais au",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
