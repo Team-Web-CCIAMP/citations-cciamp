@@ -62,5 +62,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Perplexity",
+    "label": "Accompagnement transition numérique",
+    "theme": "Transformation numérique",
+    "prompt": "Quel accompagnement pour la transition numérique en entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire Aix-Marseille-Provence, l’accompagnement à la transition numérique repose principalement sur la CCI Aix-Marseille-Provence, le programme régional-européen Move2Digital, ainsi que les ressources de France Num, Bpifrance et de la CPME 13. L’enjeu est d’abord de réaliser un diagnostic, puis de combiner conseil, formation, sécurisation informatique et recherche de financements adapté",
+    "cited_urls": [
+      "https://www.cciamp.com/transformation-numerique"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
