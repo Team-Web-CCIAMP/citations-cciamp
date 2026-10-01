@@ -616,5 +616,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Gemini",
+    "label": "Diagnostic RH PME",
+    "theme": "RH",
+    "prompt": "Où faire un diagnostic RH pour ma PME sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Pour réaliser un diagnostic RH pour votre PME sur le territoire Aix-Marseille-Provence, plusieurs dispositifs institutionnels et acteurs locaux sont disponibles :\n\nDispositifs publics et institutionnels\n\nPrestation Conseil en Ressources Humaines (PCRH) : Dispositif national d'accompagnement cofinancé par l'État (DREETS PACA) et votre OPCO. Il permet de faire réaliser un diagnostic personnalisé com",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
