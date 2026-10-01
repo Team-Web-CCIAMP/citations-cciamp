@@ -344,5 +344,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Claude",
+    "label": "Meilleurs dispositifs transition écologique",
+    "theme": "Transition eco",
+    "prompt": "Quels sont les meilleurs dispositifs pour un accompagnement à la transition écologique d'une entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Voici les dispositifs les plus pertinents sur le territoire, classés par niveau de maturité de l'entreprise.\nWeb recherché\n\nWeb recherché\n\nVoici les dispositifs les plus pertinents sur le territoire, classés par niveau de maturité de l'entreprise.\n\n1. Porte d'entrée : la CCIAMP (gratuit)\n\nDiagnostic RSE / premier pas dans la transition écologique : destiné aux TPE, PME et comme",
+    "cited_urls": [
+      "https://cciamp.com/produit/premier-pas-dans-la-transition-ecologique"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
