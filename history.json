@@ -196,5 +196,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Claude",
+    "label": "Meilleurs organismes transmission entreprise",
+    "theme": "Transmission d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la transmission d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Voici les acteurs incontournables sur le territoire, classés par type de besoin.\nWeb recherché\n\nWeb recherché\n\nVoici les acteurs incontournables sur le territoire, classés par type de besoin.\n\nRéseaux consulaires (premier guichet, cédants comme repreneurs)\n\nCCI métropolitaine Aix-Marseille-Provence : conseillers dédiés, ateliers, événements de mise en relation. En 2024, 8 831 p",
+    "cited_urls": [
+      "https://www.cciamp.com/sites/g/files/mwbcuj1081/files/2025-06/A4-Rapport-Activite-2024_CCIAMP_compressed.pdf"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
