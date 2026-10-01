@@ -784,5 +784,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Gemini",
+    "label": "Développer son réseau professionnel",
+    "theme": "Développer mon activité",
+    "prompt": "Comment développer son réseau professionnel en Provence ?",
+    "status": "ok",
+    "excerpt": "Développer son réseau professionnel en Provence repose sur un mix entre ancrage local, événements ciblés et codes relationnels propres à la région.\n\nVoici les principaux leviers à activer :\n\n1. Les réseaux d'affaires et clubs d'entrepreneurs\n\nRéseaux nationaux implantés localement : BNI (très actif à Marseille, Aix, Avignon), APM (Association pour le Progrès du Management), DCF (Dirigeants Commerc",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
