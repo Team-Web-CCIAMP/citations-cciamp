@@ -36,5 +36,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Perplexity",
+    "label": "Meilleurs organismes création entreprise",
+    "theme": "Création d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Les « meilleurs » organismes dépendent avant tout de votre projet — activité artisanale, commerce/service, micro-entreprise avec faible apport, startup innovante ou PME créatrice d’emplois. Sur Aix-Marseille-Provence, le parcours le plus efficace consiste souvent à commencer par la CCI AMP ou la CMA PACA selon votre activité, puis à mobiliser un réseau de financement et de mentorat adapté.\n\nLes in",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
