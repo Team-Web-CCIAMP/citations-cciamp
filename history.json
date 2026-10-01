@@ -88,5 +88,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Claude",
+    "label": "Meilleurs organismes création entreprise",
+    "theme": "Création d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Le territoire est bien maillé : en 2025, la Métropole a financé 18 opérateurs du financement et de l'accompagnement à hauteur de 956 000 euros, en complémentar…\nWeb recherché\n\nWeb recherché\n\nLe territoire est bien maillé : en 2025, la Métropole a financé 18 opérateurs du financement et de l'accompagnement à hauteur de 956 000 euros, en complémentarité du Conseil régional et de ",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
