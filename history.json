@@ -666,5 +666,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Claude",
+    "label": "Recruter un alternant (générique)",
+    "theme": "RH",
+    "prompt": "Comment recruter un alternant ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Voici les étapes clés pour recruter un alternant en France :\nWeb recherché\n\nWeb recherché\n\nVoici les étapes clés pour recruter un alternant en France :\n\n1. Choisir le type de contrat\n\nContrat d'apprentissage : diplôme ou titre RNCP, pour les jeunes de 16 à 29 ans (sans limite d'âge dans certains cas, comme une situation de handicap).\nContrat de professionnalisation : qualificat",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
