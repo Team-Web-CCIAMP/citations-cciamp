@@ -36,5 +36,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "ChatGPT",
+    "label": "Meilleurs organismes création entreprise",
+    "theme": "Création d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Sur le territoire Aix-Marseille-Provence, il n’y a pas un seul organisme à privilégier : le bon interlocuteur dépend surtout du stade du projet, du besoin de financement et du profil du créateur.\n\nPour un accompagnement généraliste, de l’idée jusqu’au lancement, BGE Provence-Alpes Méditerranée Accès Conseil est particulièrement pertinent : travail sur la faisabilité, le modèle économique, le busin",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
