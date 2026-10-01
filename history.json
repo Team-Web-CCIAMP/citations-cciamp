@@ -526,5 +526,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Gemini",
+    "label": "Formations intelligence artificielle",
+    "theme": "Transformation numérique",
+    "prompt": "Quelles sont les meilleures formations en intelligence artificielle sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Le territoire Aix-Marseille-Provence propose un éventail complet de formations en intelligence artificielle, des diplômes universitaires de haut niveau aux parcours professionnels intensifs.   \nThe Bridge Ecole\n\nFormations universitaires et grandes écoles (Bac+3 à Bac+5)\n\nAix-Marseille Université (AMU) :   \nMaster IA\n\nMaster Informatique — Parcours Apprentissage et Données (IA) : Le cursus académi",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
