@@ -34,5 +34,19 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "ChatGPT",
+    "label": "Meilleurs organismes transmission entreprise",
+    "theme": "Transmission d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la transmission d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Sur le territoire Aix–Marseille–Provence, je regarderais en priorité les acteurs suivants, mais chacun intervient à un moment différent de la transmission.\n\n4,9\nCCI Aix-Marseille-Provence – Aix-en-Provence\n3,4\nCMA Provence-Alpes-Côte d'Azur – Aix-en-Provence\n1,0\nCRA – Aix-en-Provence\n4,9\nInitiative Pays d'Aix\n4,3\nInitiative Marseille Métropole\nRéseau Entreprendre Provence\nUse two fingers to move t",
+    "cited_urls": [
+      "https://www.cciamp.com/produit/transmission-dentreprise-parcours-mon-projet-dentreprise-transmission?utm_source=chatgpt.com"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
