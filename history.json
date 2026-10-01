@@ -246,5 +246,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Gemini",
+    "label": "Meilleurs organismes formalités entreprise",
+    "theme": "Formalités",
+    "prompt": "Quels sont les meilleurs organismes pour les formalités d'entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Depuis la réforme nationale, l'immatriculation et les démarches administratives officielles se font désormais exclusivement sur la plateforme nationale en ligne : le Guichet unique des formalités d'entreprises (géré par l'INPI).   \nINPI\n\nToutefois, sur le territoire Aix-Marseille-Provence, plusieurs organismes locaux proposent des prestations pour t'accompagner, valider tes pièces juridiques ou ré",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
