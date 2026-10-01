@@ -134,5 +134,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "ChatGPT",
+    "label": "Comment reprendre une entreprise",
+    "theme": "Reprise d'entreprise",
+    "prompt": "Comment reprendre une entreprise ?",
+    "status": "ok",
+    "excerpt": "Reprendre une entreprise consiste à acheter une société existante plutôt que partir de zéro. En France, le parcours se structure généralement ainsi :\n\nDéfinir votre projet de reprise : secteur, localisation, taille, chiffre d’affaires, nombre de salariés, rôle que vous souhaitez avoir et surtout votre apport personnel. Par exemple, avec 100 k€ d’apport, la taille d’entreprise accessible peut être ",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
