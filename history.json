@@ -422,5 +422,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "ChatGPT",
+    "label": "Financer la transition écologique",
+    "theme": "Transition eco",
+    "prompt": "Comment financer la transition écologique de mon entreprise ?",
+    "status": "ok",
+    "excerpt": "Oui. En France, le plus efficace est généralement de combiner plusieurs sources de financement, plutôt que de chercher une seule subvention couvrant tout le projet.\n\nPour une entreprise, je structurerais le financement ainsi :\n\nCommencer par les aides et subventions publiques. L’ADEME\n finance notamment les diagnostics et études, l’efficacité énergétique, la réduction des émissions, les énergies r",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
