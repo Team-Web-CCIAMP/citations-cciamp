@@ -22,31 +22,5 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
-  },
-  {
-    "date": "2026-10-01",
-    "llm": "ChatGPT",
-    "label": "Meilleurs organismes création entreprise",
-    "theme": "Création d'entreprise",
-    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
-    "status": "ok",
-    "excerpt": "4,9\nInitiative Pays d'Aix\n4,9\npce - Couveuse d'Entreprises Aix en Provence\n4,7\nIncubateur Belle de Mai\n4,8\nIncubateur inter-universitaire IMPULSE\n4,9\nEntrepreneuri'Elles I Association de femmes entrepreneures\nUse two fingers to move the map\nUse ctrl + scroll to zoom the map\nInitiative Pays d'Aix\n4,9\n•\nServices aux entreprises\npce - Couveuse d'Entreprises Aix en Provence\n4,9\n•\nSiège social\nIncubate",
-    "cited_urls": [
-      "https://www.cciamp.com/?utm_source=chatgpt.com"
-    ],
-    "domain_cited_as_source": true,
-    "domain_mentioned_in_text": true
-  },
-  {
-    "date": "2026-10-01",
-    "llm": "Perplexity",
-    "label": "Meilleurs organismes création entreprise",
-    "theme": "Création d'entreprise",
-    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
-    "status": "ok",
-    "excerpt": "Sur Aix-Marseille-Provence, le « meilleur » organisme dépend surtout de votre stade d’avancement, de votre besoin de financement et du potentiel de développement du projet. Pour un créateur classique, je privilégierais un parcours combinant CCIAMP pour structurer le projet, puis une plateforme Initiative ou un réseau spécialisé pour le financement et le mentorat.\n\nLes interlocuteurs à privilégier\n",
-    "cited_urls": [],
-    "domain_cited_as_source": true,
-    "domain_mentioned_in_text": true
   }
 ]
