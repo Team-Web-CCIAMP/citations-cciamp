@@ -458,5 +458,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "ChatGPT",
+    "label": "Formations cybersécurité TPE",
+    "theme": "Transformation numérique",
+    "prompt": "Quelles sont les meilleures formations en cybersécurité pour les TPE sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "4,0\nMailinblack\n4,5\nCampus CESI\nUse two fingers to move the map\nUse ctrl + scroll to zoom the map\nMailinblack\n4,0\n•\nService de sécurité informatique\nCampus CESI\n4,5\n•\nÉcole d'ingénieurs\n\nPour une TPE d’Aix–Marseille-Provence, je distinguerais trois besoins : former le dirigeant, sensibiliser toute l’équipe, ou faire monter en compétence une personne qui deviendra le « référent cyber ». Les offres ",
+    "cited_urls": [
+      "https://www.cciamp.com/evenement/formation-cybersecurite-tpe-1?utm_source=chatgpt.com"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
