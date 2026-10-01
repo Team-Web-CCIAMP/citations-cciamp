@@ -410,5 +410,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Claude",
+    "label": "Financer la transition écologique",
+    "theme": "Transition eco",
+    "prompt": "Comment financer la transition écologique de mon entreprise ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : La logique la plus efficace : diagnostic subventionné d'abord, puis empilement des guichets (subventions + prêts + CEE).\nWeb recherché\n\nWeb recherché\n\nLa logique la plus efficace : diagnostic subventionné d'abord, puis empilement des guichets (subventions + prêts + CEE). Voici les leviers, du plus accessible au plus lourd.\n\n1. Démarrer par un diagnostic subventionné\n\nDiag Décar",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
