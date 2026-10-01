@@ -500,5 +500,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Gemini",
+    "label": "Accompagnement transition numérique",
+    "theme": "Transformation numérique",
+    "prompt": "Quel accompagnement pour la transition numérique en entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire Aix-Marseille-Provence, plusieurs acteurs publics et régionaux proposent un accompagnement adapté à la taille de votre entreprise et à la maturité de votre projet :   \nAgence & Développeur IA à Marseille\n\n1. Acteurs institutionnels locaux (premiers interlocuteurs)\n\nCCI Métropolitaine Aix-Marseille-Provence (CCIAMP) :\n\nPoint d'entrée : Réalise des diagnostics numériques gratuits e",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
