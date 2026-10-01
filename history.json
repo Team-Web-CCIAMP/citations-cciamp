@@ -258,5 +258,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Claude",
+    "label": "Meilleurs organismes formalités entreprise",
+    "theme": "Formalités",
+    "prompt": "Quels sont les meilleurs organismes pour les formalités d'entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Depuis 2023, toutes les formalités (création, modification, cessation) se déposent en ligne sur le Guichet unique de l'INPI (formalites.entreprises.gouv.fr).\nWeb recherché\n\nWeb recherché\n\nDepuis 2023, toutes les formalités (création, modification, cessation) se déposent en ligne sur le Guichet unique de l'INPI (formalites.entreprises.gouv.fr). Les anciens Centres de Formalités ",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
