@@ -398,5 +398,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Gemini",
+    "label": "Financer la transition écologique",
+    "theme": "Transition eco",
+    "prompt": "Comment financer la transition écologique de mon entreprise ?",
+    "status": "ok",
+    "excerpt": "Le financement de la transition écologique de votre entreprise s'articule autour de dispositifs publics (subventions, diagnostics), d'outils bancaires dédiés et de leviers privés.\n\n1. Diagnostics et aides de l'ADEME et de Bpifrance\n\nAvant d'investir, il est recommandé de faire un bilan de votre situation pour cibler les financements :\n\nDiag Eco-Flux (Bpifrance & ADEME) : destiné aux PME (10 à 250 ",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
