@@ -330,5 +330,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "ChatGPT",
+    "label": "Meilleurs dispositifs transition écologique",
+    "theme": "Transition eco",
+    "prompt": "Quels sont les meilleurs dispositifs pour un accompagnement à la transition écologique d'une entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "4,6\nCCI Aix-Marseille-Provence (CCIAMP)\nUse two fingers to move the map\nUse ctrl + scroll to zoom the map\nCCI Aix-Marseille-Provence (CCIAMP)\n4,6\n•\nChambre de commerce et d'industrie\n\nPour une entreprise implantée sur Aix-Marseille-Provence, je regarderais d’abord les dispositifs publics ou fortement subventionnés avant de financer directement une mission de conseil. Le territoire bénéficie d’un é",
+    "cited_urls": [
+      "https://www.cciamp.com/transition-ecologique-rse?utm_source=chatgpt.com"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
