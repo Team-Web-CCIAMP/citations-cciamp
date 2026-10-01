@@ -60,5 +60,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Claude",
+    "label": "Comment créer une entreprise",
+    "theme": "Création d'entreprise",
+    "prompt": "Comment créer une entreprise ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Voici les grandes étapes pour créer une entreprise en France :\nExplication des étapes pour créer une entreprise.\nExplication des étapes pour créer une entreprise.\n\nVoici les grandes étapes pour créer une entreprise en France :\n\n1. Valider le projet\nÉtude de marché (clients, concurrence, prix), business plan et prévisionnel financier sur 3 ans. Les CCI proposent un accompagnement",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
