@@ -98,5 +98,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Claude",
+    "label": "Formations cybersécurité TPE",
+    "theme": "Transformation numérique",
+    "prompt": "Quelles sont les meilleures formations en cybersécurité pour les TPE sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Voici les options les plus pertinentes pour une TPE sur le territoire, du format le plus court au plus complet.\nWeb recherché\n\nWeb recherché\n\nVoici les options les plus pertinentes pour une TPE sur le territoire, du format le plus court au plus complet.\n\n1. Formation cybersécurité TPE (1 jour), par la CCIAMP et Urgence Cyber Région Sud. C'est le point d'entrée idéal pour un dir",
+    "cited_urls": [
+      "https://www.cciamp.com/produit/formation-cybersecurite-tpe-apprendre-proteger-mon-entreprise-des-cyberattaques"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
