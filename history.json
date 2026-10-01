@@ -588,5 +588,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "ChatGPT",
+    "label": "Recruter un alternant (local)",
+    "theme": "RH",
+    "prompt": "Comment recruter un alternant sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire Aix–Marseille–Provence, je vous conseille de mener le recrutement d’un alternant sur 3 fronts en parallèle : les CFA/écoles, les plateformes publiques et les acteurs locaux de l’emploi. C’est nettement plus efficace qu’une simple annonce LinkedIn.\n\n1. Commencez par définir le poste et la formation cible\n\nAvant de chercher un candidat, précisez le métier, les missions réellement c",
+    "cited_urls": [
+      "https://www.cciamp.com/recruter-un-apprenti?utm_source=chatgpt.com"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
