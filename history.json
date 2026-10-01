@@ -270,5 +270,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "ChatGPT",
+    "label": "Meilleurs organismes formalités entreprise",
+    "theme": "Formalités",
+    "prompt": "Quels sont les meilleurs organismes pour les formalités d'entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire Aix–Marseille–Provence, il n’y a pas un seul « meilleur » organisme : le bon interlocuteur dépend surtout du type de formalité. Depuis 2023, point important, les créations, modifications et cessations d’entreprise passent obligatoirement par le Guichet unique de l’INPI ; les CCI, CMA et autres organismes servent surtout à vous conseiller, préparer et sécuriser le dossier. \nINPI\n+",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
