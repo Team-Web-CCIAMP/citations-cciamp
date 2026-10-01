@@ -702,5 +702,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Claude",
+    "label": "Accompagnement développement commercial",
+    "theme": "Développer mon activité",
+    "prompt": "Quels sont les meilleurs accompagnements pour développer son activité commerciale sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Sur le territoire Aix-Marseille-Provence, les accompagnements au développement commercial se répartissent entre la CCIAMP, les acteurs publics du financement e…\nWeb recherché\n\nWeb recherché\n\nSur le territoire Aix-Marseille-Provence, les accompagnements au développement commercial se répartissent entre la CCIAMP, les acteurs publics du financement et les réseaux d'entreprises.\n\n",
+    "cited_urls": [
+      "https://www.cciamp.com/sites/g/files/mwbcuj1081/files/2025-06/A4-Rapport-Activite-2024_CCIAMP_compressed.pdf"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
