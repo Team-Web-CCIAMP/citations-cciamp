@@ -486,5 +486,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "ChatGPT",
+    "label": "Accompagnement transition numérique",
+    "theme": "Transformation numérique",
+    "prompt": "Quel accompagnement pour la transition numérique en entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "4,6\nCCI Aix-Marseille-Provence (CCIAMP)\n4,0\nLa French Tech Aix-Marseille Région Sud\n5,0\nAccélérateur M\n4,7\nCCI Formation Aix-Marseille-Provence\nUse two fingers to move the map\nUse ctrl + scroll to zoom the map\nCCI Aix-Marseille-Provence (CCIAMP)\n4,6\n•\nChambre de commerce et d'industrie\nLa French Tech Aix-Marseille Région Sud\n4,0\n•\nAssociation ou organisation\nAccélérateur M\n5,0\n•\nConseiller en gest",
+    "cited_urls": [
+      "https://www.cciamp.com/transformation-numerique?utm_source=chatgpt.com"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
