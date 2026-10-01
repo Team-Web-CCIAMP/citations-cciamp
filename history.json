@@ -22,43 +22,5 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
-  },
-  {
-    "date": "2026-10-01",
-    "llm": "Gemini",
-    "label": "Meilleurs organismes création entreprise",
-    "theme": "Création d'entreprise",
-    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
-    "status": "ok",
-    "excerpt": "Le territoire d'Aix-Marseille-Provence dispose d'un écosystème très riche. Le choix de l'organisme dépend principalement de votre profil et de la nature de votre projet.\n\n1. Les acteurs institutionnels (Tout type de projet)\n\nCCI Aix-Marseille-Provence & CMA 13 : Portes d'entrée incontournables pour les démarches réglementaires, formations à la gestion et ateliers sur le business plan.\n\nRéseau Éco ",
-    "cited_urls": [],
-    "domain_cited_as_source": true,
-    "domain_mentioned_in_text": true
-  },
-  {
-    "date": "2026-10-01",
-    "llm": "Claude",
-    "label": "Meilleurs organismes création entreprise",
-    "theme": "Création d'entreprise",
-    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
-    "status": "ok",
-    "excerpt": "Claude a répondu : Voici les principaux acteurs, classés par type de besoin.\nWeb recherché\n\nWeb recherché\n\nVoici les principaux acteurs, classés par type de besoin.\n\nLe cadre institutionnel. La Métropole intervient en complémentarité du Conseil régional Provence-Alpes-Côte d'Azur et de son dispositif \"Mon Projet d'Entreprise\" pour soutenir les réseaux d'aide à la création et au développement des ",
-    "cited_urls": [],
-    "domain_cited_as_source": true,
-    "domain_mentioned_in_text": true
-  },
-  {
-    "date": "2026-10-01",
-    "llm": "Perplexity",
-    "label": "Meilleurs organismes création entreprise",
-    "theme": "Création d'entreprise",
-    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
-    "status": "ok",
-    "excerpt": "Sur le territoire d’Aix-Marseille-Provence, il n’existe pas un organisme unique « meilleur » pour tous les projets : le bon interlocuteur dépend surtout de votre stade d’avancement, de votre besoin de financement et du caractère innovant, social ou étudiant de votre projet. Pour un accompagnement généraliste et solide, commencez par la CCI Aix-Marseille-Provence et le parcours régional Mon projet ",
-    "cited_urls": [
-      "https://www.cciamp.com/vos-besoins/creer-votre-entreprise"
-    ],
-    "domain_cited_as_source": true,
-    "domain_mentioned_in_text": true
   }
 ]
