@@ -678,5 +678,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "ChatGPT",
+    "label": "Accompagnement développement commercial",
+    "theme": "Développer mon activité",
+    "prompt": "Quels sont les meilleurs accompagnements pour développer son activité commerciale sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "4,6\nCCI Aix-Marseille-Provence (CCIAMP)\n5,0\nAccélérateur M\n5,0\nGEPA - Groupement des Entrepreneurs du Pays d'Aix\nRéseau Entreprendre PACA\n5,0\nAIXPONENTIELLE Accélérez votre business - Accompagnement de dirigeants - Direction commerciale temps partagé - AIX MARSEILLE\nUse two fingers to move the map\nUse ctrl + scroll to zoom the map\nCCI Aix-Marseille-Provence (CCIAMP)\n4,6\n•\nChambre de commerce et d'",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
