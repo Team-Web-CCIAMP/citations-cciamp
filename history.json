@@ -120,5 +120,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "ChatGPT",
+    "label": "Meilleurs organismes reprise entreprise",
+    "theme": "Reprise d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la reprise d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "4,9\nIRCE - Institut Régional des Chefs d'Entreprise\n4,6\nCCI Aix-Marseille-Provence (CCIAMP)\nRéseau Entreprendre PACA\n4,9\nInitiative Pays d'Aix\n4,3\nInitiative Marseille Métropole\n4,9\nFrance Active Provence-Alpes-Côte d'Azur\nUse two fingers to move the map\nUse ctrl + scroll to zoom the map\nIRCE - Institut Régional des Chefs d'Entreprise\n4,9\n•\nCentre de formation continue\nCCI Aix-Marseille-Provence (",
+    "cited_urls": [
+      "https://www.cciamp.com/vos-besoins/reprendre-une-entreprise?utm_source=chatgpt.com"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
