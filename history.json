@@ -756,5 +756,19 @@
     ],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Perplexity",
+    "label": "Formation techniques de vente",
+    "theme": "Développer mon activité",
+    "prompt": "Où suivre une formation en techniques de vente sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Plusieurs organismes de formation proposent des sessions en techniques de vente sur le territoire d’Aix‑Marseille‑Provence, en présentiel (Aix‑en‑Provence et/ou Marseille) et/ou à distance. Voici les principales options repérées :\n\nOrganismes avec sessions à Aix‑en‑Provence et/ou Marseille\nCNFCE (Centre National de Formation Continue en Entreprise)\n\nFormations disponibles :\n\nTechniques de vente : ",
+    "cited_urls": [
+      "https://formationpro.cciamp.com/formations/marketing-relation-client-negociation-vente/cycle-mener-une-negociation-commerciale/"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
