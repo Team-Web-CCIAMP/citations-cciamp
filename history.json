@@ -34,5 +34,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "ChatGPT",
+    "label": "Meilleurs organismes création entreprise",
+    "theme": "Création d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "4,9\nInitiative Pays d'Aix\n4,7\nIncubateur Belle de Mai\n4,8\nIncubateur inter-universitaire IMPULSE\n4,7\nZEBOX\nUse two fingers to move the map\nUse ctrl + scroll to zoom the map\nInitiative Pays d'Aix\n4,9\n•\nAssociation ou organisation\nIncubateur Belle de Mai\n4,7\n•\nOrganisme à but non lucratif\nIncubateur inter-universitaire IMPULSE\n4,8\n•\nServices aux entreprises\nZEBOX\n4,7\n•\nEspace de coworking\n\nSur le te",
+    "cited_urls": [
+      "https://www.cciamp.com/?utm_source=chatgpt.com"
+    ],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
