@@ -234,5 +234,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "ChatGPT",
+    "label": "Comment transmettre son entreprise",
+    "theme": "Transmission d'entreprise",
+    "prompt": "Comment transmettre son entreprise ?",
+    "status": "ok",
+    "excerpt": "En France, transmettre son entreprise consiste à organiser à la fois le choix du repreneur, la valorisation, le montage juridique et la fiscalité. Il vaut mieux préparer l’opération assez tôt : Bpifrance recommande une démarche structurée allant du diagnostic de l’entreprise jusqu’à l’accompagnement après la cession. \nBpifrance Création\n+1\n\nLes grandes possibilités sont :\n\nVendre à un tiers : conc",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
