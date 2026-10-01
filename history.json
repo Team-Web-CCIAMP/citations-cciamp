@@ -26,18 +26,6 @@
   {
     "date": "2026-10-01",
     "llm": "ChatGPT",
-    "label": "Meilleurs organismes création entreprise",
-    "theme": "Création d'entreprise",
-    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
-    "status": "ok",
-    "excerpt": "Sur le territoire Aix–Marseille–Provence, il n’y a pas un organisme unique qui soit le meilleur dans tous les cas : certains sont particulièrement utiles pour structurer le projet, d’autres pour obtenir un financement, d’autres encore pour une startup innovante ou une activité artisanale.\n\nVoici ceux que je regarderais en priorité, selon votre situation :\n\nCCI Aix-Marseille-Provence - Agence Aix-e",
-    "cited_urls": [],
-    "domain_cited_as_source": false,
-    "domain_mentioned_in_text": false
-  },
-  {
-    "date": "2026-10-01",
-    "llm": "ChatGPT",
     "label": "Meilleurs organismes transmission entreprise",
     "theme": "Transmission d'entreprise",
     "prompt": "Quels sont les meilleurs organismes pour accompagner la transmission d'entreprise sur le territoire Aix Marseille Provence",
