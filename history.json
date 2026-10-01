@@ -170,5 +170,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Gemini",
+    "label": "Meilleurs organismes transmission entreprise",
+    "theme": "Transmission d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la transmission d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Sur le territoire Aix-Marseille-Provence, le choix du bon interlocuteur dépend principalement de la taille de votre entreprise, de votre secteur d'activité et du niveau d'accompagnement souhaité (diagnostic, mise en relation confidentielle ou structuration juridique/financière).\n\n1. Les institutions publiques et consulaires (Premier niveau d'accompagnement)\n\nCCI Aix-Marseille-Provence (CCIAMP) : C",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
