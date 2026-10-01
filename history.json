@@ -178,5 +178,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "ChatGPT",
+    "label": "Développer son réseau professionnel",
+    "theme": "Développer mon activité",
+    "prompt": "Comment développer son réseau professionnel en Provence ?",
+    "status": "ok",
+    "excerpt": "En Provence, le réseau professionnel se développe souvent plus facilement par présence régulière et recommandations que par accumulation de contacts LinkedIn. L’idée est de devenir progressivement une personne que l’écosystème local reconnaît.\n\n4\n4 images\nUne méthode simple qui fonctionne\n\nCommencez par choisir 2 ou 3 écosystèmes maximum correspondant à votre activité. Autour d’Aix-Marseille, la F",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
