@@ -166,5 +166,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Claude",
+    "label": "Développer son réseau professionnel",
+    "theme": "Développer mon activité",
+    "prompt": "Comment développer son réseau professionnel en Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Voici les leviers les plus efficaces, du plus structurant au plus informel.\nWeighing the person's workplace as useful context.\nWeighing the person's workplace as useful context.\n\nVoici les leviers les plus efficaces, du plus structurant au plus informel.\n\n1. Les réseaux institutionnels et d'affaires\n\nCCI Aix-Marseille-Provence : clubs d'entreprises, rencontres thématiques, petit",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
