@@ -372,5 +372,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Gemini",
+    "label": "Accompagnement décarbonation industrie",
+    "theme": "Transition eco",
+    "prompt": "Quel accompagnement pour la décarbonation d'une industrie sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire d'Aix-Marseille-Provence (particulièrement ciblé sur la zone Fos-Berre, premier pôle industriel régional), l'accompagnement à la décarbonation s'articule autour de programmes régionaux dédiés, d'aides financières publiques et de guichets d'ingénierie locale.\n\n1. Dispositifs d'accompagnement sur le territoire\n\nProgramme D-CODE (Aix-Marseille-Provence & Novachim) : Un accompagnemen",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
