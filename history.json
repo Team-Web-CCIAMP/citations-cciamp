@@ -550,5 +550,19 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Claude",
+    "label": "Formations intelligence artificielle",
+    "theme": "Transformation numérique",
+    "prompt": "Quelles sont les meilleures formations en intelligence artificielle sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Il n'y a pas de « meilleure » formation dans l'absolu : ça dépend du public visé.\nWeb recherché\n\nWeb recherché\n\nIl n'y a pas de « meilleure » formation dans l'absolu : ça dépend du public visé. Voici le paysage local, classé par profil.\n\nSalariés / dirigeants : montée en compétences rapide sur l'IA générative\n\nCCIAMP (formationpro.cciamp.com) : un parcours GENIA en modules. Par",
+    "cited_urls": [
+      "https://formationpro.cciamp.com/formations/communication-developpement-personnel/ia-generatives-pour-augmenter-vos-performances-module-genia-applications-de-base-sur-vos-metiers/"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
