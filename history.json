@@ -84,5 +84,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Perplexity",
+    "label": "Comment créer une entreprise",
+    "theme": "Création d'entreprise",
+    "prompt": "Comment créer une entreprise ?",
+    "status": "ok",
+    "excerpt": "Créer une entreprise en France consiste à transformer une idée en un projet viable, choisir un cadre juridique adapté, puis accomplir les formalités d’immatriculation en ligne. La démarche varie selon que vous créez une micro-entreprise, une entreprise individuelle (EI) ou une société (SASU, SAS, EURL, SARL, etc.).\nentreprendre.service-public.gouv\n+1\n\n1. Valider le projet\n\nAvant toute formalité, c",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
