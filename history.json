@@ -48,5 +48,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Gemini",
+    "label": "Comment créer une entreprise",
+    "theme": "Création d'entreprise",
+    "prompt": "Comment créer une entreprise ?",
+    "status": "ok",
+    "excerpt": "Créer une entreprise en France se fait désormais principalement en ligne sur le guichet unique. Voici les 6 étapes clés pour structurer votre démarche.\n\n1. Valider le projet et le modèle économique\n\nAvant d'engager des frais :\n\nÉtude de marché : identifiez vos cibles, vos concurrents et votre positionnement.\n\nBusiness plan : chiffrez votre chiffre d'affaires prévisionnel, vos charges et votre beso",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
