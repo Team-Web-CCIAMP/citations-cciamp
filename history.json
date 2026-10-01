@@ -654,5 +654,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Gemini",
+    "label": "Recruter un alternant (générique)",
+    "theme": "RH",
+    "prompt": "Comment recruter un alternant ?",
+    "status": "ok",
+    "excerpt": "Recruter un alternant (en contrat d'apprentissage ou de professionnalisation) se déroule en cinq grandes étapes clés :\n\n1. Définir le besoin et le contrat\n\nContrat d'apprentissage : formation initiale (diplôme d'État ou titre RNCP). Ciblé pour les 16-29 ans révolus.\n\nContrat de professionnalisation : formation continue ou réinsertion professionnelle.\n\nMître d'apprentissage / Tuteur : désignez un s",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
