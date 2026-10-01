@@ -48,5 +48,19 @@
     ],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Perplexity",
+    "label": "Diagnostic RH PME",
+    "theme": "RH",
+    "prompt": "Où faire un diagnostic RH pour ma PME sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Vous pouvez commencer par la CCI Aix-Marseille-Provence, qui propose un Flash’Diag RH gratuit, rapide et spécifiquement conçu pour les entreprises du territoire. Si vos besoins sont plus structurants, orientez-vous vers une PCRH via votre OPCO ou la DREETS, ou vers un cabinet local pour un audit approfondi.\ncciamp\n+1\n\nPremière option : CCIAMP\n\nLa CCI Aix-Marseille-Provence propose le Flash’Diag RH",
+    "cited_urls": [
+      "https://www.cciamp.com/vos-besoins/gestion-des-ressources-humaines"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
