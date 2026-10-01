@@ -126,5 +126,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "ChatGPT",
+    "label": "Formation techniques de vente",
+    "theme": "Développer mon activité",
+    "prompt": "Où suivre une formation en techniques de vente sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Oui. Sur le territoire Aix–Marseille–Provence, vous avez plusieurs possibilités, selon que vous cherchez une formation courte pour professionnels ou un cursus plus complet.\n\nCCI Formation Aix-Marseille-Provence — probablement l'offre la plus directement centrée sur votre demande : formation « Négociation commerciale et vente » de 4 jours / 28 h, proposée à Aix-en-Provence, Marseille, Martigues et ",
+    "cited_urls": [
+      "https://formationpro.cciamp.com/formations/marketing-relation-client-negociation-vente/negociation-commerciale-et-vente/?utm_source=chatgpt.com"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
