@@ -472,5 +472,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Claude",
+    "label": "Formations cybersécurité TPE",
+    "theme": "Transformation numérique",
+    "prompt": "Quelles sont les meilleures formations en cybersécurité pour les TPE sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Sur le territoire, l'offre la plus adaptée aux TPE est portée par la CCIAMP elle-même, en deux niveaux.\nWeb recherché\n\nWeb recherché\n\nSur le territoire, l'offre la plus adaptée aux TPE est portée par la CCIAMP elle-même, en deux niveaux.\n\n1. Formation cybersécurité TPE (1 jour, sensibilisation)\n\nFormat : formation courte d'une journée, collective, proposée par la CCIAMP et Urge",
+    "cited_urls": [
+      "https://www.cciamp.com/produit/formation-cybersecurite-tpe-apprendre-proteger-mon-entreprise-des-cyberattaques"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
