@@ -72,5 +72,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "ChatGPT",
+    "label": "Comment créer une entreprise",
+    "theme": "Création d'entreprise",
+    "prompt": "Comment créer une entreprise ?",
+    "status": "ok",
+    "excerpt": "Oui. Si tu veux créer une entreprise en France, le plus simple est de procéder dans cet ordre :\n\nDéfinir ton activité et ton modèle économique : ce que tu vends, à qui, à quel prix, tes coûts et le chiffre d’affaires que tu peux raisonnablement atteindre. Vérifie aussi si ton activité est réglementée et nécessite un diplôme, une autorisation ou des conditions particulières. \nINPI\nChoisir la forme ",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
