@@ -318,5 +318,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Gemini",
+    "label": "Meilleurs dispositifs transition écologique",
+    "theme": "Transition eco",
+    "prompt": "Quels sont les meilleurs dispositifs pour un accompagnement à la transition écologique d'une entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire d'Aix-Marseille-Provence, l'accompagnement des entreprises repose sur un écosystème articulant aides régionales, services métropolitains et dispositifs consulaires.   \nMétropole Aix-Marseille-Provence\n\n1. Dispositifs régionaux (Région Sud)\n\nDispositif CEDRE (Contrat d'Engagement Démarche Responsable) :\n\nCEDRE Ambition : accompagnement sur 3 ans par un expert RSE pour structurer s",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
