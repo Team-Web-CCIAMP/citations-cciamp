@@ -538,5 +538,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "ChatGPT",
+    "label": "Formations intelligence artificielle",
+    "theme": "Transformation numérique",
+    "prompt": "Quelles sont les meilleures formations en intelligence artificielle sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "4,5\nFaculté des Sciences - Aix-Marseille Université\n3,3\nÉcole La Plateforme_ Marseille - Entrée Sud\n3,9\nAix Ynov Campus\nUse two fingers to move the map\nUse ctrl + scroll to zoom the map\nFaculté des Sciences - Aix-Marseille Université\n4,5\n•\nUniversité\nÉcole La Plateforme_ Marseille - Entrée Sud\n3,3\n•\nÉcole d'informatique\nAix Ynov Campus\n3,9\n•\nÉtablissement d'enseignement supérieur\n\nSur le territoir",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
