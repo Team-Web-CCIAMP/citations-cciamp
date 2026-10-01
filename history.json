@@ -22,43 +22,5 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
-  },
-  {
-    "date": "2026-10-01",
-    "llm": "Gemini",
-    "label": "Meilleurs organismes création entreprise",
-    "theme": "Création d'entreprise",
-    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
-    "status": "ok",
-    "excerpt": "Sur le territoire Métropole Aix-Marseille-Provence, les organismes d'accompagnement sont structurés selon le profil du projet (artisanal, classique, solidaire ou technologique).\n\nVoici les acteurs incontournables selon vos besoins :\n\n1. Les réseaux institutionnels (Tout profil)\n\nCCI Aix Marseille Provence (CCIAMP) : Idéale pour les commerçants, services et industries (ateliers de cadrage, aide au ",
-    "cited_urls": [],
-    "domain_cited_as_source": true,
-    "domain_mentioned_in_text": true
-  },
-  {
-    "date": "2026-10-01",
-    "llm": "ChatGPT",
-    "label": "Meilleurs organismes création entreprise",
-    "theme": "Création d'entreprise",
-    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
-    "status": "ok",
-    "excerpt": "4,9\nInitiative Pays d'Aix\n4,2\nBGE Provence-Alpes Méditerranée Accès Conseil\n4,9\npce - Couveuse d'Entreprises Aix en Provence\n4,7\nIncubateur Belle de Mai\nUse two fingers to move the map\nUse ctrl + scroll to zoom the map\nInitiative Pays d'Aix\n4,9\n•\nAssociation ou organisation\nBGE Provence-Alpes Méditerranée Accès Conseil\n4,2\n•\nConseiller en gestion des affaires\npce - Couveuse d'Entreprises Aix en Pr",
-    "cited_urls": [
-      "https://www.cciamp.com/vos-besoins/creer-votre-entreprise?utm_source=chatgpt.com"
-    ],
-    "domain_cited_as_source": true,
-    "domain_mentioned_in_text": true
-  },
-  {
-    "date": "2026-10-01",
-    "llm": "Claude",
-    "label": "Meilleurs organismes création entreprise",
-    "theme": "Création d'entreprise",
-    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
-    "status": "ok",
-    "excerpt": "Claude a répondu : Le « meilleur » organisme dépend surtout du profil du projet.\nWeb recherché\n\nWeb recherché\n\nLe « meilleur » organisme dépend surtout du profil du projet. Voici les acteurs de référence sur le territoire, classés par besoin.\n\nPremier accueil et orientation\n\nCCI Aix-Marseille-Provence : c'est le point d'entrée pour les projets commerce, services et industrie. Elle propose de l'in",
-    "cited_urls": [],
-    "domain_cited_as_source": true,
-    "domain_mentioned_in_text": true
   }
 ]
