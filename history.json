@@ -62,5 +62,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "ChatGPT",
+    "label": "Formations intelligence artificielle",
+    "theme": "Transformation numérique",
+    "prompt": "Quelles sont les meilleures formations en intelligence artificielle sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Oui. En me limitant réellement au territoire Aix–Marseille-Provence et aux formations actives ou documentées en 2026, voici celles que je regarderais en priorité. Je les distingue par objectif plutôt que de faire un classement absolu.\n\nFormation\tProfil idéal\tNiveau / format\tPoints forts\nAix-Marseille Université – Master Informatique, parcours IAAA\tFutur ML/AI engineer, data scientist, R&D\tMaster B",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
