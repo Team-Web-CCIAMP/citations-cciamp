@@ -140,5 +140,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Gemini",
+    "label": "Développer son réseau professionnel",
+    "theme": "Développer mon activité",
+    "prompt": "Comment développer son réseau professionnel en Provence ?",
+    "status": "ok",
+    "excerpt": "Développer un réseau professionnel en Provence repose sur un mix très local : l'ancrage territorial, l'informel (notamment la convivialité) et les réseaux structurés.\n\nVoici les piliers essentiels pour poser vos jalons et développer votre présence dans la région.\n\n1. Les clubs d'affaires et réseaux d'entrepreneurs\n\nEn Provence, le relationnel passe énormément par les groupements régionaux et métro",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
