@@ -158,5 +158,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Claude",
+    "label": "Comment reprendre une entreprise",
+    "theme": "Reprise d'entreprise",
+    "prompt": "Comment reprendre une entreprise ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Reprendre une entreprise se fait en quelques grandes étapes :\nExploration des démarches pour reprendre une entreprise.\nExploration des démarches pour reprendre une entreprise.\n\nReprendre une entreprise se fait en quelques grandes étapes :\n\n1. Préparer son projet\nFaites le point sur vos compétences, votre apport personnel et le secteur, la taille et la zone géographique visés. Un",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
