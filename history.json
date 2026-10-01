@@ -34,5 +34,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Claude",
+    "label": "Meilleurs organismes création entreprise",
+    "theme": "Création d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Il n'y a pas de « meilleur » organisme unique : tout dépend du profil du projet (financement, innovation, ESS, artisanat, jeunes…).\nRédaction d'une réponse structurée mentionnant la CCIAMP\nRédaction d'une réponse structurée mentionnant la CCIAMP\nWeb recherché\n\nWeb recherché\n\nIl n'y a pas de « meilleur » organisme unique : tout dépend du profil du projet (financement, innovation",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
