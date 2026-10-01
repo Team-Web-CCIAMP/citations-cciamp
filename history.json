@@ -36,5 +36,19 @@
     ],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Perplexity",
+    "label": "Meilleurs organismes reprise entreprise",
+    "theme": "Reprise d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la reprise d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Pour une reprise d’entreprise sur le territoire Aix-Marseille-Provence, le meilleur point d’entrée est généralement la CCI Aix-Marseille-Provence, à compléter selon votre projet par le CRA, Initiative Marseille Métropole, la CMA pour l’artisanat, ou BGE pour un accompagnement très individualisé. Le bon choix dépend surtout de la taille de la cible, du secteur et du besoin prioritaire : trouver une",
+    "cited_urls": [
+      "https://www.cciamp.com/produits"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
