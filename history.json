@@ -294,5 +294,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Claude",
+    "label": "Comment immatriculer une entreprise",
+    "theme": "Formalités",
+    "prompt": "Comment immatriculer une entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : La démarche est nationale : être sur le territoire Aix-Marseille-Provence ne change pas la procédure, seulement le greffe compétent, qui est attribué automatiq…\nWeb recherché\n\nWeb recherché\n\nLa démarche est nationale : être sur le territoire Aix-Marseille-Provence ne change pas la procédure, seulement le greffe compétent, qui est attribué automatiquement selon l'adresse du sièg",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
