@@ -22,41 +22,5 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
-  },
-  {
-    "date": "2026-10-01",
-    "llm": "ChatGPT",
-    "label": "Meilleurs organismes création entreprise",
-    "theme": "Création d'entreprise",
-    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
-    "status": "ok",
-    "excerpt": "4,9\nCCI Aix-Marseille-Provence - Agence Aix-en-Provence\n4,6\nCCI Aix-Marseille-Provence (CCIAMP)\n4,2\nBGE Provence-Alpes Méditerranée Accès Conseil\n4,9\nInitiative Pays d'Aix\n4,3\nInitiative Marseille Métropole\n4,9\npce - Couveuse d'Entreprises Aix en Provence\n5,0\nLes Premières Sud\nUse two fingers to move the map\nUse ctrl + scroll to zoom the map\nCCI Aix-Marseille-Provence - Agence Aix-en-Provence\n4,9\n",
-    "cited_urls": [],
-    "domain_cited_as_source": true,
-    "domain_mentioned_in_text": true
-  },
-  {
-    "date": "2026-10-01",
-    "llm": "Claude",
-    "label": "Meilleurs organismes création entreprise",
-    "theme": "Création d'entreprise",
-    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
-    "status": "ok",
-    "excerpt": "Claude a répondu : Il n'y a pas de « meilleur » organisme unique : tout dépend du profil du projet (financement, innovation, ESS, artisanat, jeunes…).\nRédaction d'une réponse structurée mentionnant la CCIAMP\nRédaction d'une réponse structurée mentionnant la CCIAMP\nWeb recherché\n\nWeb recherché\n\nIl n'y a pas de « meilleur » organisme unique : tout dépend du profil du projet (financement, innovation",
-    "cited_urls": [],
-    "domain_cited_as_source": true,
-    "domain_mentioned_in_text": true
-  },
-  {
-    "date": "2026-10-01",
-    "llm": "Perplexity",
-    "label": "Meilleurs organismes création entreprise",
-    "theme": "Création d'entreprise",
-    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
-    "status": "ok",
-    "excerpt": "Les meilleurs organismes ne sont pas les mêmes selon votre projet, votre commune d’implantation et votre besoin prioritaire — structuration, financement, innovation ou microcrédit. Sur Aix-Marseille-Provence, le parcours le plus efficace consiste souvent à commencer par la CCIAMP ou BGE, puis à mobiliser une plateforme Initiative, l’Adie ou un réseau entrepreneurial selon le plan de financement.\n\n",
-    "cited_urls": [],
-    "domain_cited_as_source": true,
-    "domain_mentioned_in_text": true
   }
 ]
