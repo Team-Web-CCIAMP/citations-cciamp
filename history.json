@@ -22,5 +22,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "ChatGPT",
+    "label": "Meilleurs organismes reprise entreprise",
+    "theme": "Reprise d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la reprise d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "5,0\nBpifrance, Délégation Côte d'Azur\nUse two fingers to move the map\nUse ctrl + scroll to zoom the map\nBpifrance, Délégation Côte d'Azur\n5,0\n•\nBanque d'investissement\n\nSur le territoire d’Aix-Marseille-Provence, l’écosystème est assez riche. Pour une reprise d’entreprise, je distinguerais surtout les organismes selon le stade du projet : définition de la cible, recherche d’entreprises, montage fi",
+    "cited_urls": [
+      "https://www.cciamp.com/?utm_source=chatgpt.com"
+    ],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
