@@ -384,5 +384,19 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Claude",
+    "label": "Accompagnement décarbonation industrie",
+    "theme": "Transition eco",
+    "prompt": "Quel accompagnement pour la décarbonation d'une industrie sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Pour une industrie du territoire, l'offre CCIAMP se structure en trois étapes : diagnostiquer, passer à l'action, puis s'inscrire dans la dynamique collective.\nWeb recherché\n\nWeb recherché\n\nPour une industrie du territoire, l'offre CCIAMP se structure en trois étapes : diagnostiquer, passer à l'action, puis s'inscrire dans la dynamique collective.\n\n1. Diagnostiquer (point d'ent",
+    "cited_urls": [
+      "https://www.cciamp.com/transition-ecologique-rse"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
