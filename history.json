@@ -210,5 +210,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Gemini",
+    "label": "Comment transmettre son entreprise",
+    "theme": "Transmission d'entreprise",
+    "prompt": "Comment transmettre son entreprise ?",
+    "status": "ok",
+    "excerpt": "Transmettre une entreprise demande d'anticiper les volets juridique, fiscal et humain. La démarche varie selon que la cession s'effectue à un tiers, un salarié ou un membre de votre famille.\n\n1. Choisissez la modalité de transmission\n\nCession de fonds de commerce ou d'artisanat : Vente des actifs (clientèle, droit au bail, matériel). Adaptée aux entreprises individuelles ou aux TPE.\n\nCession de ti",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
