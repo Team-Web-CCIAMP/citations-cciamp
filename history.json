@@ -48,5 +48,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Claude",
+    "label": "Meilleurs organismes création entreprise",
+    "theme": "Création d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Voici les principaux acteurs, classés par type de besoin :\nRecherche des organismes d'accompagnement à la création d'entreprise.\nRecherche des organismes d'accompagnement à la création d'entreprise.\n\nVoici les principaux acteurs, classés par type de besoin :\n\nAccueil, formalités et premier accompagnement\n\nCCI Aix-Marseille-Provence : information, formation à la création/reprise,",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
