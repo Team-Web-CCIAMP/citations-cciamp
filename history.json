@@ -770,5 +770,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "ChatGPT",
+    "label": "Développer son réseau professionnel",
+    "theme": "Développer mon activité",
+    "prompt": "Comment développer son réseau professionnel en Provence ?",
+    "status": "ok",
+    "excerpt": "5,0\nGEPA - Groupement des Entrepreneurs du Pays d'Aix\n4,8\nCowork'in Aix\n4,8\nYelloworking - Coworking (centre ville Aix en Provence)\nUse two fingers to move the map\nUse ctrl + scroll to zoom the map\nGEPA - Groupement des Entrepreneurs du Pays d'Aix\n5,0\n•\nAssociation ou organisation\nCowork'in Aix\n4,8\n•\nEspace de coworking\nYelloworking - Coworking (centre ville Aix en Provence)\n4,8\n•\nEspace de cowork",
+    "cited_urls": [
+      "https://www.cciamp.com/?utm_source=chatgpt.com"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
