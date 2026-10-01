@@ -50,5 +50,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "ChatGPT",
+    "label": "Meilleurs organismes création entreprise",
+    "theme": "Création d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "4,9\nInitiative Pays d'Aix\n4,3\nInitiative Marseille Métropole\n4,9\nFrance Active Provence-Alpes-Côte d'Azur\n4,9\npce - Couveuse d'Entreprises Aix en Provence\n4,5\npce Couveuse d'entreprises Marseille\n4,7\nIncubateur Belle de Mai\n4,8\nIncubateur inter-universitaire IMPULSE\n4,0\nLa French Tech Aix-Marseille Région Sud\nUse two fingers to move the map\nUse ctrl + scroll to zoom the map\nInitiative Pays d'Aix\n4",
+    "cited_urls": [
+      "https://www.cciamp.com/vos-besoins/creer-votre-entreprise?utm_source=chatgpt.com"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
