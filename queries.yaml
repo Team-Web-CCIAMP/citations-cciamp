@@ -108,8 +108,3 @@ queries:
     theme: "Développer mon activité"
     prompt: "Comment développer son réseau professionnel en Provence ?"
     url: ""
-
-  - label: "coucou"
-    theme: "Création d'entreprise"
-    prompt: "coucou"
-    url: ""
