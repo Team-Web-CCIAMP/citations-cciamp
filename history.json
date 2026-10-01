@@ -48,5 +48,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Claude",
+    "label": "Meilleurs organismes création entreprise",
+    "theme": "Création d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Le paysage s'organise en quelques grandes familles.\nWeb recherché\n\nWeb recherché\n\nLe paysage s'organise en quelques grandes familles. Le bon interlocuteur dépend du profil du projet : artisanal, innovant, ESS, besoin de financement ou non.\n\nLe cadre public\nLa Métropole Aix-Marseille-Provence intervient en complémentarité de la Région Sud et de son dispositif « Mon Projet d'Entr",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
