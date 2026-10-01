@@ -22,5 +22,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Gemini",
+    "label": "Meilleurs organismes création entreprise",
+    "theme": "Création d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Le territoire d'Aix-Marseille-Provence dispose d'un écosystème très riche. Le choix de l'organisme dépend principalement de votre profil et de la nature de votre projet.\n\n1. Les acteurs institutionnels (Tout type de projet)\n\nCCI Aix-Marseille-Provence & CMA 13 : Portes d'entrée incontournables pour les démarches réglementaires, formations à la gestion et ateliers sur le business plan.\n\nRéseau Éco ",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
