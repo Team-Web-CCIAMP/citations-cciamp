@@ -152,5 +152,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Claude",
+    "label": "Formation techniques de vente",
+    "theme": "Développer mon activité",
+    "prompt": "Où suivre une formation en techniques de vente sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : L'offre la plus complète sur le territoire est celle de CCI Formation Aix-Marseille-Provence (1 rue Saint-Sébastien, Marseille 6e), dans la rubrique Marketing …\nChecking SEO visibility of indexed search results\nChecking SEO visibility of indexed search results\nWeb recherché\n\nWeb recherché\n\nL'offre la plus complète sur le territoire est celle de CCI Formation Aix-Marseille-Prove",
+    "cited_urls": [
+      "https://refonte.formationpro.cciamp.com/formations/marketing-relation-client-negociation-vente/negociation-commerciale-et-vente/?pdf=1"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
