@@ -84,5 +84,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Claude",
+    "label": "Meilleurs organismes reprise entreprise",
+    "theme": "Reprise d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la reprise d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Voici les principaux acteurs, classés par type d'appui.\nWeb recherché\n\nWeb recherché\n\nVoici les principaux acteurs, classés par type d'appui.\n\nAccompagnement global et diagnostic\n\nCCI métropolitaine Aix-Marseille-Provence : la CCIAMP accompagne la création et la reprise d'entreprise, avec ateliers thématiques, réunions d'information et l'événement co-organisé avec l'Ordre des E",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
