@@ -434,5 +434,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Perplexity",
+    "label": "Financer la transition écologique",
+    "theme": "Transition eco",
+    "prompt": "Comment financer la transition écologique de mon entreprise ?",
+    "status": "ok",
+    "excerpt": "Pour financer la transition écologique de votre entreprise, combinez en général diagnostic subventionné, aides publiques, financement bancaire et dispositifs fiscaux. La bonne stratégie consiste à partir d’un projet chiffré et mesurable — baisse des consommations, réduction des émissions, diminution des déchets ou substitution d’équipements — puis à rechercher les guichets correspondant à votre ta",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
