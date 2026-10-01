@@ -146,5 +146,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Gemini",
+    "label": "Comment reprendre une entreprise",
+    "theme": "Reprise d'entreprise",
+    "prompt": "Comment reprendre une entreprise ?",
+    "status": "ok",
+    "excerpt": "La reprise d'entreprise est une démarche structurée qui nécessite une bonne préparation financière, juridique et stratégique.\n\nPour t'orienter précisément vers la bonne méthode et les bons interlocuteurs, dis-moi où tu en es dans ton projet :\n\nQuel est l'avancement de ton projet ?\nÉtape 1/3\nCadrage : définition du profil et du budget\nRecherche de cible : identification d'entreprises\nNégociation ou",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
