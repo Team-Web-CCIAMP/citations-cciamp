@@ -22,5 +22,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Perplexity",
+    "label": "Meilleurs organismes création entreprise",
+    "theme": "Création d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Sur le territoire Aix-Marseille-Provence, il n’existe pas un organisme unique « meilleur » pour tous les projets : le bon interlocuteur dépend surtout de votre secteur, de votre besoin de financement et du niveau de maturité du projet. Pour une création classique, je privilégierais un parcours combinant la CCI Aix-Marseille-Provence, puis un financeur-accompagnateur tel qu’Initiative Pays d’Aix, l",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
