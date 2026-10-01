@@ -690,5 +690,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Gemini",
+    "label": "Accompagnement développement commercial",
+    "theme": "Développer mon activité",
+    "prompt": "Quels sont les meilleurs accompagnements pour développer son activité commerciale sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire Métropolitain Aix-Marseille-Provence, les options d'accompagnement varient selon la maturité de ton entreprise et tes objectifs cibles.\n\n1. Les organismes publics et consulaires (Institutionnel)\n\nCCI Métropolitaine Aix-Marseille-Provence (CCIAMP) : Propose des programmes dédiés comme Mon Parcours Entreprise (MPE) Développement pour booster la visibilité et l'attractivité des poin",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
