@@ -22,59 +22,5 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
-  },
-  {
-    "date": "2026-10-01",
-    "llm": "Perplexity",
-    "label": "Meilleurs organismes création entreprise",
-    "theme": "Création d'entreprise",
-    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
-    "status": "ok",
-    "excerpt": "Sur le territoire Aix-Marseille-Provence, il n’existe pas un organisme unique « meilleur » pour tous les projets : le bon interlocuteur dépend surtout de votre stade d’avancement, de votre besoin de financement, de votre accès au crédit bancaire et du potentiel de développement de l’activité. Pour un parcours solide, il est souvent pertinent de combiner un accompagnement de structuration du projet",
-    "cited_urls": [],
-    "domain_cited_as_source": true,
-    "domain_mentioned_in_text": true
-  },
-  {
-    "date": "2026-10-01",
-    "llm": "ChatGPT",
-    "label": "Meilleurs organismes création entreprise",
-    "theme": "Création d'entreprise",
-    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
-    "status": "ok",
-    "excerpt": "4,9\nInitiative Pays d'Aix\n4,7\nIncubateur Belle de Mai\n4,8\nIncubateur inter-universitaire IMPULSE\n4,7\nZEBOX\nUse two fingers to move the map\nUse ctrl + scroll to zoom the map\nInitiative Pays d'Aix\n4,9\n•\nAssociation ou organisation\nIncubateur Belle de Mai\n4,7\n•\nOrganisme à but non lucratif\nIncubateur inter-universitaire IMPULSE\n4,8\n•\nServices aux entreprises\nZEBOX\n4,7\n•\nEspace de coworking\n\nSur le te",
-    "cited_urls": [
-      "https://www.cciamp.com/?utm_source=chatgpt.com"
-    ],
-    "domain_cited_as_source": false,
-    "domain_mentioned_in_text": false
-  },
-  {
-    "date": "2026-10-01",
-    "llm": "Perplexity",
-    "label": "Diagnostic RH PME",
-    "theme": "RH",
-    "prompt": "Où faire un diagnostic RH pour ma PME sur le territoire Aix-Marseille-Provence ?",
-    "status": "ok",
-    "excerpt": "Vous pouvez commencer par la CCI Aix-Marseille-Provence, qui propose un Flash’Diag RH gratuit, rapide et spécifiquement conçu pour les entreprises du territoire. Si vos besoins sont plus structurants, orientez-vous vers une PCRH via votre OPCO ou la DREETS, ou vers un cabinet local pour un audit approfondi.\ncciamp\n+1\n\nPremière option : CCIAMP\n\nLa CCI Aix-Marseille-Provence propose le Flash’Diag RH",
-    "cited_urls": [
-      "https://www.cciamp.com/vos-besoins/gestion-des-ressources-humaines"
-    ],
-    "domain_cited_as_source": true,
-    "domain_mentioned_in_text": true
-  },
-  {
-    "date": "2026-10-01",
-    "llm": "Perplexity",
-    "label": "Accompagnement transition numérique",
-    "theme": "Transformation numérique",
-    "prompt": "Quel accompagnement pour la transition numérique en entreprise sur le territoire Aix-Marseille-Provence ?",
-    "status": "ok",
-    "excerpt": "Sur le territoire Aix-Marseille-Provence, l’accompagnement à la transition numérique repose principalement sur la CCI Aix-Marseille-Provence, le programme régional-européen Move2Digital, ainsi que les ressources de France Num, Bpifrance et de la CPME 13. L’enjeu est d’abord de réaliser un diagnostic, puis de combiner conseil, formation, sécurisation informatique et recherche de financements adapté",
-    "cited_urls": [
-      "https://www.cciamp.com/transformation-numerique"
-    ],
-    "domain_cited_as_source": true,
-    "domain_mentioned_in_text": true
   }
 ]
