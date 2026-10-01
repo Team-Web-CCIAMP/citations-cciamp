@@ -576,5 +576,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Claude",
+    "label": "Recruter un alternant (local)",
+    "theme": "RH",
+    "prompt": "Comment recruter un alternant sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Voici les étapes clés pour recruter un alternant sur Aix-Marseille-Provence.\nWeb recherché\n\nWeb recherché\n\nVoici les étapes clés pour recruter un alternant sur Aix-Marseille-Provence.\n\n1. Choisir le type de contrat\n\nLe contrat d'apprentissage concerne les 16 à 29 ans (sans limite d'âge pour les personnes en situation de handicap) et prépare un diplôme ou un titre RNCP. C'est le",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
