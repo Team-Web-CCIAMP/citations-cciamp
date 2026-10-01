@@ -512,5 +512,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-01",
+    "llm": "Claude",
+    "label": "Accompagnement transition numérique",
+    "theme": "Transformation numérique",
+    "prompt": "Quel accompagnement pour la transition numérique en entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Plusieurs niveaux d'accompagnement coexistent sur le territoire.\nWeb recherché\n\nWeb recherché\n\nPlusieurs niveaux d'accompagnement coexistent sur le territoire.\n\nCCI métropolitaine Aix-Marseille-Provence\nLa CCIAMP couvre le premier niveau (sensibilisation, puis accompagnement individuel). Selon son rapport d'activité 2024, 3 952 entreprises ont été sensibilisées au numérique et ",
+    "cited_urls": [
+      "https://www.cciamp.com/sites/g/files/mwbcuj1081/files/2025-06/A4-Rapport-Activite-2024_CCIAMP_compressed.pdf"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
