@@ -808,5 +808,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-09",
+    "llm": "Gemini",
+    "label": "Meilleurs organismes création entreprise",
+    "theme": "Création d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Sur le territoire Aix-Marseille-Provence, les organismes d'accompagnement sont nombreux et structurés selon le profil de ton projet (commerce, micro-entreprise, innovation, ESS, etc.).   \nLa French Tech Aix Marseille\n\nLa région PACA propose le guichet unique « Mon Projet d'Entreprise » (MPE), qui oriente vers le bon interlocuteur métropolitain.\n\n1. Les organismes institutionnels (Généralistes & In",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
