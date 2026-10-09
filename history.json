@@ -834,5 +834,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-09",
+    "llm": "ChatGPT",
+    "label": "Meilleurs organismes création entreprise",
+    "theme": "Création d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Sur le territoire de la Métropole Aix-Marseille-Provence, plusieurs organismes proposent un accompagnement de qualité pour créer, reprendre ou développer une entreprise. Certains sont gratuits ou financés par des dispositifs publics, d’autres proposent des prestations payantes.\n\nLe meilleur choix dépend surtout de votre profil, de la maturité de votre projet, du secteur d’activité et de vos besoin",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
