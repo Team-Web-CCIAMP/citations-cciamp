@@ -1052,5 +1052,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-12",
+    "llm": "Claude",
+    "label": "Comment immatriculer une entreprise",
+    "theme": "Formalités",
+    "prompt": "Comment immatriculer une entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Il n'y a pas de procédure propre à Aix-Marseille-Provence : l'immatriculation est la même partout en France, et seule l'adresse du siège détermine le greffe co…\nWeb recherché\n\nWeb recherché\n\nIl n’y a pas de procédure propre à Aix-Marseille-Provence : l’immatriculation est la même partout en France, et seule l’adresse du siège détermine le greffe compétent. Les CFE (centres de f",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
