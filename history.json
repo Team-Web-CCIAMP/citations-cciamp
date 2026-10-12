@@ -896,55 +896,5 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
-  },
-  {
-    "date": "2026-10-12",
-    "llm": "Gemini",
-    "label": "Meilleurs organismes reprise entreprise",
-    "theme": "Reprise d'entreprise",
-    "prompt": "Quels sont les meilleurs organismes pour accompagner la reprise d'entreprise sur le territoire Aix Marseille Provence",
-    "status": "ok",
-    "excerpt": "Sur le territoire Aix-Marseille-Provence, la reprise d'entreprise s'appuie sur un écosystème très structuré allant de la recherche de cibles au soutien financier et au mentorat.\n\nVoici les principaux organismes et réseaux incontournables classés par type d'accompagnement :\n\n1. Institutions & Acteurs Réseaux Métropolitains\n\nChambre de Commerce et d'Industrie (CCI) Aix-Marseille-Provence :\n\nRôle : A",
-    "cited_urls": [],
-    "domain_cited_as_source": false,
-    "domain_mentioned_in_text": false
-  },
-  {
-    "date": "2026-10-12",
-    "llm": "Claude",
-    "label": "Meilleurs organismes reprise entreprise",
-    "theme": "Reprise d'entreprise",
-    "prompt": "Quels sont les meilleurs organismes pour accompagner la reprise d'entreprise sur le territoire Aix Marseille Provence",
-    "status": "ok",
-    "excerpt": "Claude a répondu : Information, orientation, mise en relation\nRecherche des meilleurs organismes pour la reprise d'entreprise.\nRecherche des meilleurs organismes pour la reprise d'entreprise.\nInformation, orientation, mise en relation\nCCI Aix-Marseille-Provence: conseillers transmission/reprise, diagnostic, accès à la bourse d’opportunités et accompagnement au montage du projet. C’est le guichet g",
-    "cited_urls": [],
-    "domain_cited_as_source": true,
-    "domain_mentioned_in_text": true
-  },
-  {
-    "date": "2026-10-12",
-    "llm": "Perplexity",
-    "label": "Meilleurs organismes reprise entreprise",
-    "theme": "Reprise d'entreprise",
-    "prompt": "Quels sont les meilleurs organismes pour accompagner la reprise d'entreprise sur le territoire Aix Marseille Provence",
-    "status": "ok",
-    "excerpt": "Pour une reprise d’entreprise à Aix-Marseille-Provence, les interlocuteurs les plus utiles sont généralement la CCI Aix-Marseille-Provence pour structurer et rechercher une cible, Initiative Marseille Métropole pour l’accompagnement et le financement, puis un expert-comptable et un avocat pour sécuriser l’opération. Le bon choix dépend surtout du type d’entreprise visé, de sa localisation et de vo",
-    "cited_urls": [
-      "https://www.cciamp.com/vos-besoins/reprendre-une-entreprise"
-    ],
-    "domain_cited_as_source": true,
-    "domain_mentioned_in_text": true
-  },
-  {
-    "date": "2026-10-12",
-    "llm": "ChatGPT",
-    "label": "Meilleurs organismes reprise entreprise",
-    "theme": "Reprise d'entreprise",
-    "prompt": "Quels sont les meilleurs organismes pour accompagner la reprise d'entreprise sur le territoire Aix Marseille Provence",
-    "status": "ok",
-    "excerpt": "Présentant les organismes locaux",
-    "cited_urls": [],
-    "domain_cited_as_source": false,
-    "domain_mentioned_in_text": false
   }
 ]
