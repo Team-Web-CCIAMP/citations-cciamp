@@ -1258,5 +1258,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-12",
+    "llm": "Claude",
+    "label": "Accompagnement transition numérique",
+    "theme": "Transformation numérique",
+    "prompt": "Quel accompagnement pour la transition numérique en entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Plusieurs dispositifs se complètent sur le territoire, du diagnostic au financement.\nWeb recherché\n\nWeb recherché\n\nPlusieurs dispositifs se complètent sur le territoire, du diagnostic au financement.\n\nMove2Digital (Région Sud, Métropole AMP, Commission européenne)\n\nLe programme soutient l’adoption de technologies stratégiques : intelligence artificielle, objets connectés et cyb",
+    "cited_urls": [
+      "https://www.cciamp.com/sites/g/files/mwbcuj1081/files/2025-06/A4-Rapport-Activite-2024_CCIAMP_compressed.pdf"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
