@@ -1192,5 +1192,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-12",
+    "llm": "Gemini",
+    "label": "Accompagnement décarbonation industrie",
+    "theme": "Transition eco",
+    "prompt": "Quel accompagnement pour la décarbonation d'une industrie sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Le territoire Aix-Marseille-Provence aborde la décarbonation industrielle de manière structurée et très soutenue, du fait de la forte concentration de sites industriels lourds (notamment sur la zone de Fos-sur-Mer et de l'étang de Berre).\n\nPour vous faire accompagner dans cette démarche, plusieurs types de leviers complémentaires s'offrent à votre entreprise :\n\n1. Programment d'Ingénierie & Accomp",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
