@@ -962,5 +962,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-12",
+    "llm": "Perplexity",
+    "label": "Meilleurs organismes transmission entreprise",
+    "theme": "Transmission d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la transmission d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Sur le territoire Aix-Marseille-Provence, la CCI Aix-Marseille-Provence est le meilleur premier interlocuteur pour la plupart des cédants : elle propose un accompagnement local et confidentiel, la recherche de repreneurs et une mise en visibilité ciblée. Selon le type d’entreprise et votre besoin, la CMA, le CRA ou des réseaux de repreneurs peuvent compléter cet accompagnement.\n\nLes organismes à c",
+    "cited_urls": [
+      "https://www.cciamp.com/vos-besoins/transmettre-votre-entreprise"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
