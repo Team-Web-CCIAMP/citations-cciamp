@@ -1104,5 +1104,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-12",
+    "llm": "Claude",
+    "label": "Meilleurs dispositifs transition écologique",
+    "theme": "Transition eco",
+    "prompt": "Quels sont les meilleurs dispositifs pour un accompagnement à la transition écologique d'une entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Voici les dispositifs les plus utiles, du diagnostic au financement.\nWeb recherché\n\nWeb recherché\n\nVoici les dispositifs les plus utiles, du diagnostic au financement. Les dispositifs nationaux évoluent vite (budgets, critères d’éligibilité), donc vérifiez toujours les conditions en vigueur avant de vous engager.\n\n1. Point d’entrée : la plateforme Mission Transition Écologique\n",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
