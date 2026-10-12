@@ -908,5 +908,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-12",
+    "llm": "Claude",
+    "label": "Meilleurs organismes reprise entreprise",
+    "theme": "Reprise d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la reprise d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Voici les principaux acteurs, regroupés par type d'accompagnement.\nConstitution d'une liste d'organismes d'accompagnement par catégorie.\n\nConstitution d'une liste d'organismes d'accompagnement par catégorie.\n\nVoici les principaux acteurs, regroupés par type d’accompagnement. Je les cite de mémoire, donc vérifiez les offres et contacts actuels avant de les recommander.\n\nConseil ",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
