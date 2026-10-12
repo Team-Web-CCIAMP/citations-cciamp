@@ -1002,5 +1002,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-12",
+    "llm": "Claude",
+    "label": "Meilleurs organismes formalités entreprise",
+    "theme": "Formalités",
+    "prompt": "Quels sont les meilleurs organismes pour les formalités d'entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Formalités obligatoires\nRecherche des organismes compétents pour les démarches d'entreprise.\nRecherche des organismes compétents pour les démarches d'entreprise.\nFormalités obligatoires\nGuichet unique de l’INPI (formalites.entreprises.gouv.fr) : depuis le 1er janvier 2023, c’est le canal unique pour toute création, modification ou cessation d’entreprise. Il redistribue ensuite l",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
