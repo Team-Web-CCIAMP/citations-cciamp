@@ -990,5 +990,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-12",
+    "llm": "Gemini",
+    "label": "Meilleurs organismes transmission entreprise",
+    "theme": "Transmission d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la transmission d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Sur le territoire de la métropole Aix-Marseille-Provence, la transmission d'entreprise s'appuie sur un écosystème structuré regroupant des acteurs institutionnels, des réseaux de professionnels et des structures de financement.\n\n1. Les organismes institutionnels et consulaires\n🏛️ CCI métropolitaine Aix-Marseille-Provence (CCIAMP)   \nCCI Paca\n\nPour qui : Commerçants, industriels, prestataires de s",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
