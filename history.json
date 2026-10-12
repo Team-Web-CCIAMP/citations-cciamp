@@ -1078,5 +1078,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-12",
+    "llm": "Perplexity",
+    "label": "Comment immatriculer une entreprise",
+    "theme": "Formalités",
+    "prompt": "Comment immatriculer une entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Pour immatriculer une entreprise à Aix-Marseille-Provence, la démarche officielle se fait en ligne sur le Guichet unique des formalités des entreprises, quel que soit le statut choisi. Le territoire détermine notamment l’adresse du siège et, pour une société, le département de publication de l’annonce légale ; il ne change pas le portail de dépôt.\nformalites.entreprises.gouv\n+1\n\nLes étapes\n\nChoisi",
+    "cited_urls": [
+      "https://www.cciamp.com/vos-besoins/creer-votre-entreprise"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
