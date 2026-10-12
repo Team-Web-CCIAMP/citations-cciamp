@@ -908,5 +908,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-12",
+    "llm": "Claude",
+    "label": "Meilleurs organismes reprise entreprise",
+    "theme": "Reprise d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la reprise d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Information, orientation, mise en relation\nRecherche des meilleurs organismes pour la reprise d'entreprise.\nRecherche des meilleurs organismes pour la reprise d'entreprise.\nInformation, orientation, mise en relation\nCCI Aix-Marseille-Provence: conseillers transmission/reprise, diagnostic, accès à la bourse d’opportunités et accompagnement au montage du projet. C’est le guichet g",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
