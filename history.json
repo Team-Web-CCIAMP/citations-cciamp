@@ -1156,5 +1156,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-12",
+    "llm": "Claude",
+    "label": "Accompagnement décarbonation industrie",
+    "theme": "Transition eco",
+    "prompt": "Quel accompagnement pour la décarbonation d'une industrie sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Sur le territoire Aix-Marseille-Provence, l'accompagnement s'organise à trois niveaux.\nWeb recherché\n\nWeb recherché\n\nSur le territoire Aix-Marseille-Provence, l’accompagnement s’organise à trois niveaux.\n\n1. Zone Fos / Étang de Berre : cadre territorial et financements\n\nUne feuille de route 2025-2030 pour le développement industriel du golfe de Fos et de l’Étang de Berre a été ",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
