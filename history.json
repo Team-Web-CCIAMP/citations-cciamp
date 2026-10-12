@@ -1092,5 +1092,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-12",
+    "llm": "Gemini",
+    "label": "Comment immatriculer une entreprise",
+    "theme": "Formalités",
+    "prompt": "Comment immatriculer une entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire Aix-Marseille-Provence comme sur l'ensemble du territoire national, l'immatriculation d'une entreprise s'effectue en ligne via la plateforme administrative centralisée. Des acteurs métropolitains (CCI, CMA, Urssaf) proposent un accompagnement dédié sur le terrain.   \nCCI Aix Marseille Provence\n\n1. La démarche d'immatriculation en ligne   \nSwim Legal\n\nDepuis la réforme des formali",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
