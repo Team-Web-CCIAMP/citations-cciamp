@@ -1040,5 +1040,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-12",
+    "llm": "Perplexity",
+    "label": "Meilleurs organismes formalités entreprise",
+    "theme": "Formalités",
+    "prompt": "Quels sont les meilleurs organismes pour les formalités d'entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Il n’existe pas un seul « meilleur » organisme : le bon interlocuteur dépend de votre activité et de ce que vous entendez par formalités — déposer une déclaration, être conseillé sur le statut, ou faire préparer le dossier. Pour le dépôt officiel, toutes les formalités passent par le Guichet unique de l’INPI ; pour être accompagné localement, la CCIAMP et la CMA PACA sont les interlocuteurs priori",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
