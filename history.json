@@ -1180,5 +1180,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-12",
+    "llm": "Perplexity",
+    "label": "Accompagnement décarbonation industrie",
+    "theme": "Transition eco",
+    "prompt": "Quel accompagnement pour la décarbonation d'une industrie sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire Aix-Marseille-Provence, l’accompagnement peut combiner diagnostic et trajectoire carbone, expertise technique, mise en réseau et recherche de financements. Le point d’entrée le plus ciblé est le programme métropolitain Territoires d’Industrie ; pour un parcours collectif dédié, D-CODE est une autre piste, mais son appel à candidatures 2026 est clos.\n\nLes dispositifs locaux\n\nTerri",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
