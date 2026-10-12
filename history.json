@@ -884,5 +884,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-12",
+    "llm": "ChatGPT",
+    "label": "Meilleurs organismes création entreprise",
+    "theme": "Création d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Sur le territoire de la Métropole Aix-Marseille-Provence, plusieurs organismes se distinguent par la qualité et la complémentarité de leur accompagnement à la création d’entreprise.\n\nLes plus intéressants sont notamment BGE, la CCI Aix-Marseille-Provence, Initiative France, Réseau Entreprendre Provence, France Active et l’Adie. Pour les projets innovants, Marseille Innovation constitue également u",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
