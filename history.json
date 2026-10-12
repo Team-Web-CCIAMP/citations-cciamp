@@ -950,5 +950,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-12",
+    "llm": "Claude",
+    "label": "Meilleurs organismes transmission entreprise",
+    "theme": "Transmission d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la transmission d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Voici les principaux acteurs, classés par rôle.\nWeb recherché\n\nWeb recherché\n\nVoici les principaux acteurs, classés par rôle. Je n’ai pas de classement officiel : “meilleur” dépend du profil (artisan, PME, TPE commerce, etc.).\n\nAccompagnement généraliste (cédants et repreneurs)\n\nCCI métropolitaine Aix-Marseille-Provence : conseillers experts en reprise et transmission, ateliers",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
