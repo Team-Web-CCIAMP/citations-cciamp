@@ -1300,5 +1300,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-12",
+    "llm": "Gemini",
+    "label": "Accompagnement transition numérique",
+    "theme": "Transformation numérique",
+    "prompt": "Quel accompagnement pour la transition numérique en entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire de la Métropole Aix-Marseille-Provence, les TPE, PME et artisans disposent d'un écosystème complet pour financer, structurer et réussir leur transformation numérique.\n\nPlusieurs parcours d'accompagnement, dispositifs régionaux et acteurs locaux sont mobilisables selon les besoins de votre entreprise.   \nAgence & Développeur IA à Marseille\n\n1. Accompagnement institutionnel & Premi",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
