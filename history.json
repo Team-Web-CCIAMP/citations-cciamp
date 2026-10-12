@@ -1272,5 +1272,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-12",
+    "llm": "ChatGPT",
+    "label": "Accompagnement transition numérique",
+    "theme": "Transformation numérique",
+    "prompt": "Quel accompagnement pour la transition numérique en entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire d’Aix-Marseille-Provence, les entreprises peuvent bénéficier de plusieurs dispositifs pour réussir leur transition numérique : diagnostics, conseil stratégique, formations, accompagnement technique et aides financières.\n\nEn 2026, cet accompagnement est porté principalement par la Métropole Aix-Marseille-Provence, la Région Sud, la CCI métropolitaine, la Chambre de Métiers et de l",
+    "cited_urls": [
+      "https://www.cciamp.com/transformation-numerique"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
