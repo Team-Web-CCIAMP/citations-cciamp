@@ -856,8 +856,8 @@
     "status": "ok",
     "excerpt": "Le territoire Aix-Marseille-Provence dispose d'un écosystème d'accompagnement très riche. Selon le profil du porteur de projet, la nature de l'activité (commerce, artisanat, startup innovante, projet social) et l'avancement, plusieurs organismes de référence se distinguent.\n\n1. Les organismes institutionnels (Tout profil & Généralistes)\n\nCCI Métropolitaine Aix-Marseille-Provence (CCIAMP) :\nInconto",
     "cited_urls": [],
-    "domain_cited_as_source": true,
-    "domain_mentioned_in_text": true,
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false,
     "auto_cited": true,
     "manual_override": true
   },
