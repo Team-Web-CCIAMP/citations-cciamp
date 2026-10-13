@@ -1132,5 +1132,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-13",
+    "llm": "ChatGPT",
+    "label": "Meilleurs dispositifs transition écologique",
+    "theme": "Transition eco",
+    "prompt": "Quels sont les meilleurs dispositifs pour un accompagnement à la transition écologique d'une entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Les meilleurs dispositifs pour accompagner la transition écologique d’une entreprise sur Aix-Marseille-Provence\n\nPanorama actualisé au 13 octobre 2026\n\nLe territoire de la Métropole Aix-Marseille-Provence bénéficie d’un écosystème particulièrement intéressant pour accompagner les entreprises dans leur transition écologique, grâce à la combinaison de dispositifs locaux (Métropole, CCI, CMA), région",
+    "cited_urls": [
+      "https://www.cciamp.com/transition-ecologique-rse"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
