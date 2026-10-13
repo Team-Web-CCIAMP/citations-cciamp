@@ -1446,5 +1446,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-13",
+    "llm": "Perplexity",
+    "label": "Accompagnement développement commercial",
+    "theme": "Développer mon activité",
+    "prompt": "Quels sont les meilleurs accompagnements pour développer son activité commerciale sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Les meilleurs accompagnements dépendent de votre profil : commerce/artisanat de proximité, PME B2B, entreprise innovante ou projet à l’international. Sur Aix-Marseille-Provence, le point d’entrée le plus transversal est le Réseau ÉCO de la Métropole AMP, qui oriente vers les dispositifs et partenaires adaptés.\nampmetropole\n+1\n\nAccompagnements prioritaires\nStructure\tPour qui\tApports principaux\nRése",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
