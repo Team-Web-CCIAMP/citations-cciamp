@@ -1418,5 +1418,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-13",
+    "llm": "Gemini",
+    "label": "Diagnostic RH PME",
+    "theme": "RH",
+    "prompt": "Où faire un diagnostic RH pour ma PME sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire d'Aix-Marseille-Provence, plusieurs cabinets et experts proposent des accompagnements, audits et diagnostics RH adaptés aux besoins spécifiques des PME.\n\nSEENEO Conseil RH\n5.0 stars rating\n5.0\n📍 Services\nOpen\n· Closes 7:00 PM\n\nSEENEO Conseil RH\nCliquer pour ouvrir le panneau latéral et obtenir plus d'informations\n est situé à Marseille et se spécialise dans le conseil en ressour",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
