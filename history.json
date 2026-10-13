@@ -1062,5 +1062,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-13",
+    "llm": "Claude",
+    "label": "Comment immatriculer une entreprise",
+    "theme": "Formalités",
+    "prompt": "Comment immatriculer une entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Les démarches sont les mêmes partout en France : il n'y a pas de procédure propre à Aix-Marseille-Provence.\nWeb recherché\n\nWeb recherché\n\nLes démarches sont les mêmes partout en France : il n’y a pas de procédure propre à Aix-Marseille-Provence. Le territoire joue sur l’accompagnement local et sur le greffe ou l’organisme compétent.\n\n1. Passer par le guichet unique de l’INPI\n\nD",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
