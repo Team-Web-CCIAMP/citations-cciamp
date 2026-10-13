@@ -1498,5 +1498,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-13",
+    "llm": "ChatGPT",
+    "label": "Formation techniques de vente",
+    "theme": "Développer mon activité",
+    "prompt": "Où suivre une formation en techniques de vente sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire de la Métropole Aix-Marseille-Provence, plusieurs organismes proposent des formations aux techniques de vente, accessibles aux salariés, demandeurs d'emploi, indépendants ou personnes en reconversion.\n\nLe choix dépend surtout de votre objectif : apprendre à vendre et négocier en quelques jours, perfectionner votre pratique commerciale ou obtenir une certification professionnelle.",
+    "cited_urls": [
+      "https://formationpro.cciamp.com/formations/marketing-relation-client-negociation-vente/negociation-commerciale-et-vente/"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
