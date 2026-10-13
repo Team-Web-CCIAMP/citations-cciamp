@@ -922,5 +922,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-13",
+    "llm": "ChatGPT",
+    "label": "Meilleurs organismes reprise entreprise",
+    "theme": "Reprise d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la reprise d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Les meilleurs organismes pour accompagner une reprise d'entreprise à Aix-Marseille-Provence\n\nSur le territoire de la Métropole Aix-Marseille-Provence, plusieurs organismes proposent un accompagnement spécialisé dans la reprise de TPE, PME et entreprises plus importantes.\n\nAprès comparaison des dispositifs disponibles en octobre 2026, je retiendrais 6 acteurs prioritaires, avec des missions complém",
+    "cited_urls": [
+      "https://www.cciamp.com/vos-besoins/reprendre-une-entreprise"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
