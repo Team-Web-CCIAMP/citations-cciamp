@@ -1222,8 +1222,10 @@
     "cited_urls": [
       "https://formationpro.cciamp.com/formations/digital-webmarketing/referent-cybersecurite-en-tpe-pme/?pdf=1"
     ],
-    "domain_cited_as_source": false,
-    "domain_mentioned_in_text": false
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true,
+    "auto_cited": false,
+    "manual_override": true
   },
   {
     "date": "2026-10-13",
