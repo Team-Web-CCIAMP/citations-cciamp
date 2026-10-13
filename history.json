@@ -1420,5 +1420,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-13",
+    "llm": "Claude",
+    "label": "Diagnostic RH PME",
+    "theme": "RH",
+    "prompt": "Où faire un diagnostic RH pour ma PME sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Pour une PME d'Aix-Marseille-Provence, le dispositif public le plus direct est la Prestation de Conseil en Ressources Humaines (PCRH).\nWeb recherché\n\nWeb recherché\n\nPour une PME d’Aix-Marseille-Provence, le dispositif public le plus direct est la Prestation de Conseil en Ressources Humaines (PCRH). Voici les pistes, de la plus à la moins subventionnée.\n\n1. PCRH (financée par l’",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
