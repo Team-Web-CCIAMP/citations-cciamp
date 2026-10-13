@@ -1432,5 +1432,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-13",
+    "llm": "Claude",
+    "label": "Accompagnement développement commercial",
+    "theme": "Développer mon activité",
+    "prompt": "Quels sont les meilleurs accompagnements pour développer son activité commerciale sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Voici les principaux dispositifs, classés par besoin.\nWeb recherché\n\nWeb recherché\n\nVoici les principaux dispositifs, classés par besoin. Le territoire a un écosystème dense, et le bon choix dépend surtout de votre stade (création, croissance, export, innovation).\n\nDéveloppement commercial (France)\nCCI Aix-Marseille-Provence : 1 050 entreprises ont été accompagnées dans leur dé",
+    "cited_urls": [
+      "https://www.cciamp.com/sites/g/files/mwbcuj1081/files/2025-06/A4-Rapport-Activite-2024_CCIAMP_compressed.pdf"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
