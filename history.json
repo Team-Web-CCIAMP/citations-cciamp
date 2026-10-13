@@ -1146,5 +1146,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-13",
+    "llm": "Gemini",
+    "label": "Meilleurs dispositifs transition écologique",
+    "theme": "Transition eco",
+    "prompt": "Quels sont les meilleurs dispositifs pour un accompagnement à la transition écologique d'une entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire Aix-Marseille-Provence, de nombreux dispositifs d'accompagnement et de financement sont mobilisables pour la transition écologique des entreprises, adaptés à leur taille et à leurs priorités (décarbonation, sobriété en eau, mobilité, gestion des déchets).   \nCCI Aix Marseille Provence\n\n1. Dispositifs régionaux et départementaux (Région Sud & Bpifrance)\n\nCEDRE Ambition (Conseil & ",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
