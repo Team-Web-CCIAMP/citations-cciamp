@@ -1224,5 +1224,19 @@
     ],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-13",
+    "llm": "ChatGPT",
+    "label": "Formations cybersécurité TPE",
+    "theme": "Transformation numérique",
+    "prompt": "Quelles sont les meilleures formations en cybersécurité pour les TPE sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Les meilleures formations en cybersécurité pour les TPE à Aix–Marseille–Provence\n\nPour une TPE de moins de 10 salariés, je recommande en priorité les formations courtes, concrètes, accessibles aux non-informaticiens et permettant de mettre en place rapidement des mesures de protection.\n\nSur le territoire Aix–Marseille–Provence, plusieurs offres se distinguent : la CCI métropolitaine, la Chambre de",
+    "cited_urls": [
+      "https://www.cciamp.com/evenement/formation-cybersecurite-tpe-1"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
