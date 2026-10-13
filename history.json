@@ -1512,5 +1512,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-13",
+    "llm": "Gemini",
+    "label": "Formation techniques de vente",
+    "theme": "Développer mon activité",
+    "prompt": "Où suivre une formation en techniques de vente sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire d'Aix-Marseille-Provence, plusieurs centres de formation professionnelle proposent des programmes adaptés pour développer vos compétences en techniques de vente et en négociation commerciale :\n\nCCI Formation Aix-Marseille-Provence\n4.7 stars rating\n4.7\nOpen\n· Closes 6:00 PM\n\nLa CCI Formation Aix-Marseille-Provence\nCliquer pour ouvrir le panneau latéral et obtenir plus d'informatio",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
