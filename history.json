@@ -1406,5 +1406,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-13",
+    "llm": "ChatGPT",
+    "label": "Recruter un alternant (local)",
+    "theme": "RH",
+    "prompt": "Comment recruter un alternant sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Pour recruter un alternant sur le territoire de la Métropole Aix-Marseille-Provence, plusieurs solutions gratuites et des acteurs locaux peuvent vous accompagner, depuis la recherche de candidats jusqu'à la signature du contrat.\n\nLe plus efficace est de combiner la diffusion d'une offre d'alternance, la prise de contact avec les centres de formation (CFA) et la mobilisation des réseaux locaux de l",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
