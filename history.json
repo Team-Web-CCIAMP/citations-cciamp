@@ -1210,5 +1210,19 @@
     "domain_mentioned_in_text": true,
     "auto_cited": false,
     "manual_override": true
+  },
+  {
+    "date": "2026-10-13",
+    "llm": "Claude",
+    "label": "Formations cybersécurité TPE",
+    "theme": "Transformation numérique",
+    "prompt": "Quelles sont les meilleures formations en cybersécurité pour les TPE sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Je n'ai pas trouvé de classement objectif des « meilleures » formations.\nWeb recherché\n\nWeb recherché\n\nJe n’ai pas trouvé de classement objectif des « meilleures » formations. Voici les options qui ressortent pour une TPE du territoire, de la plus structurée à la plus légère.\n\n1. Référent cybersécurité en TPE/PME (CCI Formation Aix-Marseille-Provence)\nElle se déroule à Marseill",
+    "cited_urls": [
+      "https://formationpro.cciamp.com/formations/digital-webmarketing/referent-cybersecurite-en-tpe-pme/?pdf=1"
+    ],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
