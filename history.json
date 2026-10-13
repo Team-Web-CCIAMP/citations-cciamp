@@ -936,5 +936,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-13",
+    "llm": "Gemini",
+    "label": "Meilleurs organismes reprise entreprise",
+    "theme": "Reprise d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la reprise d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "incomplete",
+    "excerpt": "Sur le territoire d'",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
