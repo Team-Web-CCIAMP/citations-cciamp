@@ -1,0 +1,120 @@
+// Fonction serveur Vercel : reçoit le formulaire et enregistre le résultat
+// directement dans history.json sur GitHub (avec le token, gardé secret
+// côté serveur — jamais visible depuis la page web).
+
+// On considère qu'il y a "citation" si la CCIAMP est reconnaissable dans la
+// réponse : domaine, sigle, ou nom de l'organisme (y compris des variantes
+// comme "CCI Formation Aix-Marseille-Provence" ou "CCI AMP"). Jamais "CCI"
+// seul : "CCI Nice Côte d'Azur" ne doit pas compter.
+//
+// Le texte est d'abord normalisé (minuscules, sans accents, apostrophes et
+// tirets typographiques ramenés aux versions simples, espaces uniformisés).
+const CITATION_PATTERNS = [
+  /cciamp/,                                              // cciamp, cciamp.com, formationpro.cciamp.com
+  /\bcci[\s-]?amp\b/,                                    // "CCI AMP", "CCI-AMP"
+  /\bcci\s+(?:[a-z'-]+\s+){0,2}aix[\s-]*marseille[\s-]*provence/,   // "CCI Aix-Marseille-Provence", "CCI Formation Aix-Marseille-Provence", "CCI métropolitaine Aix-Marseille-Provence"
+  /chambre de commerce et d'industrie[^.\n]{0,40}?aix[\s-]*marseille[\s-]*provence/,
+];
+
+function normalizeText(text) {
+  return String(text || "")
+    .toLowerCase()
+    .normalize("NFD").replace(/[\u0300-\u036f]/g, "")        // accents
+    .replace(/[\u2018\u2019\u02bc`\u00b4]/g, "'")           // apostrophes typographiques
+    .replace(/[\u2010-\u2015\u2212]/g, "-")                 // tirets typographiques
+    .replace(/[\u00a0\u202f\u2009]/g, " ")                  // espaces insécables / fines
+    .replace(/\s+/g, " ");
+}
+
+function detectCitation(text) {
+  const t = normalizeText(text);
+  return CITATION_PATTERNS.some(re => re.test(t));
+}
+
+module.exports = async (req, res) => {
+  if (req.method !== "POST") {
+    res.status(405).json({ error: "Méthode non autorisée" });
+    return;
+  }
+
+  const { llm, label, theme = "", prompt = "", response = "", cited_url = "", incomplete = false } = req.body || {};
+  if (!llm || !label || !response) {
+    res.status(400).json({ error: "Champs manquants (llm, label, response requis)" });
+    return;
+  }
+
+  const token = process.env.GITHUB_TOKEN;
+  const owner = process.env.GITHUB_OWNER;
+  const repo = process.env.GITHUB_REPO;
+  if (!token || !owner || !repo) {
+    res.status(500).json({ error: "Variables d'environnement manquantes sur Vercel" });
+    return;
+  }
+
+  const cited = detectCitation(response);
+  const today = new Date().toISOString().slice(0, 10);
+  const newEntry = {
+    date: today,
+    llm,
+    label,
+    theme,
+    prompt,
+    status: incomplete ? "incomplete" : "ok",
+    excerpt: response.slice(0, 400),
+    cited_urls: cited_url.trim() ? [cited_url.trim()] : [],
+    domain_cited_as_source: cited,
+    domain_mentioned_in_text: cited,
+  };
+
+  const apiUrl = `https://api.github.com/repos/${owner}/${repo}/contents/history.json`;
+  const headers = {
+    Authorization: `Bearer ${token}`,
+    Accept: "application/vnd.github+json",
+    "Content-Type": "application/json",
+  };
+
+  try {
+    // On tente plusieurs fois au cas où d'autres écritures arrivent au même
+    // moment (conflit de version du fichier sur GitHub) — plus fréquent
+    // maintenant que plusieurs requêtes peuvent s'enregistrer d'un coup.
+    for (let attempt = 0; attempt < 4; attempt++) {
+      const getRes = await fetch(apiUrl, { headers });
+      if (!getRes.ok) throw new Error(`Lecture de history.json impossible (${getRes.status})`);
+      const file = await getRes.json();
+      const current = JSON.parse(Buffer.from(file.content, "base64").toString("utf-8"));
+
+      const duplicate = current.some(e => e.date === today && e.llm === llm && e.label === label);
+      if (duplicate) {
+        res.status(409).json({ error: `Un test "${label}" sur ${llm} existe déjà aujourd'hui.`, duplicate: true });
+        return;
+      }
+
+      current.push(newEntry);
+      const updatedContent = Buffer.from(JSON.stringify(current, null, 2), "utf-8").toString("base64");
+
+      const putRes = await fetch(apiUrl, {
+        method: "PUT",
+        headers,
+        body: JSON.stringify({
+          message: `Ajout d'un test (${llm} — ${label})`,
+          content: updatedContent,
+          sha: file.sha,
+        }),
+      });
+
+      if (putRes.ok) {
+        res.status(200).json({ ok: true, cited, history: current });
+        return;
+      }
+      if (putRes.status !== 409) {
+        const errText = await putRes.text();
+        throw new Error(`Échec de l'enregistrement (${putRes.status}) : ${errText}`);
+      }
+      // 409 = conflit, courte pause aléatoire puis nouvelle tentative
+      await new Promise(r => setTimeout(r, 300 + Math.random() * 500));
+    }
+    throw new Error("Conflit persistant lors de l'enregistrement, réessaie.");
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+};
