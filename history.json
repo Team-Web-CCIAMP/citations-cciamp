@@ -1206,7 +1206,9 @@
     "status": "incomplete",
     "excerpt": "Sur le territoire Aix-Marseille-Provence, la décarbonation industrielle bénéficie d'un écosystème particulièrement structuré, en raison de la forte concentration d'infrastructures énergétiques et portuaires (notamment sur la zone de Fos-sur-Mer).\n\nPlusieurs guichets et programmes nationaux, régionaux et locaux s'articulent selon la taille de votre entreprise et la nature de votre projet.\n\n1. Dispo",
     "cited_urls": [],
-    "domain_cited_as_source": false,
-    "domain_mentioned_in_text": false
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true,
+    "auto_cited": false,
+    "manual_override": true
   }
 ]
