@@ -1012,5 +1012,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-13",
+    "llm": "ChatGPT",
+    "label": "Meilleurs organismes formalités entreprise",
+    "theme": "Formalités",
+    "prompt": "Quels sont les meilleurs organismes pour les formalités d'entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire Aix-Marseille-Provence, plusieurs organismes peuvent vous accompagner dans les formalités d'entreprise : création, immatriculation, modification de société, transfert de siège, dépôt des comptes, dissolution ou radiation.\n\nPour choisir le meilleur interlocuteur, il faut distinguer les organismes institutionnels, les structures d'accompagnement et les prestataires privés spécialis",
+    "cited_urls": [
+      "https://www.cciamp.com/formalites"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
