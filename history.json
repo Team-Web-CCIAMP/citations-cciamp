@@ -962,5 +962,19 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-13",
+    "llm": "ChatGPT",
+    "label": "Meilleurs organismes transmission entreprise",
+    "theme": "Transmission d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la transmission d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Sur le territoire Aix–Marseille–Provence, plusieurs organismes sont particulièrement bien positionnés pour accompagner la transmission d'entreprise, qu'il s'agisse d'une TPE, d'une PME, d'une entreprise artisanale ou d'une société familiale.\n\nJe retiendrais 7 acteurs prioritaires, en fonction de leur expertise, de leur ancrage territorial et de leur capacité à intervenir aux différentes étapes d'u",
+    "cited_urls": [
+      "https://www.cciamp.com/vos-besoins/transmettre-votre-entreprise"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
