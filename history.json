@@ -1088,5 +1088,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-13",
+    "llm": "Perplexity",
+    "label": "Comment immatriculer une entreprise",
+    "theme": "Formalités",
+    "prompt": "Comment immatriculer une entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Pour immatriculer une entreprise sur le territoire Aix-Marseille-Provence, la démarche se fait désormais en ligne via le Guichet unique des formalités des entreprises (INPI), quel que soit le statut. La CCI Aix-Marseille-Provence peut accompagner la création et les formalités, notamment pour les commerçants et micro-entrepreneurs.\nentreprendre.service-public.gouv\n+1\n\nÉtapes communes\n\nChoisir la fo",
+    "cited_urls": [
+      "https://www.cciamp.com/formalite-micro-entreprise"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
