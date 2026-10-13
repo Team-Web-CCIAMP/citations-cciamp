@@ -1472,5 +1472,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-13",
+    "llm": "Gemini",
+    "label": "Accompagnement développement commercial",
+    "theme": "Développer mon activité",
+    "prompt": "Quels sont les meilleurs accompagnements pour développer son activité commerciale sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire de la Métropole Aix-Marseille-Provence, l'offre d'accompagnement pour développer son activité commerciale est particulièrement riche. Le choix de la structure dépend principalement du stade de maturité de l'entreprise, du secteur d'activité et des objectifs visés (prospection locale, levée de fonds, export, etc.).   \nMétropole Aix-Marseille-Provence\n+ 1\n\n1. Les Institutions et Ré",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
