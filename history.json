@@ -1356,5 +1356,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-13",
+    "llm": "Perplexity",
+    "label": "Formations intelligence artificielle",
+    "theme": "Transformation numérique",
+    "prompt": "Quelles sont les meilleures formations en intelligence artificielle sur le territoire Aix-Marseille-Provence ?",
+    "status": "incomplete",
+    "excerpt": "Les meilleurs parcours dépendent surtout de votre objectif : reconversion professionnelle, montée en compétences métier, ou formation longue d’ingénieur/data scientist. Sur Aix-Marseille-Provence, les références les plus solides sont Aix-Marseille Université, La Plateforme_, ISEN Méditerranée, Ynov Aix-en-Provence et la CCI Aix-Marseille-Provence pour les formations courtes destinées aux entrepris",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
