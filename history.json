@@ -1536,5 +1536,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-13",
+    "llm": "Claude",
+    "label": "Développer son réseau professionnel",
+    "theme": "Développer mon activité",
+    "prompt": "Comment développer son réseau professionnel en Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Développer son réseau en Provence repose beaucoup sur le présentiel et les cercles locaux.\n\nDévelopper son réseau en Provence repose beaucoup sur le présentiel et les cercles locaux. Le tissu économique y est dense mais fragmenté (Aix, Marseille, Avignon, Toulon…), donc mieux vaut cibler que se disperser.\n\n1. Les institutions et réseaux d’entreprises\n\nCCI (Aix-Marseille-Provence",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
