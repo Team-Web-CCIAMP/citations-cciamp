@@ -946,7 +946,9 @@
     "status": "incomplete",
     "excerpt": "Sur le territoire d'",
     "cited_urls": [],
-    "domain_cited_as_source": false,
-    "domain_mentioned_in_text": false
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true,
+    "auto_cited": false,
+    "manual_override": true
   }
 ]
