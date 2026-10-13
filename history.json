@@ -1548,5 +1548,19 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-13",
+    "llm": "Perplexity",
+    "label": "Développer son réseau professionnel",
+    "theme": "Développer mon activité",
+    "prompt": "Comment développer son réseau professionnel en Provence ?",
+    "status": "ok",
+    "excerpt": "Pour développer un réseau professionnel en Provence, combinez des rendez-vous locaux structurés, une présence LinkedIn active et un suivi régulier des contacts. Le territoire Aix-Marseille-Provence offre un écosystème dense : CCI, clubs d’entrepreneurs, événements BtoB, incubateurs et réseaux sectoriels.\nbpifrance-creation\n+1\n\n1. Cibler les bons lieux\n\nCommencez par les structures qui rassemblent ",
+    "cited_urls": [
+      "https://www.cciamp.com/evenements"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
