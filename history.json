@@ -1306,5 +1306,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-13",
+    "llm": "Perplexity",
+    "label": "Accompagnement transition numérique",
+    "theme": "Transformation numérique",
+    "prompt": "Quel accompagnement pour la transition numérique en entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire Aix-Marseille-Provence, l’accompagnement à la transition numérique est surtout porté par la CCIAMP, le programme régional Move2Digital et la Métropole AMP. L’offre couvre le diagnostic, la formation, la cybersécurité, l’IA, la facturation électronique et la mise en œuvre de projets.\ncciamp\n+2\n\nCCIAMP : premier point d’entrée\n\nLa CCI métropolitaine Aix-Marseille-Provence propose u",
+    "cited_urls": [
+      "https://www.cciamp.com/transformation-numerique"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
