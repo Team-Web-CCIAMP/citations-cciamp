@@ -858,5 +858,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-13",
+    "llm": "Perplexity",
+    "label": "Meilleurs organismes création entreprise",
+    "theme": "Création d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Pour créer une entreprise sur Aix-Marseille-Provence, les organismes les plus pertinents dépendent surtout de votre secteur, de votre besoin de financement et de l’innovation du projet. Voici une sélection des acteurs les plus solides et adaptés au territoire.\n\nOrganismes généralistes\nOrganisme\tPour qui ?\tApports principaux\nCCI Aix-Marseille-Provence (CCIAMP)\tCommerçants, prestataires, entreprises",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
