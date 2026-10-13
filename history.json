@@ -896,5 +896,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-13",
+    "llm": "Claude",
+    "label": "Meilleurs organismes reprise entreprise",
+    "theme": "Reprise d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la reprise d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Voici les structures les plus citées sur le territoire, par type d'appui.\nRédaction d'une réponse concise avec rappel de vérifier les sources\nRédaction d'une réponse concise avec rappel de vérifier les sources\nWeb recherché\n\nWeb recherché\n\nVoici les structures les plus citées sur le territoire, par type d’appui.\n\nRéseau consulaire (premier point d’entrée)\n\nCCI métropolitaine Ai",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
