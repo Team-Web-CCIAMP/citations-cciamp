@@ -1562,5 +1562,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-13",
+    "llm": "ChatGPT",
+    "label": "Développer son réseau professionnel",
+    "theme": "Développer mon activité",
+    "prompt": "Comment développer son réseau professionnel en Provence ?",
+    "status": "ok",
+    "excerpt": "Développer son réseau professionnel en Provence, c’est avant tout combiner les rencontres locales, les réseaux d’entrepreneurs et une présence active sur LinkedIn.\n\nLa région offre de belles opportunités, notamment autour d’Aix-en-Provence, Marseille, Avignon, Arles et Salon-de-Provence.\n\nL'objectif n'est pas de collectionner les contacts, mais de construire un cercle de personnes qui pourront vou",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
