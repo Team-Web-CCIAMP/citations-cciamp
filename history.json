@@ -1484,5 +1484,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-13",
+    "llm": "Claude",
+    "label": "Formation techniques de vente",
+    "theme": "Développer mon activité",
+    "prompt": "Où suivre une formation en techniques de vente sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Dans les résultats que j'ai trouvés, c'est surtout CCI Formation Aix-Marseille-Provence qui ressort.\nTriangulant\nTriangulant\nWeb recherché\n\nWeb recherché\n\nDans les résultats que j’ai trouvés, c’est surtout CCI Formation Aix-Marseille-Provence qui ressort. Son adresse est 1, rue Saint-Sébastien, 13006 Marseille, et son catalogue est sur formationpro.cciamp.com, rubrique Marketin",
+    "cited_urls": [
+      "https://formationpro.cciamp.com/formations/marketing-relation-client-negociation-vente/perfectionnement-negociation-commerciale-postures-et-comportements/?pdf=1"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
