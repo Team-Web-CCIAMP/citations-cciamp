@@ -1294,5 +1294,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-13",
+    "llm": "Gemini",
+    "label": "Accompagnement transition numérique",
+    "theme": "Transformation numérique",
+    "prompt": "Quel accompagnement pour la transition numérique en entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire de la Métropole Aix-Marseille-Provence, les TPE, PME et ETI bénéficient d'un écosystème structuré regroupant des aides publiques, des parcours de conseil et des réseaux d'experts locaux pour réussir leur transformation numérique.\n\n1. Les dispositifs et aides financières régionaux & métropolitains\nMove2Digital (Dispositif Phare)   \nAgence & Développeur IA à Marseille\n\nCo-financé p",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
