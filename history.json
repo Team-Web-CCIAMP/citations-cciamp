@@ -1104,5 +1104,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-13",
+    "llm": "Claude",
+    "label": "Meilleurs dispositifs transition écologique",
+    "theme": "Transition eco",
+    "prompt": "Quels sont les meilleurs dispositifs pour un accompagnement à la transition écologique d'une entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Voici les dispositifs principaux, classés par étape de la démarche.\nWeb recherché\n\nWeb recherché\n\nVoici les dispositifs principaux, classés par étape de la démarche. Les conditions d’éligibilité et les enveloppes évoluent souvent, donc je vous conseille de vérifier chacun avant de le proposer à une entreprise.\n\n1. Sensibiliser et cadrer\nCCI métropolitaine Aix-Marseille-Provence",
+    "cited_urls": [
+      "https://www.cciamp.com/sites/g/files/mwbcuj1081/files/2025-06/A4-Rapport-Activite-2024_CCIAMP_compressed.pdf"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
