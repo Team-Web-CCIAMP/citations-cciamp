@@ -976,5 +976,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-13",
+    "llm": "Gemini",
+    "label": "Meilleurs organismes transmission entreprise",
+    "theme": "Transmission d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la transmission d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "incomplete",
+    "excerpt": "Pour réussir une transmission (cession ou reprise) d'entreprise sur la métropole Aix-Marseille-Provence, plusieurs types d'acteurs interviennent, allant des institutions publiques aux cabinets spécialisés de conseil.\n\n1. Organismes Institutionnels et Consulaires (Accompagnement Généraliste)\n\nCes organismes sont le point de départ naturel pour réaliser des diagnostics gratuits ou peu coûteux, évalu",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
