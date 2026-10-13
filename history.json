@@ -1574,5 +1574,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-13",
+    "llm": "Gemini",
+    "label": "Développer son réseau professionnel",
+    "theme": "Développer mon activité",
+    "prompt": "Comment développer son réseau professionnel en Provence ?",
+    "status": "ok",
+    "excerpt": "Développer son réseau professionnel en Provence (Marseille, Aix-en-Provence, Sophia-Antipolis/Nice, Avignon) repose sur un mix d'ancrage local, d'engagement dans les écosystèmes clés et de participation à des réseaux ciblés.\n\nVoici un guide stratégique pour tisser des liens professionnels solides dans la région.\n\n1. Cibler les grands écosystèmes & Pôles de compétitivité\n\nSelon votre secteur d'acti",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
