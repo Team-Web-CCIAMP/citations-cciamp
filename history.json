@@ -1524,5 +1524,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-13",
+    "llm": "Perplexity",
+    "label": "Formation techniques de vente",
+    "theme": "Développer mon activité",
+    "prompt": "Où suivre une formation en techniques de vente sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire Aix-Marseille-Provence, plusieurs organismes proposent des formations en techniques de vente, en présentiel à Aix-en-Provence ou Marseille, en intra-entreprise ou à distance.\n\nOrganismes identifiés\nOrganisme\tLieu / format\tOffre\nCCI Métropolitaine Aix-Marseille-Provence\tAix-en-Provence, 11 cours Gambetta\tFormation certifiante « Mener une négociation commerciale » (70 heures), axée",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
