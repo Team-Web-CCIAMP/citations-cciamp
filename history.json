@@ -950,5 +950,17 @@
     "domain_mentioned_in_text": true,
     "auto_cited": false,
     "manual_override": true
+  },
+  {
+    "date": "2026-10-13",
+    "llm": "Claude",
+    "label": "Meilleurs organismes transmission entreprise",
+    "theme": "Transmission d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la transmission d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Voici les principaux acteurs, regroupés par type d'accompagnement.\nTamisant\nTamisant\nWeb recherché\naccompagnement transmission reprise d'entreprise Aix-Marseille-Provence\n\nWeb recherché accompagnement transmission reprise d'entreprise Aix-Marseille-Provence\n\nVoici les principaux acteurs, regroupés par type d’accompagnement. Certaines de mes sources datent de quelques années : v",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
