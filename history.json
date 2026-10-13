@@ -1170,5 +1170,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-13",
+    "llm": "ChatGPT",
+    "label": "Accompagnement décarbonation industrie",
+    "theme": "Transition eco",
+    "prompt": "Quel accompagnement pour la décarbonation d'une industrie sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Quel accompagnement pour décarboner une industrie sur le territoire Aix-Marseille-Provence ?\n\nDispositifs et acteurs identifiés au 13 octobre 2026\n\nUne entreprise industrielle implantée sur le territoire de la Métropole Aix-Marseille-Provence peut bénéficier d'un accompagnement technique, stratégique et financier, depuis son premier bilan carbone jusqu'à la réalisation d'investissements pour rédui",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
