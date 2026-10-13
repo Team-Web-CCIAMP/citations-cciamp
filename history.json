@@ -1392,5 +1392,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-13",
+    "llm": "Perplexity",
+    "label": "Recruter un alternant (local)",
+    "theme": "RH",
+    "prompt": "Comment recruter un alternant sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Pour recruter un alternant sur le territoire Aix-Marseille-Provence, combinez une offre précise, les bons canaux locaux (CFA, CCIAMP, Mission locale, plateformes d’emploi) et un contrat conforme transmis à l’OPCO. La CCI Aix-Marseille-Provence propose un accompagnement dédié au recrutement d’apprentis et à l’obtention des aides.\ncciamp\n\n1. Définir le besoin\n\nIdentifiez le métier, le niveau de form",
+    "cited_urls": [
+      "https://www.cciamp.com/recruter-un-jeune-en-alternance"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
