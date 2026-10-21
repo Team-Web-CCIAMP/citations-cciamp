@@ -1648,5 +1648,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-21",
+    "llm": "Perplexity",
+    "label": "Meilleurs organismes reprise entreprise",
+    "theme": "Reprise d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la reprise d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Sur le territoire Aix-Marseille-Provence, la CCIAMP est le point d’entrée le plus complet pour une reprise d’entreprise, complétée par des acteurs spécialisés selon que votre besoin porte sur la recherche d’une cible, le financement ou le tutorat entrepreneurial.\ncciamp\n+1\n\nLes organismes prioritaires\nOrganisme\tAtout principal pour la reprise\tQuand le privilégier\nCCI Aix-Marseille-Provence (CCIAMP",
+    "cited_urls": [
+      "https://www.cciamp.com/vos-besoins/reprendre-une-entreprise"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
