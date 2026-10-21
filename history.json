@@ -1676,5 +1676,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-21",
+    "llm": "Gemini",
+    "label": "Meilleurs organismes reprise entreprise",
+    "theme": "Reprise d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la reprise d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Le territoire d'Aix-Marseille-Provence dispose d'un écosystème particulièrement riche, structuré et professionnel pour accompagner les repreneurs d'entreprise. Que vous cherchiez à structurer votre projet, à trouver la perle rare, à financer votre acquisition ou à vous insérer dans un réseau, plusieurs organismes incontournables se distinguent :   \nProvence Promotion\n+ 1\n\n1. Les Chambres Consulair",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
