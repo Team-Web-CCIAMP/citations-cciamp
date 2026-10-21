@@ -1636,5 +1636,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-21",
+    "llm": "Claude",
+    "label": "Meilleurs organismes reprise entreprise",
+    "theme": "Reprise d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la reprise d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Voici les principaux acteurs, regroupés par type d'appui.\nResearching organizations that support business transfers in France\nResearching organizations that support business transfers in France\nRecherche sur le web effectuée\n\nRecherche sur le web effectuée\n\nVoici les principaux acteurs, regroupés par type d’appui.\n\nAccompagnement généraliste (diagnostic, montage, mise en relati",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
