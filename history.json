@@ -1688,5 +1688,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-21",
+    "llm": "Claude",
+    "label": "Meilleurs organismes transmission entreprise",
+    "theme": "Transmission d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la transmission d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Pas de « meilleur » organisme unique : tout dépend de la taille de l'entreprise, de son secteur et du côté où l'on se place (cédant ou repreneur).\nApprofondissement\nApprofondissement\nRecherche sur le web effectuée\n\nRecherche sur le web effectuée\n\nPas de « meilleur » organisme unique : tout dépend de la taille de l’entreprise, de son secteur et du côté où l’on se place (cédant o",
+    "cited_urls": [
+      "https://www.cciamp.com/sites/g/files/mwbcuj1081/files/2025-06/A4-Rapport-Activite-2024_CCIAMP_compressed.pdf"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
