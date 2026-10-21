@@ -1662,5 +1662,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-21",
+    "llm": "ChatGPT",
+    "label": "Meilleurs organismes reprise entreprise",
+    "theme": "Reprise d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la reprise d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Sur le territoire Aix-Marseille-Provence, plusieurs organismes accompagnent efficacement les projets de reprise d'entreprise, de la recherche d'une cible jusqu'au financement et à la prise de fonction du repreneur.\n\nÀ mon avis, les cinq acteurs à privilégier sont la CCI Aix-Marseille-Provence, Réseau Entreprendre Provence, Initiative France, la CMA PACA et France Active PACA. Ils sont complémentai",
+    "cited_urls": [
+      "https://www.cciamp.com/vos-besoins/reprendre-une-entreprise?utm_source=chatgpt.com"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
