@@ -2038,5 +2038,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-26",
+    "llm": "Gemini",
+    "label": "Accompagnement décarbonation industrie",
+    "theme": "Transition eco",
+    "prompt": "Quel accompagnement pour la décarbonation d'une industrie sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Métropole Aix-Marseille-Provence\n\nPour accompagner la décarbonation des industries sur le territoire de la Métropole Aix-Marseille-Provence\nCliquer pour ouvrir le panneau latéral et obtenir plus d'informations\n, plusieurs acteurs institutionnels, économiques et techniques proposent des dispositifs d'accompagnement sur mesure, allant du diagnostic stratégique au financement des investissements tech",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
