@@ -2050,5 +2050,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-26",
+    "llm": "Claude",
+    "label": "Accompagnement décarbonation industrie",
+    "theme": "Transition eco",
+    "prompt": "Quel accompagnement pour la décarbonation d'une industrie sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Il n'y a pas un guichet unique : l'accompagnement dépend de la taille de l'entreprise et de sa localisation, surtout si elle est sur la zone Fos-Berre.\nRecherche sur le web effectuée\n\nRecherche sur le web effectuée\n\nIl n’y a pas un guichet unique : l’accompagnement dépend de la taille de l’entreprise et de sa localisation, surtout si elle est sur la zone Fos-Berre.\n\n1. Premier ",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
