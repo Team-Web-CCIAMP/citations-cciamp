@@ -2184,5 +2184,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-26",
+    "llm": "Gemini",
+    "label": "Formations intelligence artificielle",
+    "theme": "Transformation numérique",
+    "prompt": "Quelles sont les meilleures formations en intelligence artificielle sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire de la métropole Aix-Marseille-Provence, plusieurs options s'offrent à vous pour vous former en intelligence artificielle, qu'il s'agisse de cursus universitaires approfondis ou d'écoles spécialisées.\n\nAix-Marseille Université\n3.9 stars rating\n3.9\n🎓 Université\nOpen\n· Closes 6:00 PM\n\nL'Aix-Marseille Université\nCliquer pour ouvrir le panneau latéral et obtenir plus d'informations\n ",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
