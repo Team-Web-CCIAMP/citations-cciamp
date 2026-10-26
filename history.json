@@ -2232,5 +2232,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-26",
+    "llm": "Claude",
+    "label": "Recruter un alternant (local)",
+    "theme": "RH",
+    "prompt": "Comment recruter un alternant sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Voici la marche à suivre, de la définition du besoin à la signature du contrat.\nRecherche sur le web effectuée\n\nRecherche sur le web effectuée\n\nVoici la marche à suivre, de la définition du besoin à la signature du contrat.\n\n1. Définir le besoin\n\nFixez les missions, le niveau de diplôme visé (bac+2 à bac+5, par exemple) et le rythme d’alternance.\nIdentifiez un maître d’apprenti",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
