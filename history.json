@@ -2296,5 +2296,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-26",
+    "llm": "Claude",
+    "label": "Diagnostic RH PME",
+    "theme": "RH",
+    "prompt": "Où faire un diagnostic RH pour ma PME sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Il n'y a pas un guichet unique.\nRecherche sur le web effectuée\n\nRecherche sur le web effectuée\n\nIl n’y a pas un guichet unique. Selon votre secteur et ce que vous cherchez, voici les principales portes d’entrée.\n\n1. Votre OPCO (le plus direct, souvent cofinancé)\nLe dispositif d’État « appui-conseil RH » (PCRH) vise à faciliter l’accès des TPE-PME à un conseil RH. Il peut servir",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
