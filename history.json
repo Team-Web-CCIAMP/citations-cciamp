@@ -1904,5 +1904,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-26",
+    "llm": "ChatGPT",
+    "label": "Meilleurs organismes formalités entreprise",
+    "theme": "Formalités",
+    "prompt": "Quels sont les meilleurs organismes pour les formalités d'entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire de la Métropole Aix-Marseille-Provence, plusieurs organismes sont particulièrement pertinents pour accompagner les entreprises dans leurs formalités administratives, juridiques et réglementaires.\n\nMon conseil est de privilégier la CCI Aix-Marseille-Provence, la CMA PACA et les cabinets d'expertise comptable pour les formalités proprement dites, puis BGE et les réseaux d'accompagn",
+    "cited_urls": [
+      "https://www.cciamp.com/formalites?utm_source=chatgpt.com"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
