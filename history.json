@@ -2062,5 +2062,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-26",
+    "llm": "ChatGPT",
+    "label": "Accompagnement décarbonation industrie",
+    "theme": "Transition eco",
+    "prompt": "Quel accompagnement pour la décarbonation d'une industrie sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire de la Métropole Aix-Marseille-Provence, une entreprise industrielle peut bénéficier d'un accompagnement pour décarboner son activité, depuis le diagnostic initial jusqu'au financement des investissements.\n\nPlusieurs dispositifs sont mobilisables en 2026, portés notamment par la Métropole, l'ADEME, la Région Sud, la CCI Aix-Marseille-Provence et des réseaux industriels locaux.\n\nL'",
+    "cited_urls": [
+      "https://www.cciamp.com/transition-ecologique-rse/decarbonation-climat?utm_source=chatgpt.com"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
