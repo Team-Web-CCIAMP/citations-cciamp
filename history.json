@@ -2156,5 +2156,19 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-26",
+    "llm": "Claude",
+    "label": "Accompagnement transition numérique",
+    "theme": "Transformation numérique",
+    "prompt": "Quel accompagnement pour la transition numérique en entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Sur le territoire, l'accompagnement repose surtout sur quatre niveaux d'acteurs.\nPréparation d'une réponse claire et concise, avec sources\nPréparation d'une réponse claire et concise, avec sources\nRecherche sur le web effectuée\n\nRecherche sur le web effectuée\n\nSur le territoire, l’accompagnement repose surtout sur quatre niveaux d’acteurs.\n\n1. Premier contact local : la CCI mét",
+    "cited_urls": [
+      "https://www.cciamp.com/sites/g/files/mwbcuj1081/files/2025-06/A4-Rapport-Activite-2024_CCIAMP_compressed.pdf"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
