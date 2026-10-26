@@ -2090,5 +2090,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-26",
+    "llm": "Gemini",
+    "label": "Formations cybersécurité TPE",
+    "theme": "Transformation numérique",
+    "prompt": "Quelles sont les meilleures formations en cybersécurité pour les TPE sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire d'Aix-Marseille-Provence, plusieurs structures et organismes proposent des cursus, des modules ou des accompagnements adaptés aux besoins des entreprises, y compris des TPE, en matière de cybersécurité.\n\nJedha\n5.0 stars rating\n5.0\nOpen\n· Closes 9:30 PM\n\nJedha\nCliquer pour ouvrir le panneau latéral et obtenir plus d'informations\n propose des formations axées sur la cybersécurité e",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
