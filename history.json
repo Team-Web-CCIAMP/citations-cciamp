@@ -2362,5 +2362,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-26",
+    "llm": "ChatGPT",
+    "label": "Accompagnement développement commercial",
+    "theme": "Développer mon activité",
+    "prompt": "Quels sont les meilleurs accompagnements pour développer son activité commerciale sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Pour développer son activité commerciale sur le territoire Aix-Marseille-Provence, plusieurs structures proposent des accompagnements particulièrement intéressants, que vous soyez indépendant, commerçant, dirigeant de TPE/PME ou entrepreneur en phase de croissance.\n\nLe bon choix dépend surtout de votre objectif : trouver de nouveaux clients, structurer votre prospection, développer votre réseau pr",
+    "cited_urls": [
+      "https://www.cciamp.com/developper-son-activite/booster-ma-croissance?utm_source=chatgpt.com"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
