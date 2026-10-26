@@ -1728,5 +1728,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-26",
+    "llm": "Gemini",
+    "label": "Meilleurs organismes création entreprise",
+    "theme": "Création d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Le territoire d'Aix-Marseille-Provence dispose d'un écosystème entrepreneurial particulièrement riche, structuré par des réseaux institutionnels, des structures d'accompagnement généraliste et des réseaux de financement.\n\nCCI Aix-Marseille-Provence (CCIAMP)\n4.6 stars rating\n4.6\n📍 Association ou organisation\nOpen\n· Closes 5:00 PM\n\nCCI Aix-Marseille-Provence (CCIAMP)\nCliquer pour ouvrir le panneau ",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
