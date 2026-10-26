@@ -2076,5 +2076,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-26",
+    "llm": "Perplexity",
+    "label": "Accompagnement décarbonation industrie",
+    "theme": "Transition eco",
+    "prompt": "Quel accompagnement pour la décarbonation d'une industrie sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire Aix-Marseille-Provence, une entreprise industrielle dispose d’un écosystème complet : diagnostic carbone et énergétique, stratégie de décarbonation, ingénierie de projet, financements et mise en réseau. Les deux portes d’entrée les plus adaptées sont la CCIAMP pour un premier diagnostic et le programme D-CODE / ACT & PACTE Industrie pour une trajectoire industrielle plus structur",
+    "cited_urls": [
+      "https://www.cciamp.com/transition-ecologique-rse/decarbonation-climat"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
