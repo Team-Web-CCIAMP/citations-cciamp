@@ -2220,5 +2220,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-26",
+    "llm": "Perplexity",
+    "label": "Formations intelligence artificielle",
+    "theme": "Transformation numérique",
+    "prompt": "Quelles sont les meilleures formations en intelligence artificielle sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Les meilleures formations en IA sur Aix-Marseille-Provence dépendent surtout de votre objectif : diplôme technique de haut niveau, reconversion rapide, ou montée en compétences professionnelle. Les options les plus solides combinent l’offre universitaire et d’ingénieurs d’Aix-Marseille avec des écoles spécialisées et des organismes de formation continue.\n\nFormations diplômantes de référence\nFormat",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
