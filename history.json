@@ -2244,5 +2244,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-26",
+    "llm": "ChatGPT",
+    "label": "Recruter un alternant (local)",
+    "theme": "RH",
+    "prompt": "Comment recruter un alternant sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Pour recruter un alternant sur le territoire de la Métropole Aix-Marseille-Provence, le plus efficace est de combiner trois approches : contacter les écoles et CFA locaux, publier une offre sur les plateformes spécialisées et mobiliser les acteurs territoriaux de l'emploi.\n\nVous pouvez recruter un alternant à Marseille, Aix-en-Provence, Aubagne, Vitrolles, Marignane, Martigues, Istres, Salon-de-Pr",
+    "cited_urls": [
+      "https://www.cciamp.com/recruter-un-apprenti?utm_source=chatgpt.com"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
