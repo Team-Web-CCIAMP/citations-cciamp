@@ -2144,5 +2144,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-26",
+    "llm": "Gemini",
+    "label": "Accompagnement transition numérique",
+    "theme": "Transformation numérique",
+    "prompt": "Quel accompagnement pour la transition numérique en entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire d'Aix-Marseille-Provence, plusieurs acteurs institutionnels, réseaux et structures spécialisées proposent un accompagnement adapté aux entreprises souhaitant réussir leur transition numérique, moderniser leurs outils ou se digitaliser.\n\nMétropole Aix-Marseille-Provence\n1.7 stars rating\n1.7\n📍 Administration locale\nOpen\n· Closes 6:00 PM\n\nLa Métropole Aix-Marseille-Provence (siège ",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
