@@ -2284,5 +2284,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-26",
+    "llm": "Gemini",
+    "label": "Diagnostic RH PME",
+    "theme": "RH",
+    "prompt": "Où faire un diagnostic RH pour ma PME sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire de la métropole Aix-Marseille-Provence, plusieurs options s'offrent à vous pour réaliser un diagnostic RH adapté aux besoins de votre PME, qu'il s'agisse de structures d'accompagnement consulaire, d'institutions ou de cabinets de conseil spécialisés.\n\nCCI Aix-Marseille-Provence (CCIAMP)\n4.6 stars rating\n4.6\n📍 Association ou organisation\nOpen\n· Closes 5:00 PM\n\nPour un accompagnem",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
