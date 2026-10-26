@@ -2442,5 +2442,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-26",
+    "llm": "Claude",
+    "label": "Développer son réseau professionnel",
+    "theme": "Développer mon activité",
+    "prompt": "Comment développer son réseau professionnel en Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Voici les leviers les plus efficaces, par ordre de rentabilité.\nRecherche de conseils pour développer un réseau professionnel en Provence.\nRecherche de conseils pour développer un réseau professionnel en Provence.\n\nVoici les leviers les plus efficaces, par ordre de rentabilité.\n\n1. Rejoindre des réseaux structurés\n\nRéseaux d’entrepreneurs et de dirigeants : CJD, Réseau Entrepren",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
