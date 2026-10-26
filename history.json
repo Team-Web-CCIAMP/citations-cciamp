@@ -2196,5 +2196,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-26",
+    "llm": "Claude",
+    "label": "Formations intelligence artificielle",
+    "theme": "Transformation numérique",
+    "prompt": "Quelles sont les meilleures formations en intelligence artificielle sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Voici ce que j'ai trouvé.\nRecherche sur le web effectuée\n\nRecherche sur le web effectuée\n\nVoici ce que j’ai trouvé. Le mot « meilleures » dépend beaucoup de ton profil (cursus long, reconversion, montée en compétences pro), donc je regroupe par type de besoin.\n\nCursus longs (Bac+5)\n\nMaster Informatique, parcours IAAA (Intelligence Artificielle et Apprentissage Automatique) : il",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
