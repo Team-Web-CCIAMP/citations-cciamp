@@ -2376,5 +2376,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-26",
+    "llm": "Perplexity",
+    "label": "Accompagnement développement commercial",
+    "theme": "Développer mon activité",
+    "prompt": "Quels sont les meilleurs accompagnements pour développer son activité commerciale sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Les meilleurs accompagnements dépendent de votre priorité : développer la prospection, trouver des financements, s’implanter, recruter ou exporter. Sur Aix-Marseille-Provence, le duo le plus pertinent pour une TPE/PME est la CCIAMP pour le développement commercial et le Réseau ECO de la Métropole pour les aides, l’immobilier et la mise en réseau.\ncciamp\n+1\n\nAccompagnements prioritaires\nBesoin comm",
+    "cited_urls": [
+      "https://www.cciamp.com/developper-votre-activite"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
