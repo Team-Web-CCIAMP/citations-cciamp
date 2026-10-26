@@ -2258,5 +2258,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-26",
+    "llm": "Gemini",
+    "label": "Recruter un alternant (local)",
+    "theme": "RH",
+    "prompt": "Comment recruter un alternant sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Recruter un alternant sur la métropole Aix-Marseille-Provence demande d'allier les démarches administratives nationales aux spécificités du bassin d'emploi local.\n\nLe territoire bénéficie d'un réseau dense d'établissements d'enseignement supérieur (Aix-Marseille Université, écoles d'ingénieurs, grandes écoles de commerce, CFA régionaux).\n\n1. Définir le besoin et le type de contrat\n\nAvant de diffus",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
