@@ -2402,5 +2402,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-26",
+    "llm": "Claude",
+    "label": "Formation techniques de vente",
+    "theme": "Développer mon activité",
+    "prompt": "Où suivre une formation en techniques de vente sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Cela dépend de ce que vous cherchez : un stage court de quelques jours pour se perfectionner, ou une formation diplômante.\nRecherche sur le web effectuée\n\nRecherche sur le web effectuée\n\nCela dépend de ce que vous cherchez : un stage court de quelques jours pour se perfectionner, ou une formation diplômante.\n\nPour une formation courte en inter-entreprises\n\nCCI Formation Aix-Mar",
+    "cited_urls": [
+      "https://formationpro.cciamp.com/formations/marketing-relation-client-negociation-vente/negociation-commerciale-et-vente/?pdf=1"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
