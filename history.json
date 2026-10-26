@@ -1814,5 +1814,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-26",
+    "llm": "Perplexity",
+    "label": "Meilleurs organismes reprise entreprise",
+    "theme": "Reprise d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la reprise d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Pour une reprise d’entreprise à Aix-Marseille-Provence, les organismes les plus pertinents sont la CCIAMP comme porte d’entrée principale, puis la CMA pour l’artisanat, Initiative Marseille Métropole pour le financement des TPE, et Réseau Entreprendre PACA pour le mentorat post-reprise. Le choix dépend surtout du secteur, de la taille de la cible et du stade d’avancement du projet.\ncciamp\n+3\n\nOrga",
+    "cited_urls": [
+      "https://www.cciamp.com/vos-besoins/reprendre-une-entreprise"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
