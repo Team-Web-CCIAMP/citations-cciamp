@@ -2416,5 +2416,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-26",
+    "llm": "ChatGPT",
+    "label": "Formation techniques de vente",
+    "theme": "Développer mon activité",
+    "prompt": "Où suivre une formation en techniques de vente sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire Aix-Marseille-Provence, plusieurs organismes proposent des formations en techniques de vente, à Marseille, Aix-en-Provence et dans d'autres communes de la métropole.\n\nVous pouvez choisir entre des formations courtes de 2 à 4 jours pour acquérir ou perfectionner vos méthodes commerciales, et des parcours certifiants ou diplômants pour exercer un métier dans la vente.\n\n1. Les organ",
+    "cited_urls": [
+      "https://formationpro.cciamp.com/formations/marketing-relation-client-negociation-vente/negociation-commerciale-et-vente/?utm_source=chatgpt.com"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
