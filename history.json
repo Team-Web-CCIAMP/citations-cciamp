@@ -1998,5 +1998,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-26",
+    "llm": "Gemini",
+    "label": "Meilleurs dispositifs transition écologique",
+    "theme": "Transition eco",
+    "prompt": "Quels sont les meilleurs dispositifs pour un accompagnement à la transition écologique d'une entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire d'Aix-Marseille-Provence, plusieurs acteurs majeurs proposent des dispositifs complets, des diagnostics et des financements pour accompagner les entreprises dans leur transition écologique (RSE, décarbonation, gestion des déchets, efficacité énergétique).\n\nCCI Aix-Marseille-Provence (CCIAMP)\n4.6 stars rating\n4.6\n📍 Association ou organisation\nOpen\n· Closes 5:00 PM\n\nLa CCI Aix-Mar",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
