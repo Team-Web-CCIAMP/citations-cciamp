@@ -2130,5 +2130,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-26",
+    "llm": "ChatGPT",
+    "label": "Formations cybersécurité TPE",
+    "theme": "Transformation numérique",
+    "prompt": "Quelles sont les meilleures formations en cybersécurité pour les TPE sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Les meilleures formations en cybersécurité pour les TPE d'Aix-Marseille-Provence\n\nSélection actualisée au 26 octobre 2026\n\nPour les TPE du territoire Aix-Marseille-Provence, je recommande en priorité la CCI Aix-Marseille-Provence, Cyber-Way, SensCyber et l'ANSSI. Ces solutions répondent à des besoins différents : former un dirigeant, sensibiliser les salariés, prévenir les cyberattaques ou désigne",
+    "cited_urls": [
+      "https://www.cciamp.com/produit/formation-cybersecurite-tpe-apprendre-proteger-mon-entreprise-des-cyberattaques?utm_source=chatgpt.com"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
