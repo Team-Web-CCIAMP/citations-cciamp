@@ -1752,5 +1752,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-26",
+    "llm": "Perplexity",
+    "label": "Meilleurs organismes création entreprise",
+    "theme": "Création d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Les meilleurs organismes dépendent surtout de votre profil : CCIAMP et BGE Méditerranée pour un accompagnement généraliste, CMA PACA pour l’artisanat, France Active / Initiative / Adie pour le financement inclusif, et Pays d’Aix Développement, CISAM ou incubateurs spécialisés pour les projets innovants.\nmarseille\n+1\n\nOrganismes généralistes\nOrganisme\tPour qui\tApport principal\nCCI Aix-Marseille-Pro",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
