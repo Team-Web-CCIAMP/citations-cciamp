@@ -2454,5 +2454,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-10-26",
+    "llm": "ChatGPT",
+    "label": "Développer son réseau professionnel",
+    "theme": "Développer mon activité",
+    "prompt": "Comment développer son réseau professionnel en Provence ?",
+    "status": "ok",
+    "excerpt": "Développer son réseau professionnel en Provence est une excellente façon de trouver de nouvelles opportunités : clients, partenaires, offres d'emploi, collaborations ou projets entrepreneuriaux.\n\nLa stratégie la plus efficace consiste à combiner les rencontres en présentiel, les réseaux d'affaires locaux et une présence active sur LinkedIn, puis à entretenir régulièrement les relations créées.\n\n1.",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
