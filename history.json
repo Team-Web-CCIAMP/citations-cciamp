@@ -1828,5 +1828,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-26",
+    "llm": "Gemini",
+    "label": "Meilleurs organismes transmission entreprise",
+    "theme": "Transmission d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la transmission d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Sur le territoire d'Aix-Marseille-Provence, plusieurs organismes institutionnels et réseaux spécialisés se distinguent par leur expertise pour accompagner les dirigeants, les cédants et les repreneurs dans les projets de transmission ou de reprise d'entreprise.\n\nCCI Aix-Marseille-Provence (CCIAMP)\n4.6 stars rating\n4.6\n📍 Association ou organisation\nOpen\n· Closes 5:00 PM\n\nCCI Aix-Marseille-Provence",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
