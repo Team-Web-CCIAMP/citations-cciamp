@@ -2010,5 +2010,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-10-26",
+    "llm": "ChatGPT",
+    "label": "Meilleurs dispositifs transition écologique",
+    "theme": "Transition eco",
+    "prompt": "Quels sont les meilleurs dispositifs pour un accompagnement à la transition écologique d'une entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire de la Métropole Aix-Marseille-Provence, plusieurs dispositifs permettent aux entreprises de financer leur transition écologique, de bénéficier d'un accompagnement stratégique et de passer concrètement à l'action.\n\nEn octobre 2026, je recommande de regarder en priorité cinq dispositifs :\n\nCEDRE – Région Sud : particulièrement intéressant pour financer un accompagnement personnalis",
+    "cited_urls": [
+      "https://www.cciamp.com/transition-ecologique-rse?utm_source=chatgpt.com"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
