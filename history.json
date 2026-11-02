@@ -2998,5 +2998,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-02",
+    "llm": "Gemini",
+    "label": "Accompagnement développement commercial",
+    "theme": "Développer mon activité",
+    "prompt": "Quels sont les meilleurs accompagnements pour développer son activité commerciale sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Le territoire Aix-Marseille-Provence dispose d'un écosystème extrêmement riche pour accompagner les entreprises dans leur croissance et leur développement commercial. Selon la taille de votre structure, votre secteur (commerce, B2B, tech, industrie) et vos objectifs précis, plusieurs acteurs majeurs se distinguent :   \nMétropole Aix-Marseille-Provence\n\n1. Les institutions publiques et consulaires ",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
