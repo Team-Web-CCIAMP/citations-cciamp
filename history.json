@@ -2880,5 +2880,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-02",
+    "llm": "Claude",
+    "label": "Formations intelligence artificielle",
+    "theme": "Transformation numérique",
+    "prompt": "Quelles sont les meilleures formations en intelligence artificielle sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : \"Meilleures\" dépend beaucoup de ce que vous visez : un diplôme technique en IA, ou monter en compétences sur les usages de l'IA générative.\nRecherche sur le web effectuée\n\nRecherche sur le web effectuée\n\n“Meilleures” dépend beaucoup de ce que vous visez : un diplôme technique en IA, ou monter en compétences sur les usages de l’IA générative. Voici ce que j’ai trouvé pour chaque",
+    "cited_urls": [
+      "https://formationpro.cciamp.com/formations/communication-developpement-personnel/ia-generatives-pour-augmenter-vos-performances-module-genia-decouvertes-chatgpt-claude-et-autres/?pdf=1"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
