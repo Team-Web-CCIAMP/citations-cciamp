@@ -2698,5 +2698,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-02",
+    "llm": "Claude",
+    "label": "Meilleurs dispositifs transition écologique",
+    "theme": "Transition eco",
+    "prompt": "Quels sont les meilleurs dispositifs pour un accompagnement à la transition écologique d'une entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Voici les dispositifs les plus pertinents sur le territoire, dans l'ordre où on les mobilise en général : diagnostic, plan d'actions, puis financement.\nRecherche sur le web effectuée\n\nRecherche sur le web effectuée\n\nVoici les dispositifs les plus pertinents sur le territoire, dans l’ordre où on les mobilise en général : diagnostic, plan d’actions, puis financement.\n\n1. Premier ",
+    "cited_urls": [
+      "https://www.cciamp.com/sites/g/files/mwbcuj1081/files/2025-06/A4-Rapport-Activite-2024_CCIAMP_compressed.pdf"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
