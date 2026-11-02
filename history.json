@@ -2788,5 +2788,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-02",
+    "llm": "Gemini",
+    "label": "Formations cybersécurité TPE",
+    "theme": "Transformation numérique",
+    "prompt": "Quelles sont les meilleures formations en cybersécurité pour les TPE sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Pour une TPE sur le territoire Aix-Marseille-Provence, les besoins en cybersécurité relèvent généralement de la sensibilisation des équipes, de l'hygiène informatique de base et de la protection contre les arnaques courantes (phishing, ransomware), plutôt que de l'ingénierie technique lourde.\n\nPlusieurs formats de formations courtes, opérationnelles et adaptées aux dirigeants ou salariés de TPE so",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
