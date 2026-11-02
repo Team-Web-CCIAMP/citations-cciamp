@@ -2738,5 +2738,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-02",
+    "llm": "Perplexity",
+    "label": "Accompagnement décarbonation industrie",
+    "theme": "Transition eco",
+    "prompt": "Quel accompagnement pour la décarbonation d'une industrie sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire Aix-Marseille-Provence, la porte d’entrée la plus adaptée est généralement la CCIAMP pour le diagnostic et la feuille de route, puis Territoires d’Industrie / D-CODE pour structurer et financer les investissements de décarbonation.\ncciamp\n+2\n\nParcours recommandé\n\nMesurer les émissions : réaliser un Diagnostic Carbone avec la CCIAMP, via l’outil LISE, conforme aux normes ISO 14064",
+    "cited_urls": [
+      "https://www.cciamp.com/transition-ecologique-rse/decarbonation-climat"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
