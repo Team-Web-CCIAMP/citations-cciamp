@@ -2530,5 +2530,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-02",
+    "llm": "Claude",
+    "label": "Meilleurs organismes reprise entreprise",
+    "theme": "Reprise d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la reprise d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Voici les acteurs qui comptent, regroupés par rôle.\nRecherche sur le web effectuée\n\nRecherche sur le web effectuée\n\nVoici les acteurs qui comptent, regroupés par rôle.\n\nPremier point de contact (diagnostic, parcours complet)\n\nCCI métropolitaine Aix-Marseille-Provence : accompagne les projets pour créer, reprendre et transmettre une entreprise. Elle organise aussi des webinaires",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
