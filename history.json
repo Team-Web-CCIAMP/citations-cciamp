@@ -2828,5 +2828,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-02",
+    "llm": "Claude",
+    "label": "Accompagnement transition numérique",
+    "theme": "Transformation numérique",
+    "prompt": "Quel accompagnement pour la transition numérique en entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Sur le territoire, l'accompagnement se répartit entre l'offre consulaire, un programme régional et des dispositifs plus ciblés.\nRecherche sur le web effectuée\n\nRecherche sur le web effectuée\n\nSur le territoire, l’accompagnement se répartit entre l’offre consulaire, un programme régional et des dispositifs plus ciblés.\n\n1. CCI Aix-Marseille-Provence (premier niveau, tous secteur",
+    "cited_urls": [
+      "https://www.cciamp.com/sites/g/files/mwbcuj1081/files/2025-06/A4-Rapport-Activite-2024_CCIAMP_compressed.pdf"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
