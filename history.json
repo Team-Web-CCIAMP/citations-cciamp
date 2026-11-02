@@ -2542,5 +2542,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-02",
+    "llm": "ChatGPT",
+    "label": "Meilleurs organismes reprise entreprise",
+    "theme": "Reprise d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la reprise d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Sur le territoire Aix–Marseille–Provence, plusieurs organismes sont particulièrement pertinents pour accompagner la reprise d'une entreprise, mais ils n'interviennent pas tous au même stade.\n\nPour reprendre une TPE ou une PME dans de bonnes conditions, je recommande de combiner trois types d'accompagnement : la recherche d'entreprises à reprendre, le montage de l'opération et le financement, puis ",
+    "cited_urls": [
+      "https://www.cciamp.com/vos-besoins/reprendre-une-entreprise?utm_source=chatgpt.com"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
