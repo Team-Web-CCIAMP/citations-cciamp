@@ -2984,5 +2984,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-02",
+    "llm": "Claude",
+    "label": "Accompagnement développement commercial",
+    "theme": "Développer mon activité",
+    "prompt": "Quels sont les meilleurs accompagnements pour développer son activité commerciale sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Il n'y a pas un seul \"meilleur\" dispositif : le bon choix dépend de votre stade (création, croissance, innovation) et de votre secteur.\nRecherche sur le web effectuée\n\nRecherche sur le web effectuée\n\nIl n’y a pas un seul “meilleur” dispositif : le bon choix dépend de votre stade (création, croissance, innovation) et de votre secteur. Voici les principaux acteurs du territoire, ",
+    "cited_urls": [
+      "https://www.cciamp.com/sites/g/files/mwbcuj1081/files/2025-06/A4-Rapport-Activite-2024_CCIAMP_compressed.pdf"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
