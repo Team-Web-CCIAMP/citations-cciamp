@@ -2842,5 +2842,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-02",
+    "llm": "Gemini",
+    "label": "Accompagnement transition numérique",
+    "theme": "Transformation numérique",
+    "prompt": "Quel accompagnement pour la transition numérique en entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire Aix-Marseille-Provence, les entreprises (TPE, PME et ETI) disposent de plusieurs réseaux institutionnels et dispositifs régionaux pour réussir leur transformation numérique.   \nRégion Sud\n\n1. Acteurs institutionnels & Territoriaux\n\nCCI Aix-Marseille-Provence (CCIAMP)   \nCCI Aix Marseille Provence\n\nDiagnostics & Consulting : Bilan de maturité numérique, plan d'action personnalisé ",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
