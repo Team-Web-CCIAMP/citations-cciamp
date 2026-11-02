@@ -2608,5 +2608,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-02",
+    "llm": "Claude",
+    "label": "Meilleurs organismes formalités entreprise",
+    "theme": "Formalités",
+    "prompt": "Quels sont les meilleurs organismes pour les formalités d'entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Depuis le 1er janvier 2023, il n'y a plus de choix entre plusieurs organismes pour déposer un dossier : toutes les formalités de création, modification et ferm…\nRecherche sur le web effectuée\n\nRecherche sur le web effectuée\n\nDepuis le 1er janvier 2023, il n’y a plus de choix entre plusieurs organismes pour déposer un dossier : toutes les formalités de création, modification et ",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
