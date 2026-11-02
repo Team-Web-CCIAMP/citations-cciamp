@@ -2934,5 +2934,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-11-02",
+    "llm": "Gemini",
+    "label": "Recruter un alternant (local)",
+    "theme": "RH",
+    "prompt": "Comment recruter un alternant sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Recruter un alternant sur la métropole Aix-Marseille-Provence repose sur un écosystème d'acteurs de la formation et de réseaux économiques locaux.\n\n1. Cibler les bons réseaux de recrutement locaux\n\nÉtablissements d'enseignement supérieur et CFA du territoire :\n\nAix-Marseille Université (AMU) & IUT d'Aix-Marseille : Plateforme Form'AMU pour diffuser des offres auprès des étudiants en Licences Pro, ",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
