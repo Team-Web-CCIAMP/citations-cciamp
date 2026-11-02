@@ -2752,5 +2752,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-02",
+    "llm": "Gemini",
+    "label": "Accompagnement décarbonation industrie",
+    "theme": "Transition eco",
+    "prompt": "Quel accompagnement pour la décarbonation d'une industrie sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire Aix-Marseille-Provence — l'un des principaux hubs industriels de France — la décarbonation s'appuie sur une combinaison d'accompagnements techniques métropolitains, de financements régionaux/nationaux et d'initiatives spécialisées pour le bassin de Fos-Berre.   \nNovachim\n\n1. Dispositifs d'accompagnement direct et ingénierie   \nMétropole Aix-Marseille-Provence\n\nDispositif D-CODE (",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
