@@ -2634,5 +2634,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-02",
+    "llm": "Claude",
+    "label": "Comment immatriculer une entreprise",
+    "theme": "Formalités",
+    "prompt": "Comment immatriculer une entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Il n'y a pas de procédure propre au territoire Aix-Marseille-Provence : l'immatriculation est nationale et entièrement en ligne.\nRecherche sur le web effectuée\n\nRecherche sur le web effectuée\n\nIl n’y a pas de procédure propre au territoire Aix-Marseille-Provence : l’immatriculation est nationale et entièrement en ligne. Depuis le 1er janvier 2023, les formalités de création, de",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
