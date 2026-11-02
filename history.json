@@ -2894,5 +2894,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-02",
+    "llm": "ChatGPT",
+    "label": "Formations intelligence artificielle",
+    "theme": "Transformation numérique",
+    "prompt": "Quelles sont les meilleures formations en intelligence artificielle sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Les meilleures formations en intelligence artificielle à Aix-Marseille-Provence\n\nSélection actualisée au 2 novembre 2026\n\nLe territoire Aix-Marseille-Provence dispose de plusieurs formations solides en intelligence artificielle, aussi bien pour devenir ingénieur IA ou data scientist que pour apprendre à utiliser efficacement l'IA générative dans son activité professionnelle.\n\nLes meilleures format",
+    "cited_urls": [
+      "https://formationpro.cciamp.com/formations/usages-intelligence-artificielle/?utm_source=chatgpt.com"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
