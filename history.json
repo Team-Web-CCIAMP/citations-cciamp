@@ -2674,5 +2674,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-02",
+    "llm": "Gemini",
+    "label": "Comment immatriculer une entreprise",
+    "theme": "Formalités",
+    "prompt": "Comment immatriculer une entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "L'immatriculation d'une entreprise s'effectue intégralement en ligne via une plateforme nationale unique, quel que soit le lieu d'implantation sur le territoire Aix-Marseille-Provence. Des organismes locaux d'accompagnement sont disponibles sur le territoire métropolitain pour vous guider.   \nwww.inpi.fr\n+ 1\n\n1. La procédure d'immatriculation en ligne\n\nToutes les démarches de création se font sur ",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
