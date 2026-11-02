@@ -2686,5 +2686,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-02",
+    "llm": "Gemini",
+    "label": "Meilleurs dispositifs transition écologique",
+    "theme": "Transition eco",
+    "prompt": "Quels sont les meilleurs dispositifs pour un accompagnement à la transition écologique d'une entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Le territoire d'Aix-Marseille-Provence bénéficie d'un écosystème dense et structuré pour accompagner les entreprises (TPE, PME, ETI ou grands groupes) dans leur transition écologique, énergétique et RSE.   \ndispositif-reponses.org\n\nLes dispositifs et accompagnements les plus performants et mobilisables sur ce territoire se répartissent selon plusieurs niveaux d'intervention :   \nMétropole Aix-Mars",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
