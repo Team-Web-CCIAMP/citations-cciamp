@@ -2764,5 +2764,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-02",
+    "llm": "Claude",
+    "label": "Accompagnement décarbonation industrie",
+    "theme": "Transition eco",
+    "prompt": "Quel accompagnement pour la décarbonation d'une industrie sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : En bref : il n'existe pas un guichet unique, mais trois niveaux d'accompagnement qui se complètent.\nRecherche sur le web effectuée\n\nRecherche sur le web effectuée\n\nEn bref : il n’existe pas un guichet unique, mais trois niveaux d’accompagnement qui se complètent. Le bon point d’entrée dépend de la taille et de la localisation de l’industriel.\n\n1. Dynamique collective Fos-Berre ",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
