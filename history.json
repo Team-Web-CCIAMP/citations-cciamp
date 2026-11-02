@@ -3088,5 +3088,19 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-11-02",
+    "llm": "ChatGPT",
+    "label": "Développer son réseau professionnel",
+    "theme": "Développer mon activité",
+    "prompt": "Comment développer son réseau professionnel en Provence ?",
+    "status": "ok",
+    "excerpt": "Pour développer votre réseau professionnel en Provence, le plus efficace est de combiner les rencontres en présentiel, les réseaux d'entrepreneurs locaux et une présence active sur LinkedIn.\n\nLa Provence offre de nombreuses opportunités, notamment autour de Marseille, Aix-en-Provence, Avignon, Arles et Salon-de-Provence. L'important n'est pas de rencontrer le plus grand nombre de personnes, mais d",
+    "cited_urls": [
+      "https://www.cciamp.com/?utm_source=chatgpt.com"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
