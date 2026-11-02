@@ -3076,5 +3076,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-02",
+    "llm": "Claude",
+    "label": "Développer son réseau professionnel",
+    "theme": "Développer mon activité",
+    "prompt": "Comment développer son réseau professionnel en Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Développer son réseau professionnel en Provence\nChoix de réseaux professionnels à citer\n\nChoix de réseaux professionnels à citer\nDévelopper son réseau professionnel en Provence\n1. Rejoindre les bons cercles locaux\nChambres consulaires : la CCI, la CMA et la Chambre d’agriculture organisent des ateliers, petits-déjeuners et rencontres B2B toute l’année.\nOrganisations patronales ",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
