@@ -2946,5 +2946,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-02",
+    "llm": "Gemini",
+    "label": "Diagnostic RH PME",
+    "theme": "RH",
+    "prompt": "Où faire un diagnostic RH pour ma PME sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire de la Métropole Aix-Marseille-Provence, plusieurs cabinets et structures spécialisés accompagnent les PME dans la réalisation d'un diagnostic RH, que ce soit pour structurer leurs ressources humaines, auditer leurs pratiques ou optimiser leur organisation.\n\nRH Partners Aix / Marseille - Ressources Humaines & Cabinet de Recrutement\n4.4 stars rating\n4.4\n📍 Cabinet de recrutement\nOp",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
