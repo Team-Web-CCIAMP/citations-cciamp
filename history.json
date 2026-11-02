@@ -2556,5 +2556,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-02",
+    "llm": "Claude",
+    "label": "Meilleurs organismes transmission entreprise",
+    "theme": "Transmission d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la transmission d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Voici les structures qui reviennent le plus pour la transmission/reprise sur le territoire, selon leur rôle.\nRecherche sur le web effectuée\n\nRecherche sur le web effectuée\n\nVoici les structures qui reviennent le plus pour la transmission/reprise sur le territoire, selon leur rôle.\n\nPremier interlocuteur (cédants et repreneurs)\n\nCCI métropolitaine Aix-Marseille-Provence : consei",
+    "cited_urls": [
+      "https://www.cciamp.com/sites/g/files/mwbcuj1081/files/2025-06/A4-Rapport-Activite-2024_CCIAMP_compressed.pdf"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
