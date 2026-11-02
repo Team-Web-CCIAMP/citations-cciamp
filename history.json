@@ -2506,5 +2506,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-02",
+    "llm": "Gemini",
+    "label": "Meilleurs organismes création entreprise",
+    "theme": "Création d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Le territoire Aix-Marseille-Provence dispose d'un écosystème entrepreneurial particulièrement riche et structuré. Selon la nature de votre projet (commerce de proximité, entreprise innovante, structure de l'économie sociale et solidaire, ou besoin de financement spécifique), plusieurs organismes de référence s'offrent à vous :   \nLes-aides.fr\n+ 1\n\n1. Les Acteurs Institutionnels et Généralistes (Le",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
