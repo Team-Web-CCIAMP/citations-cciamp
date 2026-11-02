@@ -2868,5 +2868,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-02",
+    "llm": "Gemini",
+    "label": "Formations intelligence artificielle",
+    "theme": "Transformation numérique",
+    "prompt": "Quelles sont les meilleures formations en intelligence artificielle sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Le territoire Aix-Marseille-Provence dispose d'un écosystème de formation en intelligence artificielle (IA) et en science des données très diversifié, allant de l'université publique aux grandes écoles de commerce et d'ingénieurs, en passant par les bootcamps intensifs et la formation continue.   \nIESF Provence\n\nLes meilleures formations se répartissent selon plusieurs profils et objectifs :\n\n1. F",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
