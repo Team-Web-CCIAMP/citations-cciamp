@@ -2660,5 +2660,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-02",
+    "llm": "Perplexity",
+    "label": "Comment immatriculer une entreprise",
+    "theme": "Formalités",
+    "prompt": "Comment immatriculer une entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Pour immatriculer une entreprise sur le territoire Aix-Marseille-Provence, la démarche se fait en ligne sur le Guichet unique des formalités des entreprises. La CCIAMP peut vous accompagner pour préparer le dossier, mais le dépôt lui-même ne se fait plus en CFE depuis le 1er janvier 2023.\ncciamp\n+1\n\nSelon votre statut\nForme\tPoints clés\nMicro-entreprise / entreprise individuelle\tDéclaration de débu",
+    "cited_urls": [
+      "https://www.cciamp.com/immatriculation-entreprise-individuelle"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
