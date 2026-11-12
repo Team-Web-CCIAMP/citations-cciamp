@@ -3430,5 +3430,19 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-11-12",
+    "llm": "Perplexity",
+    "label": "Accompagnement décarbonation industrie",
+    "theme": "Transition eco",
+    "prompt": "Quel accompagnement pour la décarbonation d'une industrie sur le territoire Aix-Marseille-Provence ?",
+    "status": "incomplete",
+    "excerpt": "Pour une industrie implantée sur Aix-Marseille-Provence, le point d’entrée le plus structurant est la CCIAMP, complétée par le programme Territoire d’Industrie de la Métropole. L’accompagnement couvre le diagnostic des émissions, l’efficacité énergétique, le montage de projets et l’accès aux financements.\nampmetropole\n+1\n\nParcours recommandé\n\nRéaliser un diagnostic carbone : la CCIAMP propose une ",
+    "cited_urls": [
+      "https://www.cciamp.com/produit/diagnostic-carbone"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
