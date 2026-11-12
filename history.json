@@ -3646,5 +3646,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-12",
+    "llm": "Perplexity",
+    "label": "Recruter un alternant (local)",
+    "theme": "RH",
+    "prompt": "Comment recruter un alternant sur le territoire Aix-Marseille-Provence ?",
+    "status": "incomplete",
+    "excerpt": "Pour recruter un alternant sur Aix-Marseille-Provence, le plus efficace est de partir d’un besoin précis, de choisir le bon CFA/école, puis de mobiliser les relais locaux — notamment la CCIAMP — pour trouver et accompagner le candidat. En parallèle, sécurisez le contrat, l’OPCO et les aides avant l’embauche.\nentreprendre.service-public.gouv\n+1\n\nDémarche recommandée\n\nDéfinissez le poste et le profi",
+    "cited_urls": [
+      "https://www.cciamp.com/produit/recruter-votre-apprenti"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
