@@ -3552,5 +3552,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-12",
+    "llm": "Gemini",
+    "label": "Accompagnement transition numérique",
+    "theme": "Transformation numérique",
+    "prompt": "Quel accompagnement pour la transition numérique en entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire de la Métropole Aix-Marseille-Provence, l'accompagnement à la transition numérique s'articule autour des réseaux consulaires (CCI, CMA), de la Région Sud et de dispositifs européens dédiés aux TPE/PME.   \nRégion Sud\n\n1. Les diagnostics et parcours consulaires (Point d'entrée gratuit)   \nCMA Provence-Alpes-Côte d'Azur\n\nAvant tout investissement, il est recommandé de réaliser un ét",
+    "cited_urls": [
+      "https://www.cciamp.com/transformation-numerique"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
