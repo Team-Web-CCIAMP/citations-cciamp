@@ -3328,5 +3328,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-12",
+    "llm": "ChatGPT",
+    "label": "Comment immatriculer une entreprise",
+    "theme": "Formalités",
+    "prompt": "Comment immatriculer une entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Pour immatriculer une entreprise sur le territoire d’Aix-Marseille-Provence, vous devez effectuer une déclaration de création d'entreprise en ligne, auprès du Guichet unique des formalités des entreprises, géré par l'INPI.\n\nCette procédure est identique que votre entreprise soit implantée à Marseille, Aix-en-Provence, Aubagne, Martigues, Vitrolles ou dans une autre commune de la Métropole.\n\n1. Où ",
+    "cited_urls": [
+      "https://www.cciamp.com/?utm_source=chatgpt.com"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
