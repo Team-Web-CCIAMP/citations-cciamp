@@ -3444,5 +3444,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-12",
+    "llm": "Gemini",
+    "label": "Accompagnement décarbonation industrie",
+    "theme": "Transition eco",
+    "prompt": "Quel accompagnement pour la décarbonation d'une industrie sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire de la Métropole Aix-Marseille-Provence (premier pôle industriel du Sud de la France, marqué par la zone industrialo-portuaire de Fos-Étang de Berre et le bassin de Gardanne-Meyreuil), l’accompagnement à la décarbonation s’articule autour de trois leviers complémentaires : l’ingénierie collective locale, le diagnostic personnalisé (PME/ETI) et les financements nationaux et régiona",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
