@@ -3150,5 +3150,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-12",
+    "llm": "Claude",
+    "label": "Meilleurs organismes reprise entreprise",
+    "theme": "Reprise d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la reprise d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Il n'existe pas de classement officiel, et le bon interlocuteur dépend de votre besoin : conseil, mise en relation avec un cédant ou financement.\nRecherche sur le web effectuée\n\nRecherche sur le web effectuée\n\nIl n’existe pas de classement officiel, et le bon interlocuteur dépend de votre besoin : conseil, mise en relation avec un cédant ou financement. Voici les principaux act",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
