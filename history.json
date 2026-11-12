@@ -3280,5 +3280,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-12",
+    "llm": "Perplexity",
+    "label": "Meilleurs organismes formalités entreprise",
+    "theme": "Formalités",
+    "prompt": "Quels sont les meilleurs organismes pour les formalités d'entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Pour les formalités d’entreprise sur le territoire Aix-Marseille-Provence, le passage obligatoire est le Guichet unique national ; en complément, la CCI Aix-Marseille-Provence est l’organisme local le plus complet pour être accompagné, tandis que la CMA Provence est le réflexe pour les artisans.\nentreprises.gouv\n+3\n\nLe passage obligatoire : Guichet unique\n\nDepuis le 1er janvier 2023, toutes les fo",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
