@@ -3578,5 +3578,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-12",
+    "llm": "Claude",
+    "label": "Formations intelligence artificielle",
+    "theme": "Transformation numérique",
+    "prompt": "Quelles sont les meilleures formations en intelligence artificielle sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Il n'existe pas de classement officiel, et le « meilleur » dépend de votre profil.\nRecherche sur le web effectuée\n\nRecherche sur le web effectuée\n\nIl n’existe pas de classement officiel, et le « meilleur » dépend de votre profil. Voici les options qui ressortent sur le territoire, par type de public.\n\nFormation initiale (Bac+3 à Bac+5)\n\nMaster Informatique, parcours IAAA (Intel",
+    "cited_urls": [
+      "https://formationpro.cciamp.com/formations/digital-webmarketing/formation-utiliser-lintelligence-artificielle-generative-iag-pour-ameliorer-son-efficacite-professionnelle-par-un-usage-responsable/?pdf=1"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
