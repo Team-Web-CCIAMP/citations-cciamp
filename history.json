@@ -3618,5 +3618,19 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-11-12",
+    "llm": "Claude",
+    "label": "Recruter un alternant (local)",
+    "theme": "RH",
+    "prompt": "Comment recruter un alternant sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Voici la marche à suivre, avec les points à vérifier avant de signer.\nVérification des montants de l'aide à l'embauche\nVérification des montants de l'aide à l'embauche\nRecherche sur le web effectuée\n\nRecherche sur le web effectuée\n\nVoici la marche à suivre, avec les points à vérifier avant de signer.\n\n1. Cadrer le besoin\nDéfinissez la mission, le niveau de diplôme visé (BTS, li",
+    "cited_urls": [
+      "https://formationpro.cciamp.com/formations/certificat-de-competences-en-entreprise/exercer-le-role-de-tuteur-maitre-dapprentissage-niveaux-1-et-2-cce-exercer-le-role-de-tuteur-en-entreprise/?pdf=1"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
