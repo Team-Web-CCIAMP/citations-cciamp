@@ -3482,5 +3482,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-12",
+    "llm": "Perplexity",
+    "label": "Formations cybersécurité TPE",
+    "theme": "Transformation numérique",
+    "prompt": "Quelles sont les meilleures formations en cybersécurité pour les TPE sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Les offres les plus pertinentes sur le territoire Aix-Marseille-Provence sont celles de la CCIAMP, co-animées avec Urgence Cyber Région Sud : elles sont conçues spécifiquement pour les dirigeants et équipes de TPE/PME, sans prérequis technique, et couvrent à la fois la sensibilisation et la désignation d’un référent interne.\ncciamp\n+1\n\nLes formations à privilégier\nFormation\tPour qui\tFormat / conte",
+    "cited_urls": [
+      "http://www.cciamp.com/transformation-numerique/me-proteger-des-cybermenaces"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
