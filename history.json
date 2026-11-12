@@ -3102,5 +3102,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-12",
+    "llm": "Perplexity",
+    "label": "Meilleurs organismes création entreprise",
+    "theme": "Création d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la création d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Les meilleurs interlocuteurs dépendent surtout de votre stade de projet, de votre besoin de financement et de votre zone. Pour un accompagnement complet sur Aix-Marseille-Provence, commencez par la Métropole / Réseau Éco, BGE Provence-Alpes-Méditerranée, la CCIAMP, puis Initiative Marseille Métropole ou Réseau Entreprendre Provence selon que vous cherchez un prêt d’honneur et un mentorat.\nampmetro",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
