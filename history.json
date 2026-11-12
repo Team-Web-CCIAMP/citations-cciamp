@@ -3316,5 +3316,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-12",
+    "llm": "Claude",
+    "label": "Comment immatriculer une entreprise",
+    "theme": "Formalités",
+    "prompt": "Comment immatriculer une entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : L'immatriculation n'a pas de volet local : la démarche est la même partout en France, y compris à Marseille, Aix, Martigues ou Aubagne.\nRecherche sur le web effectuée\n\nRecherche sur le web effectuée\n\nL’immatriculation n’a pas de volet local : la démarche est la même partout en France, y compris à Marseille, Aix, Martigues ou Aubagne. Depuis le 1er janvier 2023, toutes les forma",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
