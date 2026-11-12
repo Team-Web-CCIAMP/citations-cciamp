@@ -3592,5 +3592,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-12",
+    "llm": "Perplexity",
+    "label": "Formations intelligence artificielle",
+    "theme": "Transformation numérique",
+    "prompt": "Quelles sont les meilleures formations en intelligence artificielle sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Les meilleures formations dépendent surtout de votre objectif : études longues et recherche, ingénierie appliquée, ou montée en compétences professionnelle. Sur Aix-Marseille-Provence, les références les plus solides sont le master IAAA d’Aix-Marseille Université, l’ISEN Méditerranée, et les formations courtes certifiantes de la CCIAMP ou de KEDGE.\natala\n+2\n\nFormations diplômantes\nFormation\tÉtabli",
+    "cited_urls": [
+      "https://formationpro.cciamp.com/formations/digital-webmarketing/formation-utiliser-lintelligence-artificielle-generative-iag-pour-ameliorer-son-efficacite-professionnelle-par-un-usage-responsable/"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
