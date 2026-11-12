@@ -3240,5 +3240,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-12",
+    "llm": "Perplexity",
+    "label": "Meilleurs organismes transmission entreprise",
+    "theme": "Transmission d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la transmission d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Pour une transmission d’entreprise sur Aix-Marseille-Provence, la CCIAMP est le point d’entrée le plus complet pour un cédant de TPE/PME, tandis que la CMA PACA est le choix le plus pertinent pour un artisan. Pour une PME/ETI plus structurée, Bpifrance apporte surtout conseil, mise en relation et financement.\nartisanat\n+2\n\nLes organismes prioritaires\nOrganisme\tPour qui\tApport principal\tÀ retenir\nC",
+    "cited_urls": [
+      "http://www.cciamp.com/vos-besoins/transmettre-votre-entreprise"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
