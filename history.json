@@ -3342,5 +3342,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-12",
+    "llm": "Perplexity",
+    "label": "Comment immatriculer une entreprise",
+    "theme": "Formalités",
+    "prompt": "Comment immatriculer une entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Pour immatriculer une entreprise sur le territoire Aix-Marseille-Provence, la démarche est désormais dématérialisée et nationale : elle se fait sur le Guichet unique des formalités des entreprises de l’INPI, quel que soit l’arrondissement ou la commune d’implantation. Il n’y a donc plus de CFE à contacter pour la création.\nentreprendre.service-public.gouv\n+1\n\nProcédure à suivre\n\nChoisissez la form",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
