@@ -3354,5 +3354,19 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-11-12",
+    "llm": "Claude",
+    "label": "Meilleurs dispositifs transition écologique",
+    "theme": "Transition eco",
+    "prompt": "Quels sont les meilleurs dispositifs pour un accompagnement à la transition écologique d'une entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Il n'y a pas un dispositif unique : les meilleurs choix dépendent de la taille de l'entreprise et de son niveau de maturité.\nRecherche sur le web effectuée\n\nRecherche sur le web effectuée\n\nIl n’y a pas un dispositif unique : les meilleurs choix dépendent de la taille de l’entreprise et de son niveau de maturité. Voici ce qui ressort pour le territoire, par étape.\n\n1. Démarrer :",
+    "cited_urls": [
+      "https://www.cciamp.com/sites/g/files/mwbcuj1081/files/2024-01/Parcours_Engage_RSE.pdf"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
