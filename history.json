@@ -3368,5 +3368,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-12",
+    "llm": "Perplexity",
+    "label": "Meilleurs dispositifs transition écologique",
+    "theme": "Transition eco",
+    "prompt": "Quels sont les meilleurs dispositifs pour un accompagnement à la transition écologique d'une entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Pour une entreprise de la Métropole Aix-Marseille-Provence, le meilleur point d’entrée est la CCIAMP, qui fédère diagnostics, accompagnement et orientation vers les financements. Complétez selon votre besoin prioritaire : énergie, carbone/adaptation climatique, déchets/économie circulaire, eau ou RSE.\ncciamp\n+2\n\nDispositifs à privilégier\nBesoin\tDispositif\tCe qu’il apporte\tCoût / financement\nFaire ",
+    "cited_urls": [
+      "http://www.cciamp.com/transition-ecologique-rse/decarbonation-climat"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
