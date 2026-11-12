@@ -3566,5 +3566,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-12",
+    "llm": "Gemini",
+    "label": "Formations intelligence artificielle",
+    "theme": "Transformation numérique",
+    "prompt": "Quelles sont les meilleures formations en intelligence artificielle sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Le territoire d’Aix-Marseille-Provence propose une offre riche et diversifiée de formations en intelligence artificielle (IA), allant de l'excellence académique universitaire aux grandes écoles de commerce et d'ingénieurs, sans oublier les cursus spécialisés en alternance et la formation continue pour les professionnels.   \nAlmera\n\nVoici un panorama des meilleures formations selon votre profil et ",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
