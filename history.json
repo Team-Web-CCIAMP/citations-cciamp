@@ -3406,5 +3406,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-12",
+    "llm": "Claude",
+    "label": "Accompagnement décarbonation industrie",
+    "theme": "Transition eco",
+    "prompt": "Quel accompagnement pour la décarbonation d'une industrie sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Il n'y a pas de guichet unique : l'accompagnement s'empile par étapes.\nMise en forme de la réponse en étapes\nMise en forme de la réponse en étapes\nRecherche sur le web effectuée\n\nRecherche sur le web effectuée\n\nIl n’y a pas de guichet unique : l’accompagnement s’empile par étapes. Le bon dispositif dépend surtout de la taille de l’entreprise, de l’assujettissement du site à l’E",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
