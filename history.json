@@ -3510,5 +3510,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-12",
+    "llm": "Claude",
+    "label": "Accompagnement transition numérique",
+    "theme": "Transformation numérique",
+    "prompt": "Quel accompagnement pour la transition numérique en entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Sur le territoire, l'accompagnement repose surtout sur un guichet régional (Move2Digital), complété par les CCI, la Région Sud, Bpifrance et France Num.\nRecherche sur le web effectuée\n\nRecherche sur le web effectuée\n\nSur le territoire, l’accompagnement repose surtout sur un guichet régional (Move2Digital), complété par les CCI, la Région Sud, Bpifrance et France Num.\n\nMove2Digi",
+    "cited_urls": [
+      "https://www.cciamp.com/sites/g/files/mwbcuj1081/files/2025-06/A4-Rapport-Activite-2024_CCIAMP_compressed.pdf"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
