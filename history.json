@@ -4022,5 +4022,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-16",
+    "llm": "Gemini",
+    "label": "Formations cybersécurité TPE",
+    "theme": "Transformation numérique",
+    "prompt": "Quelles sont les meilleures formations en cybersécurité pour les TPE sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire Aix-Marseille-Provence, plusieurs dispositifs et formations adaptés aux spécificités des TPE (qui disposent rarement d'un service informatique dédié) permettent de monter en compétences face aux cybermenaces.   \nCCI Aix Marseille Provence\n\nLes offres de formation se structurent principalement autour d'acteurs institutionnels et consulaires reconnus :\n\n1. La formation « Référent c",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
