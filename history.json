@@ -4272,5 +4272,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-16",
+    "llm": "Gemini",
+    "label": "Accompagnement développement commercial",
+    "theme": "Développer mon activité",
+    "prompt": "Quels sont les meilleurs accompagnements pour développer son activité commerciale sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Pour développer votre activité commerciale sur le territoire Aix-Marseille-Provence, plusieurs structures institutionnelles, réseaux consulaires et acteurs économiques locaux proposent des accompagnements sur mesure (stratégie commerciale, prospection, réseaux d'affaires, financement et implantation).\n\nVoici les principaux acteurs de référence pour vous accompagner :\n\nCCI Aix-Marseille-Provence (C",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
