@@ -3852,5 +3852,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-16",
+    "llm": "Perplexity",
+    "label": "Meilleurs organismes formalités entreprise",
+    "theme": "Formalités",
+    "prompt": "Quels sont les meilleurs organismes pour les formalités d'entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Pour les formalités d’entreprise dans l’agglomération Aix-Marseille-Provence, le choix dépend surtout de votre activité : le Guichet unique INPI est obligatoire en ligne, tandis que la CCIAMP et la CMA PACA sont les meilleurs accompagnateurs locaux selon que vous relevez du commerce/industrie ou de l’artisanat.\nformalites.entreprises.gouv\n+2\n\nLe point de passage obligatoire\n\nToute création, modifi",
+    "cited_urls": [
+      "http://www.cciamp.com/nos-solutions/simplifier-mes-formalites/creer-et-immatriculer-mon-entreprise"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
