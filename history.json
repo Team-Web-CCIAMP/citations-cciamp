@@ -4182,5 +4182,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-11-16",
+    "llm": "Gemini",
+    "label": "Recruter un alternant (local)",
+    "theme": "RH",
+    "prompt": "Comment recruter un alternant sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Pour recruter un alternant sur le territoire Aix-Marseille-Provence, il convient de combiner le ciblage des acteurs éducatifs locaux (très denses sur la métropole) avec les dispositifs de financement et d'accompagnement régionaux.\n\nVoici la marche à suivre étape par étape :\n\n1\nCadrer le besoin et le type de contrat\n\nDéfinissez les missions, le rythme souhaité (ex. : 3 jours entreprise / 2 jours éc",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
