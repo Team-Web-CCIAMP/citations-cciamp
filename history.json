@@ -4088,5 +4088,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-16",
+    "llm": "Claude",
+    "label": "Accompagnement transition numérique",
+    "theme": "Transformation numérique",
+    "prompt": "Quel accompagnement pour la transition numérique en entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Voici les principaux dispositifs que j'ai trouvés pour les entreprises du territoire.\nRecherche sur le web effectuée, a lu une page\n\nRecherche sur le web effectuée, a lu une page\n\nVoici les principaux dispositifs que j’ai trouvés pour les entreprises du territoire. Je n’ai pas retrouvé de page détaillée sur l’offre numérique actuelle de la CCIAMP, donc vérifiez les conditions e",
+    "cited_urls": [
+      "https://www.cciamp.com/sites/g/files/mwbcuj1081/files/2025-06/A4-Rapport-Activite-2024_CCIAMP_compressed.pdf"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
