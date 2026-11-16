@@ -4130,5 +4130,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-16",
+    "llm": "Gemini",
+    "label": "Formations intelligence artificielle",
+    "theme": "Transformation numérique",
+    "prompt": "Quelles sont les meilleures formations en intelligence artificielle sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Le territoire d'Aix-Marseille-Provence propose plusieurs structures spécialisées et organismes de formation pour se former à l'intelligence artificielle, adaptés à différents besoins (professionnels, entreprises ou reconversions).\n\nAI-X : Intelligence Artificielle à Aix en Provence\n5.0 stars rating\n5.0\n🏫 Centre de formation\nOpen\n· Closes 12:00 AM Mon\n\nAI-X : Intelligence Artificielle à Aix en Pro",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
