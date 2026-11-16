@@ -4338,5 +4338,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-16",
+    "llm": "Gemini",
+    "label": "Développer son réseau professionnel",
+    "theme": "Développer mon activité",
+    "prompt": "Comment développer son réseau professionnel en Provence ?",
+    "status": "ok",
+    "excerpt": "Pour développer efficacement son réseau professionnel en Provence, il est essentiel de miser sur la proximité géographique et les filières économiques locales très dynamiques (numérique, tourisme, transition énergétique, aéronautique, agroalimentaire, et cosmétique).\n\nVoici les leviers les plus pertinents pour bâtir et animer votre réseau dans la région (notamment autour d'Aix-Marseille, Toulon, A",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
