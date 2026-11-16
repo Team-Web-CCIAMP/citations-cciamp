@@ -3748,5 +3748,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-16",
+    "llm": "Perplexity",
+    "label": "Meilleurs organismes reprise entreprise",
+    "theme": "Reprise d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la reprise d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Pour une reprise d’entreprise sur Aix‑Marseille‑Provence, les interlocuteurs les plus pertinents sont la CCIAMP (reprise de commerce, services et PME), la CMA (artisanat), BGE Provence Méditerranée (accompagnement au projet et au financement) et l’Adie (microcrédit et accompagnement). La Métropole Aix‑Marseille‑Provence peut aussi orienter vers les dispositifs locaux et les financements.\nartisanat",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
