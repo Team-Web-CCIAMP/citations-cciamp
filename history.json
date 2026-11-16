@@ -3970,5 +3970,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-16",
+    "llm": "Gemini",
+    "label": "Accompagnement décarbonation industrie",
+    "theme": "Transition eco",
+    "prompt": "Quel accompagnement pour la décarbonation d'une industrie sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire Aix-Marseille-Provence, l'accompagnement à la décarbonation industrielle s'articule autour de trois niveaux : le diagnostic initial, le financement des études et investissements, et les dynamiques collectives territoriales (notamment autour du bassin Fos-Étang de Berre).   \nMétropole Aix-Marseille-Provence\n\n1. Diagnostic et premier accompagnement (PME / ETI)\n\nAvant d'engager des ",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
