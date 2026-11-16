@@ -3982,5 +3982,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-16",
+    "llm": "Perplexity",
+    "label": "Accompagnement décarbonation industrie",
+    "theme": "Transition eco",
+    "prompt": "Quel accompagnement pour la décarbonation d'une industrie sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Pour une industrie implantée sur le territoire Aix-Marseille-Provence, l’accompagnement le plus pertinent est un parcours combinant diagnostic carbone/énergie, mise en œuvre d’actions, financement des investissements et orientation vers les aides. Les portes d’entrée les plus adaptées sont la CCIAMP, le programme Territoires d’Industrie de la Métropole, et les dispositifs ADEME.\nampmetropole\n+2\n\nP",
+    "cited_urls": [
+      "https://www.cciamp.com/transition-ecologique-rse/decarbonation-climat"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
