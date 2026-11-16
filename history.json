@@ -3838,5 +3838,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-16",
+    "llm": "ChatGPT",
+    "label": "Meilleurs organismes formalités entreprise",
+    "theme": "Formalités",
+    "prompt": "Quels sont les meilleurs organismes pour les formalités d'entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire Aix-Marseille-Provence, les meilleurs organismes pour les formalités d'entreprise sont, selon moi, la CCI Aix-Marseille-Provence, la CMA Provence-Alpes-Côte d'Azur et l'INPI. Ils sont particulièrement pertinents pour les créations, immatriculations, modifications statutaires et cessations d'activité.\n\nIl faut toutefois distinguer les organismes qui accompagnent les démarches de c",
+    "cited_urls": [
+      "https://www.cciamp.com/formalites?utm_source=chatgpt.com"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
