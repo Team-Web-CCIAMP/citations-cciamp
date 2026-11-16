@@ -4350,5 +4350,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-16",
+    "llm": "Claude",
+    "label": "Développer son réseau professionnel",
+    "theme": "Développer mon activité",
+    "prompt": "Comment développer son réseau professionnel en Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Développer son réseau professionnel en Provence\nDécision sur l'usage de la mémoire pour la question\n\nDécision sur l'usage de la mémoire pour la question\nDévelopper son réseau professionnel en Provence\n\nLe tissu économique provençal est très relationnel : tout se joue beaucoup par la recommandation et la présence locale. Voici les leviers les plus efficaces.\n\n1. Les réseaux d’en",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
