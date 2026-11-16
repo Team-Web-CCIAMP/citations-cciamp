@@ -3942,5 +3942,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-16",
+    "llm": "Perplexity",
+    "label": "Meilleurs dispositifs transition écologique",
+    "theme": "Transition eco",
+    "prompt": "Quels sont les meilleurs dispositifs pour un accompagnement à la transition écologique d'une entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Pour une entreprise du territoire Aix-Marseille-Provence, les dispositifs les plus pertinents combinent un diagnostic initial, puis un accompagnement expert et enfin un financement des investissements. Le meilleur point d’entrée est généralement la CCI Aix-Marseille-Provence ou le Réseau Éco de la Métropole, qui orientent vers la bonne aide selon la taille, le secteur et la maturité du projet.\namp",
+    "cited_urls": [
+      "http://www.cciamp.com/transition-ecologique-rse/economie-circulaire-dechets"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
