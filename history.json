@@ -4232,5 +4232,17 @@
     "cited_urls": [],
     "domain_cited_as_source": false,
     "domain_mentioned_in_text": false
+  },
+  {
+    "date": "2026-11-16",
+    "llm": "Claude",
+    "label": "Diagnostic RH PME",
+    "theme": "RH",
+    "prompt": "Où faire un diagnostic RH pour ma PME sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Il n'y a pas de guichet unique : le bon point d'entrée dépend surtout de votre taille, de votre secteur et du financement que vous visez.\nRecherche sur le web effectuée\n\nRecherche sur le web effectuée\n\nIl n’y a pas de guichet unique : le bon point d’entrée dépend surtout de votre taille, de votre secteur et du financement que vous visez. Voici les pistes à examiner, de la plus ",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
