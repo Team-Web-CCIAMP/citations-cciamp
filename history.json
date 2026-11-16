@@ -3722,5 +3722,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-16",
+    "llm": "Claude",
+    "label": "Meilleurs organismes reprise entreprise",
+    "theme": "Reprise d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la reprise d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Le territoire a un écosystème assez dense, qui fonctionne en complémentarité.\nRecherche sur le web effectuée\n\nRecherche sur le web effectuée\n\nLe territoire a un écosystème assez dense, qui fonctionne en complémentarité. La Métropole finance 18 opérateurs de l’accompagnement et du financement, pour 956 000 euros en 2025. Le meilleur choix dépend de ce dont vous avez besoin : tro",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
