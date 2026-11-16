@@ -4034,5 +4034,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-16",
+    "llm": "Claude",
+    "label": "Formations cybersécurité TPE",
+    "theme": "Transformation numérique",
+    "prompt": "Quelles sont les meilleures formations en cybersécurité pour les TPE sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Je n'ai pas trouvé de classement indépendant de « meilleures » formations, donc voici plutôt les options sérieuses selon le besoin.\nRecherche sur le web effectuée, a lu une page\n\nRecherche sur le web effectuée, a lu une page\n\nJe n’ai pas trouvé de classement indépendant de « meilleures » formations, donc voici plutôt les options sérieuses selon le besoin.\n\nPour former un référe",
+    "cited_urls": [
+      "https://formationpro.cciamp.com/formations/digital-webmarketing/referent-cybersecurite-en-tpe-pme/?pdf=1"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
