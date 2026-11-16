@@ -4076,5 +4076,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-16",
+    "llm": "Gemini",
+    "label": "Accompagnement transition numérique",
+    "theme": "Transformation numérique",
+    "prompt": "Quel accompagnement pour la transition numérique en entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire Aix-Marseille-Provence, les entreprises (TPE, PME, artisans, commerçants) bénéficient d’un écosystème d’accompagnement riche et structuré, combinant des acteurs de proximité, des programmes régionaux et des dispositifs de financement.   \nLes-aides.fr\n\nLes principaux dispositifs et structures d'accompagnement mobilisables se décomposent ainsi :\n\n1. L’accompagnement de proximité : ",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
