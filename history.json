@@ -4170,5 +4170,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-16",
+    "llm": "Perplexity",
+    "label": "Formations intelligence artificielle",
+    "theme": "Transformation numérique",
+    "prompt": "Quelles sont les meilleures formations en intelligence artificielle sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Les meilleures options dépendent surtout de votre objectif : expertise technique poussée, reconversion rapide, ou usage professionnel de l’IA. Sur Aix-Marseille-Provence, les formations les plus solides sont celles d’Aix-Marseille Université pour l’IA/data science, l’ISEN Méditerranée pour le profil ingénieur, et 42 Marseille pour une formation pratique et gratuite en développement.\n\nFormations un",
+    "cited_urls": [],
+    "domain_cited_as_source": false,
+    "domain_mentioned_in_text": false
   }
 ]
