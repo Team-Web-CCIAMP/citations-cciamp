@@ -4194,5 +4194,17 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-16",
+    "llm": "Claude",
+    "label": "Recruter un alternant (local)",
+    "theme": "RH",
+    "prompt": "Comment recruter un alternant sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Voici la marche à suivre.\nRecherche sur le web effectuée\n\nRecherche sur le web effectuée\n\nVoici la marche à suivre.\n\n1. Définir le besoin\n\nChoisissez le type de contrat. Le contrat d’apprentissage mène à un diplôme, le contrat de professionnalisation à une qualification ou à une reconversion. \ncci-paris-idf\n\nListez les missions confiées et le niveau visé (BTS, licence, master…",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
