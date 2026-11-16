@@ -3866,5 +3866,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-16",
+    "llm": "Gemini",
+    "label": "Comment immatriculer une entreprise",
+    "theme": "Formalités",
+    "prompt": "Comment immatriculer une entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "En France — y compris sur le territoire de la Métropole Aix-Marseille-Provence — l'immatriculation d'une entreprise est entièrement dématérialisée et s'effectue obligatoirement en ligne via le Guichet unique des formalités des entreprises, géré par l'INPI.   \nGreffe du Tribunal de commerce d'Aix-en-Provence\n\nVoici la marche à suivre étape par étape ainsi que les relais locaux sur le territoire mét",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
