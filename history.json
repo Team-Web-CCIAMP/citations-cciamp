@@ -3786,5 +3786,19 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-16",
+    "llm": "Perplexity",
+    "label": "Meilleurs organismes transmission entreprise",
+    "theme": "Transmission d'entreprise",
+    "prompt": "Quels sont les meilleurs organismes pour accompagner la transmission d'entreprise sur le territoire Aix Marseille Provence",
+    "status": "ok",
+    "excerpt": "Pour une transmission d’entreprise sur Aix-Marseille-Provence, les organismes les plus pertinents sont la CCIAMP (accompagnement cédant/repreneur et mise en relation), Réseau Entreprendre Provence (mentorat de repreneur à fort potentiel), Bpifrance (financement et plateforme de cession), et la CMA pour les artisans/commerçants. Le choix dépend surtout de votre position : cédant, repreneur, ou beso",
+    "cited_urls": [
+      "http://www.cciamp.com/vos-besoins/reprendre-une-entreprise"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
