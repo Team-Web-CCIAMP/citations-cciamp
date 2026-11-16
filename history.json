@@ -3996,5 +3996,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-16",
+    "llm": "Claude",
+    "label": "Accompagnement décarbonation industrie",
+    "theme": "Transition eco",
+    "prompt": "Quel accompagnement pour la décarbonation d'une industrie sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : L'accompagnement dépend surtout de la taille et de la localisation du site.\nMise en forme de la réponse sur les aides décarbonation industrielle\nRecherche sur le web effectuée\n\nRecherche sur le web effectuée\n\nL’accompagnement dépend surtout de la taille et de la localisation du site. Voici les principaux leviers, du collectif territorial au financement de projet.\n\n1. Sites de l",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
