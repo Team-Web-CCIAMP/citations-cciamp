@@ -4244,5 +4244,19 @@
     "cited_urls": [],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-16",
+    "llm": "ChatGPT",
+    "label": "Diagnostic RH PME",
+    "theme": "RH",
+    "prompt": "Où faire un diagnostic RH pour ma PME sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Sur le territoire Aix-Marseille-Provence, plusieurs organismes peuvent réaliser un diagnostic RH de votre PME, gratuitement, avec une prise en charge financière ou dans le cadre d'une prestation privée.\n\nJe vous recommande de commencer par la CCI Aix-Marseille-Provence ou par votre OPCO, car vous pouvez bénéficier d'un diagnostic suivi d'un accompagnement concret, sans nécessairement engager un bu",
+    "cited_urls": [
+      "https://www.cciamp.com/produit/evaluez-vos-pratiques-rh-en-quelques-clics?utm_source=chatgpt.com"
+    ],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
