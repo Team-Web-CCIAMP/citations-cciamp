@@ -3918,5 +3918,17 @@
     ],
     "domain_cited_as_source": true,
     "domain_mentioned_in_text": true
+  },
+  {
+    "date": "2026-11-16",
+    "llm": "Claude",
+    "label": "Meilleurs dispositifs transition écologique",
+    "theme": "Transition eco",
+    "prompt": "Quels sont les meilleurs dispositifs pour un accompagnement à la transition écologique d'une entreprise sur le territoire Aix-Marseille-Provence ?",
+    "status": "ok",
+    "excerpt": "Claude a répondu : Voici les principaux dispositifs, classés par usage.\nRecherche sur le web effectuée\n\nRecherche sur le web effectuée\n\nVoici les principaux dispositifs, classés par usage. Je les ai vérifiés par recherche, mais plusieurs sources datent de 2023-2024. Les montants et les conditions sont donc à confirmer auprès des organismes.\n\n1. Diagnostics (Bpifrance / ADEME)\n\nDiag Eco-Flux : un ",
+    "cited_urls": [],
+    "domain_cited_as_source": true,
+    "domain_mentioned_in_text": true
   }
 ]
